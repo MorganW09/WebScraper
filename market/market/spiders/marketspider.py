@@ -15,7 +15,7 @@ class MarketSpider(Spider):
     allowed_domains = ["http://www.nasdaq.com/"]
     data_folder = str(expanduser("~")) + "/code/WebScraper/data/"
     data_file = "stockprices.csv"
-    csvHeader = ["Symbol", "Price", "Date", "Volume"]
+    csvHeader = ["Symbol", "Price", "Date", "Volume", "Rating", "RatingVoteCount", "OneYearEstimate"]
     dataList = []
     writtenHeader = False
 
@@ -39,28 +39,32 @@ class MarketSpider(Spider):
         price = hxs.xpath('//*[@id="qwidget_lastsale"]/text()').extract()
         stock = hxs.xpath('//*[@id="left-quotes-content"]/div[1]/span/a[3]/text()').extract()
         volume = hxs.xpath('//*[@id="quotes_content_left__Volume"]/text()').extract()
+        rating = hxs.xpath('//*[@id="quotes_content_left_OverallStockRating1_lblPercentage"]/text()').extract()
+        ratingVoteCount = hxs.xpath('//*[@id="quotes_content_left_OverallStockRating1_lblTotalRatingsCount"]/text()').extract()
+        oneYearEstimate = hxs.xpath('//*[@id="quotes_content_left__1YearTargetEstimate"]/text()').extract()
         writerList = []
 
         #stock
-        stock = stock[0].encode('ascii','ignore')
-        writerList.append(stock)
+        writerList.append(self.extractValue(stock, "NULL"))
 
         #price
-        if(len(price) > 0):
-            price = price[0].encode('ascii','ignore')
-        else:
-            price = "NULL"
-        writerList.append(price.replace("$", ""))
+        writerList.append(self.extractValue(price, "NULL"))
+
         #date
         millis = int(round(time.time() * 1000))
         writerList.append(millis)
 
         #volume
-        if(len(volume) > 0):
-            volume = volume[0].encode('ascii','ignore').replace(",","")
-        else:
-            volume = 0
-        writerList.append(volume)
+        writerList.append(self.extractValue(volume, 0))
+
+        #rating
+        writerList.append(self.extractValue(rating, "NULL"))
+
+        #ratingVoteCount
+        writerList.append(self.extractValue(ratingVoteCount, "NULL"))
+
+        #oneYearEstimate
+        writerList.append(self.extractValue(oneYearEstimate, "NULL"))
 
         self.appendCSV(writerList)
         #spider stuff
@@ -95,3 +99,10 @@ class MarketSpider(Spider):
                 stockwriter.writerow(self.csvHeader)
                 self.writtenHeader = True
             stockwriter.writerow(writeList)
+
+    def extractValue(self, value, default):
+        if(len(value) > 0):
+            value = value[0].encode('ascii', 'ignore')
+        else:
+            value = default
+        return value
