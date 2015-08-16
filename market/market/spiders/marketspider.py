@@ -76,8 +76,8 @@ class MarketSpider(Spider):
         beforeMarketCloses = utc.hour <= 21 and utc.minute <= 20
         afterMarketOpens = utc.hour >= 14 and utc.minute >= 10
         isMarketDay = utc.weekday() < 6 #0 is Monday, 6 is Sunday
-        if(True):
-        #if(isMarketDay and beforeMarketCloses and afterMarketOpens):
+        #if(True):
+        if(isMarketDay and beforeMarketCloses and afterMarketOpens):
             for url in self.start_urls:
                 yield self.make_requests_from_url(url)
 
