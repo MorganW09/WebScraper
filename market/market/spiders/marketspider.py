@@ -37,16 +37,21 @@ class MarketSpider(Spider):
         price = hxs.xpath('//*[@id="qwidget_lastsale"]/text()').extract()
         stock = hxs.xpath('//*[@id="left-quotes-content"]/div[1]/span/a[3]/text()').extract()
         volume = hxs.xpath('//*[@id="quotes_content_left__Volume"]/text()').extract()
-        volume = volume[0].encode('ascii','ignore').replace(",","")
-        #print (len(volume))
-        print (volume)
-        item = MarketItem()
-        item["stock"] = stock[0].encode('ascii','ignore')
+        #stock
+        stock = stock[0].encode('ascii','ignore')
+        #price
         if(len(price) > 0):
-            item["price"] = price[0].encode('ascii','ignore')
+            price = price[0].encode('ascii','ignore')
         else:
-            item["price"] = "NULL"
-        self.appendStock(item["stock"], item["price"], volume)
+            price = "NULL"
+        #volume
+        if(len(volume) > 0):
+            volume = volume[0].encode('ascii','ignore').replace(",","")
+        else:
+            volume = 0
+        self.appendStock(stock, price, volume)
+        #spider stuff
+        item = MarketSpider()
         yield item
 
     def start_requests(self):
