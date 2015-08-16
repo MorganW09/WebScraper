@@ -7,12 +7,13 @@ import unicodedata
 import csv
 import time
 from datetime import datetime
+from os.path import expanduser
 
 
 class MarketSpider(Spider):
     name = "MarketSpider"
     allowed_domains = ["http://www.nasdaq.com/"]
-    data_folder = "/home/morgan/code/WebScraper/data/"
+    data_folder = str(expanduser("~")) + "/code/WebScraper/data/"
     data_file = "stockprices.csv"
 
     def __init__(self, name=None, **kwargs):
@@ -53,7 +54,8 @@ class MarketSpider(Spider):
         beforeMarket = utc.hour <= 21 and utc.minute <= 20
         afterMarket = utc.hour >= 14 and utc.minute >= 10
         marketDay = utc.weekday() < 6 #0 is Monday, 6 is Sunday
-        if(marketDay and beforeMarket and afterMarket):
+        if(True):
+        #if(marketDay and beforeMarket and afterMarket):
             for url in self.start_urls:
                 yield self.make_requests_from_url(url)
 

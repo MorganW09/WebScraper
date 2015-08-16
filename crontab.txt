@@ -1,2 +1,2 @@
 #runScript that scraps market data every 5 minutes
-*/5 * * * * /home/morgan/code/WebScraper/runScript.sh
+*/5 * * * * ~/code/WebScraper/runScript.sh
