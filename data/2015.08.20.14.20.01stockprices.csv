@@ -1,0 +1,3078 @@
+Symbol,Price,Date,Volume,Rating,RatingVoteCount,OneYearEstimate
+FCTY,NULL,1440080402656,0,100% bullish,of 1 rating,$8.50
+TFSC,NULL,1440080402698,0,100% bearish,of 1 rating,N/A
+FCCY,NULL,1440080402724,0,100% bullish,of 1 rating,$13
+TFSCU,NULL,1440080402756,0,Not yet rated,NULL,N/A
+PIH,$7.423,1440080402778,200,100% bearish,of 1 rating,N/A
+TFSCR,NULL,1440080402808,0,Not yet rated,NULL,N/A
+FLWS,$9.62,1440080402830,"16,050",100% bullish,of 5 ratings,$15
+TFSCW,NULL,1440080402859,0,100% bearish,of 1 rating,N/A
+SRCE,$30,1440080403061,"1,929",100% bullish,of 3 ratings,$33
+UGLD,$9.6089,1440080403120,"69,193",100% bearish,of 1 rating,N/A
+DGLD,$78.872,1440080403153,"3,959",100% bullish,of 1 rating,N/A
+TWOU,$34.714,1440080403188,"63,945",50% bullish,of 2 ratings,$39
+JOBS,$26.59,1440080403225,"32,429",50% bullish,of 4 ratings,$36
+USLV,$15.2101,1440080403247,"78,192",86% bullish,of 7 ratings,N/A
+VNET,$20.02,1440080403269,"52,878",60% bullish,of 5 ratings,$29.50
+DSLV,$58.9799,1440080403308,"7,271",100% bearish,of 1 rating,N/A
+CAFD,$15.43,1440080403714,"19,986",Not yet rated,NULL,$25
+EGHT,$8.36,1440080403768,"49,929",82% bullish,of 17 ratings,$11
+AVHI,$14,1440080403795,"6,832",100% bearish,of 1 rating,$19
+SHLM,$35.62,1440080403818,"6,544",100% bearish,of 1 rating,$50
+ABY,$21.11,1440080403853,"16,918",100% bearish,of 2 ratings,$46
+ABGB,$4.0394,1440080403874,"28,105",67% bullish,of 3 ratings,$5.50
+SIXD,$2.21,1440080403905,"20,828",Not yet rated,NULL,N/A
+AAON,$22.48,1440080403961,"3,216",100% bearish,of 1 rating,$24
+ABAX,$47.7,1440080404099,"15,588",100% bearish,of 1 rating,$60
+ABEOW,NULL,1440080404133,0,100% bullish,of 1 rating,N/A
+ABEO,$5.27,1440080404163,"9,938",67% bullish,of 3 ratings,$15.50
+ABMD,$103.4,1440080404206,"32,909",75% bullish,of 4 ratings,$100.50
+ACTG,$8.79,1440080404246,"33,946",67% bullish,of 3 ratings,$18.50
+ACHC,$77.73,1440080404336,"51,933",50% bullish,of 2 ratings,$92
+AXAS,$1.64,1440080404366,"68,216",78% bullish,of 9 ratings,$3.50
+ACAD,$37.675,1440080404416,"85,628",80% bullish,of 20 ratings,$48
+XLRN,$30.48,1440080404729,"8,324",50% bullish,of 2 ratings,$57
+ACST,$0.3601,1440080404768,"7,400",100% bullish,of 2 ratings,N/A
+AXDX,$18.6,1440080404797,"16,376",100% bearish,of 1 rating,N/A
+ANCX,$19.07,1440080404830,"5,806",Not yet rated,NULL,$19
+ARAY,$5.902,1440080404864,"76,836",100% bearish,of 1 rating,$10.50
+ACET,$24.975,1440080404933,"23,926",75% bullish,of 4 ratings,$30
+VXUP,$17.72,1440080404962,"12,208",Not yet rated,NULL,N/A
+VXDN,$13.87,1440080404989,"1,015",Not yet rated,NULL,N/A
+AKAO,$6.9,1440080405164,"16,627",75% bullish,of 4 ratings,$15
+ACHN,$8.1601,1440080405238,"123,189",90% bullish,of 21 ratings,$16
+ACIW,$22.48,1440080405269,"32,523",50% bullish,of 2 ratings,$24
+ACRX,$4.24,1440080405295,"38,586",67% bearish,of 6 ratings,$5.50
+ACOR,$30.08,1440080405372,"31,370",67% bearish,of 3 ratings,$38.50
+ACNB,NULL,1440080405438,0,Not yet rated,NULL,N/A
+ACTS,$1.38,1440080405513,"3,300",100% bearish,of 1 rating,N/A
+ACPW,$1.8791,1440080405618,"2,279",100% bullish,of 4 ratings,$3.50
+ATVI,$28.13,1440080405683,"432,415",68% bullish,of 84 ratings,$31.50
+ACTA,$13.52,1440080405709,"18,715",67% bearish,of 3 ratings,$25
+ACUR,$0.618,1440080405737,500,100% bullish,of 5 ratings,$1
+ACXM,$20.48,1440080405770,"39,053",67% bullish,of 3 ratings,N/A
+ADMS,$19.925,1440080405870,"7,174",100% bearish,of 2 ratings,$36
+ADMP,$3.62,1440080405935,936,50% bullish,of 2 ratings,$10
+AEY,NULL,1440080406076,0,100% bearish,of 2 ratings,N/A
+ADUS,$29.23,1440080406104,"3,493",100% bearish,of 1 rating,$31
+ADAP,$14.9,1440080406142,"2,802",67% bullish,of 3 ratings,$22
+ADEP,$7.1,1440080406241,"5,284",50% bullish,of 2 ratings,$10.75
+ADMA,$9.6,1440080406273,100,Not yet rated,NULL,$19
+ADBE,$83.748,1440080406299,"141,075",65% bullish,of 17 ratings,$90
+ADTN,$15.6,1440080406374,"47,266",67% bullish,of 3 ratings,$17.125
+AEIS,$25.36,1440080406509,"13,611",50% bullish,of 2 ratings,$32.50
+AMD,$1.77,1440080406546,"1,140,630",83% bullish,of 102 ratings,$2
+ADRO,$20.895,1440080406639,"8,112",80% bullish,of 5 ratings,$45.50
+ADXSW,$10.01,1440080406667,"1,030",100% bullish,of 1 rating,N/A
+ADXS,$14.34,1440080406700,"134,393",64% bullish,of 14 ratings,$27
+YPRO,$23.24,1440080406726,200,100% bearish,of 1 rating,N/A
+MULT,NULL,1440080406797,0,100% bearish,of 1 rating,N/A
+AEGR,$17.76,1440080406903,"26,533",50% bullish,of 6 ratings,$26
+AEGN,$18.39,1440080406987,"6,078",100% bearish,of 1 rating,$21
+AEHR,$2.1364,1440080407119,"1,069",50% bullish,of 2 ratings,N/A
+AERI,$16.0051,1440080407156,"61,745",75% bullish,of 4 ratings,$31.50
+AEPI,$56.73,1440080407178,536,100% bearish,of 1 rating,N/A
+AMTX,$3.5499,1440080407246,115,50% bullish,of 2 ratings,$26.11
+AEZS,$0.1072,1440080407272,"1,776,562",90% bullish,of 21 ratings,$1.50
+AEMD,$7.05,1440080407341,300,Not yet rated,NULL,$27.50
+AVAV,$24.785,1440080407367,"22,351",50% bullish,of 4 ratings,$31
+AFFX,$9.555,1440080407416,"24,735",80% bullish,of 5 ratings,$12
+AFMD,$10.51,1440080407561,"42,593",50% bullish,of 4 ratings,$15
+AGEN,$7.36,1440080407593,"46,569",85% bullish,of 13 ratings,$14
+AGRX,$8.35,1440080407615,"7,028",100% bearish,of 1 rating,$17.50
+AGIO,$90.49,1440080407645,"30,048",88% bullish,of 8 ratings,$114
+AGYS,$9.39,1440080407693,"1,154",100% bearish,of 1 rating,N/A
+AGFS,$9.59,1440080407791,"17,005",100% bearish,of 1 rating,N/A
+AIMT,$21.82,1440080407924,"49,581",Not yet rated,NULL,N/A
+AIRM,$38.22,1440080407971,"13,406",80% bearish,of 5 ratings,$53
+AIRT,$22.7,1440080408053,251,100% bullish,of 1 rating,N/A
+AGFSW,$1.78,1440080408078,"4,445",100% bearish,of 2 ratings,N/A
+ATSG,$9.38,1440080408108,"11,022",67% bullish,of 3 ratings,$13
+AIXG,$6.24,1440080408237,"2,728",67% bearish,of 3 ratings,$6
+AMCN,$5.03,1440080408300,"50,495",83% bullish,of 6 ratings,N/A
+AKBA,$6.71,1440080408367,"25,650",100% bearish,of 1 rating,$18
+AKER,$2.94,1440080408499,144,Not yet rated,NULL,N/A
+ALRM,$16.59,1440080408528,"38,903",100% bearish,of 1 rating,$22
+AKAM,$70.888,1440080408551,"243,286",63% bullish,of 8 ratings,$77
+ALSK,$2.1217,1440080408581,"21,836",78% bullish,of 18 ratings,$2
+AKRX,$42.89,1440080408603,"41,915",78% bullish,of 9 ratings,$56
+AMRI,$20.21,1440080408798,"10,481",75% bearish,of 4 ratings,$24
+ADHD,$8.73,1440080408883,"13,269",50% bullish,of 4 ratings,$18
+ALDR,$37.92,1440080408941,"40,921",67% bearish,of 3 ratings,$62
+ABDC,$12.91,1440080408971,"2,911",Not yet rated,NULL,$15
+ALDX,$7.685,1440080409030,"5,400",100% bearish,of 1 rating,$14.50
+ALXN,$182.44,1440080409071,"84,992",88% bullish,of 8 ratings,$223
+ALXA,$1.09,1440080409140,"1,760",83% bullish,of 6 ratings,$2.125
+ALCO,$42.5,1440080409165,912,50% bullish,of 2 ratings,N/A
+ALIM,$3.43,1440080409362,"8,362",80% bullish,of 5 ratings,$10
+ALKS,$65.03,1440080409413,"64,915",67% bullish,of 3 ratings,$75
+ALGN,$58.83,1440080409459,"47,540",100% bearish,of 2 ratings,$73
+ALGT,$221.23,1440080409489,"9,532",100% bearish,of 1 rating,$235
+AFOP,$18.25,1440080409559,"18,988",75% bullish,of 8 ratings,$21
+AIQ,$14.71,1440080409625,225,67% bullish,of 3 ratings,N/A
+AHGP,$36.32,1440080409651,"8,072",67% bullish,of 3 ratings,N/A
+ALLB,$23.59,1440080409785,200,Not yet rated,NULL,N/A
+AHPI,NULL,1440080409879,0,50% bullish,of 2 ratings,N/A
+ARLP,$24.61,1440080409912,"20,036",67% bearish,of 3 ratings,$32
+AMOT,$16.75,1440080409946,"7,682",100% bearish,of 1 rating,N/A
+ALQA,$4.54,1440080410021,"2,134",75% bullish,of 4 ratings,$8.50
+MDRX,$13.945,1440080410103,"163,059",60% bullish,of 5 ratings,$16
+ALLT,$5.05,1440080410225,"9,097",75% bullish,of 4 ratings,$6.25
+AFAM,$47.96,1440080410257,"3,703",50% bullish,of 2 ratings,$44
+AOSL,$7.27,1440080410361,"9,779",67% bullish,of 3 ratings,$9
+ATEC,$0.59,1440080410397,"2,150",100% bullish,of 1 rating,$2
+ALTR,$49.28,1440080410418,"165,908",80% bearish,of 5 ratings,$54
+ALNY,$107.34,1440080410443,"117,006",67% bullish,of 3 ratings,$148.50
+SMCP,NULL,1440080410492,0,Not yet rated,NULL,N/A
+ASPS,$29.68,1440080410585,"9,352",67% bullish,of 3 ratings,$46.50
+AIMC,$25.63,1440080410825,759,100% bearish,of 1 rating,$28.50
+AMAG,$62.76,1440080410881,"28,415",100% bullish,of 2 ratings,$77.50
+AMRN,$2.1,1440080410907,"218,552",85% bullish,of 39 ratings,$8
+AYA,$22.12,1440080410959,"10,372",100% bearish,of 1 rating,$40
+AMRK,NULL,1440080410985,0,50% bullish,of 2 ratings,$14
+AMZN,$529.17,1440080411007,"483,913",81% bullish,of 263 ratings,$646
+AMBCW,NULL,1440080411164,0,100% bearish,of 1 rating,N/A
+AMBC,$15.81,1440080411238,"23,695",100% bearish,of 1 rating,$16.50
+AMBA,$101.33,1440080411268,"305,328",83% bullish,of 12 ratings,$102.50
+EPAX,$2.67,1440080411344,"2,513",100% bearish,of 1 rating,N/A
+DOX,$59.45,1440080411476,"33,430",100% bullish,of 2 ratings,$60
+AMDA,$0.4876,1440080411502,"396,880",90% bullish,of 10 ratings,$1
+AMCX,$70.855,1440080411530,"128,753",67% bullish,of 3 ratings,$85.50
+AMED,$42.035,1440080411563,"46,407",100% bearish,of 1 rating,$42
+UHAL,$375.154,1440080411666,"2,491",100% bullish,of 2 ratings,$393.50
+ASBI,$22.65,1440080411809,600,Not yet rated,NULL,N/A
+AAL,$42.7459,1440080411945,"863,545",93% bullish,of 87 ratings,$57
+ATAX,$5.25,1440080411980,"1,800",100% bullish,of 1 rating,$6.50
+AMOV,$18.39,1440080412002,100,100% bearish,of 1 rating,N/A
+AGNCB,$24.15,1440080412081,"1,400",Not yet rated,NULL,N/A
+AGNC,$20.04,1440080412134,"503,443",71% bullish,of 28 ratings,$22
+AGNCP,$25.432,1440080412160,"1,472",Not yet rated,NULL,N/A
+MTGE,$15.96,1440080412316,"25,031",75% bullish,of 4 ratings,$19.50
+ACSF,$12.76,1440080412415,"1,176",100% bearish,of 1 rating,$15
+MTGEP,NULL,1440080412544,0,Not yet rated,NULL,N/A
+ACAS,$14.295,1440080412712,"362,267",60% bullish,of 5 ratings,$16.75
+AMIC,NULL,1440080412743,0,Not yet rated,NULL,N/A
+AETI,NULL,1440080412769,0,67% bearish,of 3 ratings,N/A
+ANCI,NULL,1440080412798,0,100% bearish,of 1 rating,N/A
+AMNB,$22.89,1440080412902,144,Not yet rated,NULL,$25.50
+ARII,$39.18,1440080413035,"22,964",67% bearish,of 3 ratings,$45
+ANAT,$103.29,1440080413064,341,100% bullish,of 1 rating,N/A
+APEI,$21.58,1440080413110,"3,630",100% bearish,of 1 rating,$25.50
+ASEI,$39.2,1440080413264,"12,819",100% bearish,of 1 rating,$52.50
+AMRB,$10.002,1440080413344,583,Not yet rated,NULL,$11
+AMWD,$65.2,1440080413405,"25,169",50% bullish,of 2 ratings,$58
+AMSC,$3.7501,1440080413431,"7,542",50% bullish,of 4 ratings,N/A
+AMSWA,$9.24,1440080413458,833,100% bearish,of 2 ratings,$10.75
+CRMT,$43.23,1440080413592,740,100% bearish,of 1 rating,$49
+ABCB,$27.59,1440080413756,"7,738",Not yet rated,NULL,$31
+ATLO,$24.23,1440080414005,"1,272",Not yet rated,NULL,N/A
+ASRV,NULL,1440080414085,0,100% bullish,of 2 ratings,N/A
+AMSF,$50.405,1440080414147,"2,836",Not yet rated,NULL,$57.50
+AMKR,$4.3,1440080414175,"147,633",100% bearish,of 2 ratings,$5
+ASRVP,NULL,1440080414214,0,Not yet rated,NULL,N/A
+FOLD,$15.82,1440080414243,"109,748",56% bullish,of 9 ratings,$21
+AMPH,$14.32,1440080414306,"15,676",50% bullish,of 2 ratings,$20
+AMGN,$163.665,1440080414344,"332,745",89% bullish,of 19 ratings,$185
+AMSG,$83.26,1440080414615,"20,935",100% bearish,of 1 rating,$85.50
+AMSGP,NULL,1440080414743,0,Not yet rated,NULL,N/A
+ASYS,$5.64,1440080414810,"15,603",67% bullish,of 3 ratings,$12
+AFSI,$63.97,1440080414836,"61,127",60% bullish,of 5 ratings,$72
+AMRS,$1.621,1440080414864,"20,085",70% bullish,of 10 ratings,N/A
+ANAC,$130.4,1440080414890,"75,527",80% bullish,of 5 ratings,$180.50
+ANAD,$0.3799,1440080415000,"75,484",100% bullish,of 2 ratings,$.50
+ADI,$55.6106,1440080415027,"744,393",67% bullish,of 3 ratings,$69
+ALOG,$82.94,1440080415168,"11,048",100% bearish,of 2 ratings,$100.50
+ANCB,NULL,1440080415277,0,Not yet rated,NULL,$23
+ANGI,$4.35,1440080415312,"63,209",64% bullish,of 11 ratings,$5.50
+ABCW,$40.265,1440080415343,"3,157",67% bullish,of 3 ratings,N/A
+ANGO,$14.86,1440080415364,"3,413",67% bullish,of 3 ratings,$19
+AMCF,$0.299,1440080415386,84,100% bullish,of 7 ratings,N/A
+ANIP,$53.55,1440080415518,"10,013",89% bullish,of 19 ratings,$66
+ANIK,$35.018,1440080415544,"15,586",60% bullish,of 5 ratings,$51.25
+ANTH,$8.6747,1440080415843,"108,334",80% bullish,of 10 ratings,$13
+ANSS,$93.94,1440080415874,"58,245",100% bearish,of 1 rating,$100
+ATRS,$1.86,1440080415900,"45,709",92% bullish,of 12 ratings,$4.50
+APOL,$10.945,1440080415977,"162,937",87% bearish,of 68 ratings,$14
+ATNY,NULL,1440080416012,0,50% bullish,of 2 ratings,$3.75
+APOG,$52.76,1440080416041,"17,809",100% bullish,of 1 rating,$62
+APIC,$7.1294,1440080416108,"25,175",100% bearish,of 1 rating,$19
+ABAC,NULL,1440080416134,0,100% bearish,of 1 rating,N/A
+AAPL,$112.43,1440080416285,"7,953,390",86% bullish,of 2335 ratings,$150
+APPF,$17.38,1440080416527,"3,103",50% bullish,of 2 ratings,$22
+AINV,$6.515,1440080416719,"242,572",50% bullish,of 4 ratings,$8
+ARCI,$1.25,1440080416887,200,Not yet rated,NULL,N/A
+APDNW,NULL,1440080416916,0,Not yet rated,NULL,N/A
+APDN,$3.26,1440080416943,"6,502",Not yet rated,NULL,$9
+AGTC,$15.43,1440080417019,"35,279",50% bullish,of 2 ratings,$33
+AMAT,$16.255,1440080417074,"1,099,672",82% bullish,of 11 ratings,$23
+AAOI,$21.3,1440080417105,"14,275",50% bullish,of 4 ratings,$26
+AREX,$2.463,1440080417211,"60,758",100% bearish,of 1 rating,$3
+AMCC,$5.43,1440080417237,"44,956",80% bullish,of 5 ratings,$8
+APTO,$5.0997,1440080417465,"2,800",Not yet rated,NULL,$17
+APRI,$1.2399,1440080417496,"66,918",83% bullish,of 6 ratings,$4.86
+AQMS,$5.39,1440080417648,"1,285",Not yet rated,NULL,N/A
+AUMA,NULL,1440080417675,0,Not yet rated,NULL,N/A
+AQXP,$16.72,1440080417724,"123,837",50% bullish,of 2 ratings,$2
+AUMAU,NULL,1440080417751,0,Not yet rated,NULL,N/A
+AUMAW,NULL,1440080417906,0,Not yet rated,NULL,N/A
+ARDM,$7.37,1440080417969,"1,000",100% bullish,of 1 rating,$26
+ARCW,$3.56,1440080418102,595,100% bearish,of 2 ratings,$10.50
+ABUS,$7.67,1440080418137,"50,105",86% bullish,of 14 ratings,$23
+PETX,$17.27,1440080418161,"31,445",100% bearish,of 2 ratings,$26
+RKDA,$5.85,1440080418194,"1,003",100% bearish,of 2 ratings,$10
+ABIO,$0.871,1440080418232,"30,916",50% bullish,of 2 ratings,$3.75
+ACGL,$72.565,1440080418326,"24,890",50% bullish,of 2 ratings,$72
+ARCB,$31.09,1440080418352,"22,341",50% bullish,of 2 ratings,$39.50
+ACAT,$28.04,1440080418483,"12,364",100% bearish,of 3 ratings,$33
+ARNA,$2.955,1440080418642,"276,360",90% bullish,of 77 ratings,$5.50
+ARDX,$18,1440080418711,"7,811",50% bullish,of 2 ratings,$24.50
+ARCC,$15.83,1440080418843,"82,252",67% bearish,of 3 ratings,$17.875
+ARGS,$5.74,1440080418872,"39,024",50% bullish,of 2 ratings,$19.50
+AGIIL,$25.5,1440080418900,67,Not yet rated,NULL,N/A
+ARIS,$3.31,1440080419009,"2,325",Not yet rated,NULL,$4.50
+AGII,$58.24,1440080419047,"8,502",Not yet rated,NULL,$59.50
+ARIA,$7.07,1440080419142,"255,600",87% bullish,of 46 ratings,$9
+ARKR,NULL,1440080419197,0,50% bullish,of 2 ratings,N/A
+ARMH,$42.155,1440080419300,"347,002",54% bearish,of 13 ratings,$61
+ARTX,$1.54,1440080419328,"15,215",88% bullish,of 16 ratings,$4.50
+ARWA,NULL,1440080419358,0,Not yet rated,NULL,N/A
+ARWAR,NULL,1440080419457,0,Not yet rated,NULL,N/A
+ARWAU,NULL,1440080419504,0,100% bullish,of 1 rating,N/A
+ARWAW,NULL,1440080419586,0,Not yet rated,NULL,N/A
+ARQL,$1.672,1440080419662,"9,502",75% bullish,of 4 ratings,$5
+ARRY,$5.51,1440080419754,"112,966",100% bullish,of 7 ratings,$10
+ARRS,$27.385,1440080419797,"106,217",50% bullish,of 2 ratings,$38
+AROW,$27.21,1440080419898,510,Not yet rated,NULL,N/A
+DWAT,NULL,1440080419926,0,100% bearish,of 1 rating,N/A
+ARWR,$5.4862,1440080419990,"80,488",75% bullish,of 4 ratings,$10.50
+ARTNA,$22.315,1440080420072,"1,708",100% bearish,of 1 rating,$29
+ARTW,NULL,1440080420100,0,75% bearish,of 4 ratings,N/A
+ASBB,$23.72,1440080420121,305,Not yet rated,NULL,N/A
+ASNA,$11.755,1440080420253,"242,338",50% bullish,of 2 ratings,$18
+ASND,$17.54,1440080420287,"1,502",100% bullish,of 1 rating,$30
+ASCMA,$27.76,1440080420389,"8,070",100% bearish,of 1 rating,$45
+APWC,$2,1440080420530,600,100% bearish,of 1 rating,N/A
+ASMI,$36.54,1440080420599,100,50% bullish,of 2 ratings,N/A
+ASML,$88.96,1440080420666,"140,306",67% bullish,of 3 ratings,$127
+ASTI,$0.1301,1440080420700,"391,764",83% bullish,of 6 ratings,$3
+AZPN,$38.86,1440080420849,"53,949",50% bullish,of 2 ratings,$42
+ASTE,$36.93,1440080420890,"3,198",100% bearish,of 1 rating,$48
+ASFI,$9.02,1440080420985,610,100% bullish,of 1 rating,N/A
+ASMB,$13.36,1440080421016,"12,098",67% bullish,of 3 ratings,N/A
+ATRO,$54.86,1440080421149,"14,252",100% bearish,of 2 ratings,$80
+ASUR,$5.9,1440080421187,"1,958",100% bearish,of 1 rating,$8
+ASTC,NULL,1440080421254,0,100% bullish,of 5 ratings,N/A
+ALOT,$12.3001,1440080421281,300,100% bearish,of 1 rating,N/A
+ATAI,$3.01,1440080421333,"4,600",100% bearish,of 1 rating,N/A
+ATHN,$136.76,1440080421470,"4,418",67% bearish,of 3 ratings,$153
+ATRA,$45.59,1440080421500,"14,058",50% bullish,of 2 ratings,$68
+AFCB,NULL,1440080421597,0,Not yet rated,NULL,N/A
+AAPC,$10.2,1440080421701,170,Not yet rated,NULL,N/A
+AAME,$3.44,1440080421758,104,Not yet rated,NULL,N/A
+ACFC,$6.24,1440080421788,"12,252",Not yet rated,NULL,$6.50
+ATHX,$1.1701,1440080421809,"20,082",89% bullish,of 9 ratings,$5
+ATNI,$73.59,1440080421939,"4,519",100% bearish,of 1 rating,$69.50
+ATLC,$3.92,1440080421964,292,67% bullish,of 3 ratings,N/A
+AFH,$16.93,1440080422106,"2,420",Not yet rated,NULL,$21.50
+AAWW,$43.09,1440080422157,"83,706",50% bullish,of 2 ratings,$65
+ATML,$7.53,1440080422185,"494,778",78% bullish,of 9 ratings,$9.50
+ATOS,$0.88,1440080422250,"57,180",100% bullish,of 7 ratings,$7
+ATRC,$26.48,1440080422276,"13,993",100% bullish,of 1 rating,$30
+ATRI,$398.77,1440080422418,401,Not yet rated,NULL,N/A
+ATRM,$2.9,1440080422598,140,50% bullish,of 2 ratings,N/A
+LIFE,$14.56,1440080422658,"7,068",86% bullish,of 7 ratings,$43
+ATTU,$14.646,1440080422686,"3,610",100% bearish,of 1 rating,$20.50
+AUDC,$3.17,1440080422729,"18,703",80% bullish,of 5 ratings,$5
+AUPH,$3.39,1440080422819,"1,300",100% bearish,of 1 rating,$8
+AUBN,$27.21,1440080422910,100,Not yet rated,NULL,N/A
+ADAT,$0.1311,1440080422950,"45,169",100% bullish,of 2 ratings,N/A
+EARS,$5,1440080422982,500,100% bearish,of 2 ratings,$11.50
+ABTL,$18.88,1440080423089,"8,718",100% bullish,of 4 ratings,$20.25
+ADSK,$53.3,1440080423117,"153,180",83% bullish,of 6 ratings,$69.50
+ADP,$83.47,1440080423248,"221,867",100% bearish,of 1 rating,$88
+AVGO,$118.34,1440080423280,"354,324",88% bullish,of 8 ratings,$160
+AAVL,$10.59,1440080423310,"30,313",100% bearish,of 1 rating,$20
+AVNU,NULL,1440080423336,0,Not yet rated,NULL,$14
+AVEO,$1.44,1440080423414,"196,031",75% bullish,of 8 ratings,$3
+AVNW,$1.13,1440080423643,"2,616",50% bullish,of 2 ratings,$2.20
+AVID,$8.09,1440080423702,"19,212",100% bearish,of 1 rating,$20
+CAR,$45.13,1440080423730,"168,336",80% bullish,of 5 ratings,$60
+AVGR,$15.32,1440080423752,"8,510",100% bearish,of 1 rating,$20
+ACLS,$3.33,1440080423782,"132,211",67% bullish,of 6 ratings,$4.75
+AWRE,$3.23,1440080423915,"4,494",67% bullish,of 3 ratings,N/A
+AXPW,$1.18,1440080423945,"1,606",83% bullish,of 6 ratings,N/A
+AXPWW,NULL,1440080424050,0,Not yet rated,NULL,N/A
+AXTI,$2.15,1440080424094,"2,920",50% bullish,of 2 ratings,$2.75
+BCOM,NULL,1440080424180,0,100% bearish,of 1 rating,N/A
+RILY,$10,1440080424208,5,Not yet rated,NULL,N/A
+BOSC,$2.3599,1440080424229,200,50% bullish,of 2 ratings,N/A
+AXGN,$3.77,1440080424267,"2,250",Not yet rated,NULL,$5
+BEAV,$50.2,1440080424363,"46,185",67% bearish,of 3 ratings,$59
+BIDU,$158.9,1440080424424,"638,279",81% bullish,of 88 ratings,$215
+BANF,$62.28,1440080424654,306,Not yet rated,NULL,$68
+BWINB,$23.04,1440080424680,48,Not yet rated,NULL,N/A
+BCPC,$60.2,1440080424746,"2,713",100% bearish,of 1 rating,$75
+BWINA,NULL,1440080424810,0,Not yet rated,NULL,N/A
+BKMU,$7.2,1440080424861,"7,227",Not yet rated,NULL,$8
+BANFP,NULL,1440080424882,0,Not yet rated,NULL,N/A
+BOCH,$5.75,1440080424920,"3,635",Not yet rated,NULL,$6.50
+BLDP,$1.31,1440080425016,"74,448",91% bullish,of 22 ratings,$2.50
+BMRC,$48.59,1440080425095,"3,068",Not yet rated,NULL,$52
+BKSC,NULL,1440080425152,0,Not yet rated,NULL,N/A
+BOTJ,NULL,1440080425221,0,Not yet rated,NULL,N/A
+BFIN,$11.94,1440080425249,"1,906",Not yet rated,NULL,$13
+OZRK,$41.84,1440080425280,"18,785",67% bullish,of 3 ratings,$49.50
+BWFG,$18.25,1440080425445,"1,627",100% bearish,of 1 rating,N/A
+BANR,$45.66,1440080425594,"3,910",100% bullish,of 3 ratings,$50
+BZUN,$6.2624,1440080425693,"191,339",50% bullish,of 2 ratings,$13.85
+TAPR,NULL,1440080425723,0,100% bearish,of 1 rating,N/A
+BHAC,NULL,1440080425749,0,Not yet rated,NULL,N/A
+BHACW,NULL,1440080425828,0,Not yet rated,NULL,N/A
+BHACR,NULL,1440080425918,0,Not yet rated,NULL,N/A
+BHACU,$10.19,1440080426029,200,Not yet rated,NULL,N/A
+BBSI,$33.88,1440080426071,"12,559",67% bearish,of 3 ratings,$62.50
+BYBK,NULL,1440080426123,0,100% bearish,of 1 rating,N/A
+BYLK,$13.02,1440080426153,104,Not yet rated,NULL,$14
+BV,$5.15,1440080426184,"32,310",67% bullish,of 6 ratings,$9
+BSET,$30.754,1440080426211,"27,054",100% bearish,of 1 rating,$35
+BCBP,$11.68,1440080426343,400,Not yet rated,NULL,N/A
+BBCN,$15.17,1440080426476,"15,251",100% bearish,of 1 rating,$16
+BDCV,$5.08,1440080426608,772,100% bearish,of 1 rating,$10.19
+BSF,$8.9931,1440080426704,"1,062",Not yet rated,NULL,N/A
+BECN,$36.29,1440080426738,"28,298",50% bullish,of 2 ratings,$40
+BEBE,$1.82,1440080426805,"10,617",75% bullish,of 4 ratings,$3.075
+BELFA,NULL,1440080426836,0,100% bearish,of 1 rating,N/A
+BBBY,$62.97,1440080426864,"246,607",71% bullish,of 7 ratings,$75
+BBGI,NULL,1440080426909,0,100% bearish,of 1 rating,N/A
+BELFB,$19.8,1440080426937,"2,058",100% bearish,of 1 rating,N/A
+BLPH,$5.7458,1440080426997,"10,756",100% bearish,of 1 rating,$12.50
+BLCM,$18.19,1440080427146,"10,763",50% bullish,of 4 ratings,$40
+BNFT,$38.62,1440080427253,"10,989",67% bullish,of 3 ratings,$46
+BGMD,$0.8,1440080427283,"78,396",100% bullish,of 10 ratings,N/A
+BNTC,$8.36,1440080427304,"47,815",100% bullish,of 1 rating,N/A
+BNCL,$12.8,1440080427338,"35,925",100% bullish,of 3 ratings,$12.50
+BGCP,$9.289,1440080427435,"110,916",88% bullish,of 8 ratings,$14
+BGFV,$11.16,1440080427646,"10,372",57% bullish,of 7 ratings,$12
+BIND,$4.62,1440080427674,"10,802",67% bullish,of 3 ratings,$13.50
+BIOC,$2.044,1440080427720,"294,098",83% bullish,of 6 ratings,$3.85
+BASI,$1.31,1440080427750,"5,408",Not yet rated,NULL,N/A
+ORPN,$5.58,1440080427781,600,100% bullish,of 1 rating,$28.50
+BCDA,NULL,1440080427850,0,Not yet rated,NULL,N/A
+BCRX,$11.9,1440080427937,"44,687",63% bullish,of 8 ratings,$18
+BDSI,$6.52,1440080427963,"100,855",88% bullish,of 8 ratings,$17
+BIOD,$0.6601,1440080428095,"34,564",80% bullish,of 5 ratings,$4
+BIIB,$313.1551,1440080428221,"196,681",88% bullish,of 16 ratings,$400
+BIOL,$1.5401,1440080428252,"8,316",Not yet rated,NULL,N/A
+BLFS,$2.052,1440080428357,"8,500",100% bearish,of 1 rating,$4.75
+BLRX,$1.5199,1440080428533,"44,775",100% bullish,of 12 ratings,$5
+BMRN,$134.386,1440080428667,"75,416",80% bullish,of 5 ratings,$160
+BVXVW,$0.704,1440080428696,"2,000",100% bearish,of 1 rating,N/A
+BPTH,$1.15,1440080428726,"1,944",100% bullish,of 2 ratings,$5
+BIOS,$1.71,1440080428753,"223,153",71% bullish,of 7 ratings,$4
+BVXV,$4.0001,1440080428778,"4,100",Not yet rated,NULL,N/A
+BRLI,NULL,1440080428836,0,83% bullish,of 6 ratings,N/A
+BBP,$33.756,1440080428967,"3,266",Not yet rated,NULL,N/A
+BBC,$31.8,1440080428994,"2,652",Not yet rated,NULL,N/A
+BSTC,$51.52,1440080429151,"11,106",100% bearish,of 1 rating,$76
+BSPM,$0.76,1440080429203,"1,000",50% bullish,of 2 ratings,N/A
+BOTA,$2.29,1440080429234,"5,930",88% bullish,of 8 ratings,N/A
+TECH,$104.46,1440080429335,"5,994",100% bullish,of 1 rating,$117
+BEAT,$13.39,1440080429396,"126,379",67% bearish,of 3 ratings,$15
+BITI,$18.8,1440080429422,"7,875",100% bullish,of 1 rating,$28
+BDMS,NULL,1440080429451,0,100% bearish,of 1 rating,N/A
+BJRI,$46.87,1440080429586,"13,921",50% bullish,of 2 ratings,$55
+BBOX,$15.32,1440080429616,"3,163",100% bearish,of 1 rating,N/A
+BDE,$7.44,1440080429642,"12,444",50% bullish,of 2 ratings,$9
+BLKB,$60.78,1440080429671,"9,012",100% bearish,of 2 ratings,$66
+HAWK,$44.21,1440080429836,"62,777",90% bullish,of 10 ratings,$49
+BKCC,$9.2842,1440080429920,"31,393",100% bullish,of 2 ratings,$10
+BBRY,$7.33,1440080429969,"540,142",61% bullish,of 330 ratings,$9
+ADRA,$27.77,1440080430158,908,Not yet rated,NULL,N/A
+ADRD,$22.9633,1440080430224,946,100% bearish,of 1 rating,N/A
+ADRE,$30.46,1440080430289,"2,182",Not yet rated,NULL,N/A
+BLMN,$21.3,1440080430320,"64,710",83% bullish,of 6 ratings,$27.50
+BCOR,$13.57,1440080430350,"16,690",57% bullish,of 7 ratings,$15
+BUFF,$26.43,1440080430374,"28,449",83% bullish,of 12 ratings,$31.50
+BBLU,$0.87,1440080430406,"2,839",100% bullish,of 2 ratings,$4.43
+ADRU,NULL,1440080430438,0,100% bearish,of 1 rating,N/A
+BLBD,$11.95,1440080430543,"1,800",Not yet rated,NULL,N/A
+NILE,$34.73,1440080430698,"5,317",50% bullish,of 2 ratings,$34
+BKEP,$6.918,1440080430725,"6,491",100% bearish,of 1 rating,$8.50
+BLUE,$127.15,1440080430747,"132,276",71% bullish,of 7 ratings,$217.50
+BHBK,$14.2,1440080430777,"6,830",100% bullish,of 1 rating,$14.50
+BKEPP,$7.75,1440080430913,"9,900",100% bearish,of 1 rating,N/A
+BPMC,$26.98,1440080431058,"5,463",50% bullish,of 2 ratings,$47.50
+BNCN,$21.35,1440080431094,"2,771",Not yet rated,NULL,$23
+BOFI,$130.12,1440080431134,"23,764",100% bullish,of 6 ratings,$144
+WIFI,$8.35,1440080431189,"86,505",50% bullish,of 2 ratings,$13.50
+BOBE,$45.31,1440080431218,"6,204",75% bullish,of 4 ratings,$57
+BOKF,$63.47,1440080431247,"17,124",100% bearish,of 1 rating,$71
+BOJA,$21.09,1440080431287,"33,841",100% bullish,of 1 rating,$30
+BONA,$11.95,1440080431433,"23,700",75% bullish,of 4 ratings,$8.50
+BAMM,$3.1797,1440080431568,665,60% bullish,of 5 ratings,N/A
+BNSO,$1.4199,1440080431595,"1,002",100% bearish,of 1 rating,N/A
+BPFH,$12.29,1440080431652,"85,544",100% bearish,of 1 rating,$14
+BPFHW,NULL,1440080431800,0,100% bearish,of 1 rating,N/A
+BPFHP,NULL,1440080431832,0,100% bearish,of 1 rating,N/A
+EPAY,$26.06,1440080431863,"6,322",100% bearish,of 2 ratings,$30
+BDBD,$8.65,1440080431931,"59,734",60% bullish,of 5 ratings,$10
+BBEP,$2.4099,1440080431959,"471,805",69% bullish,of 13 ratings,$5.625
+BCLI,$3.14,1440080432008,"16,639",80% bullish,of 5 ratings,$12
+BBRG,$12.97,1440080432038,"4,402",67% bullish,of 3 ratings,$14.50
+BBEPP,$13.5577,1440080432094,"6,108",100% bearish,of 1 rating,N/A
+BDGE,$27.62,1440080432228,"1,275",Not yet rated,NULL,$31.75
+BLIN,$1.35,1440080432332,"10,477",50% bullish,of 2 ratings,$2.20
+BCOV,$5.34,1440080432358,"29,925",67% bullish,of 3 ratings,$10.20
+BRID,NULL,1440080432411,0,100% bearish,of 1 rating,N/A
+BRCM,$50.56,1440080432436,"488,572",75% bullish,of 12 ratings,$56
+BYFC,$1.49,1440080432642,"11,810",50% bullish,of 2 ratings,N/A
+BSFT,$32.27,1440080432694,"5,712",57% bullish,of 7 ratings,$40.50
+BVSN,$5.98,1440080432745,8,60% bearish,of 5 ratings,N/A
+BRKS,$10.385,1440080432825,"11,344",67% bullish,of 3 ratings,$15.25
+BRKL,$10.8399,1440080432856,"22,444",100% bearish,of 1 rating,$10.75
+BRCD,$9.97,1440080432880,"1,237,064",92% bullish,of 13 ratings,$12.50
+BWEN,$3.45,1440080432913,"7,311",100% bullish,of 3 ratings,$8
+BMTC,$29.41,1440080432945,"2,848",Not yet rated,NULL,$34
+BRKR,$19.96,1440080433049,"108,164",100% bearish,of 2 ratings,$22
+BLMT,$20.95,1440080433182,"2,442",Not yet rated,NULL,N/A
+BWLD,$194.815,1440080433316,"26,799",82% bullish,of 11 ratings,$205
+BLDR,$15.43,1440080433344,"185,155",50% bullish,of 2 ratings,$22
+BSQR,$6.553,1440080433376,"33,331",67% bullish,of 3 ratings,N/A
+BUR,NULL,1440080433477,0,100% bearish,of 1 rating,$8
+CFFI,NULL,1440080433514,0,100% bearish,of 1 rating,N/A
+CHRW,$69.66,1440080433540,"172,995",Not yet rated,NULL,$72
+CCMP,$44.53,1440080433566,"14,212",50% bullish,of 2 ratings,$59
+CA,$28.64,1440080433609,"185,682",50% bullish,of 4 ratings,$33
+CDNS,$20.9601,1440080433790,"147,895",75% bullish,of 4 ratings,$22.50
+CDZI,$7.44,1440080433844,"3,300",100% bearish,of 1 rating,N/A
+CZR,$6.78,1440080433875,"101,214",60% bearish,of 5 ratings,$10.50
+PRSS,$4.57,1440080433978,19,80% bullish,of 5 ratings,$4.50
+CSTE,$42.043,1440080434004,"176,557",100% bearish,of 1 rating,$65
+CACQ,$7.1,1440080434034,"5,891",100% bearish,of 1 rating,$12.25
+CLBS,$1.342,1440080434140,"24,764",79% bullish,of 14 ratings,$4
+CHI,$10.982,1440080434298,"27,960",100% bearish,of 1 rating,N/A
+CHY,$11.745,1440080434340,"50,873",Not yet rated,NULL,N/A
+CLMS,$11.71,1440080434366,"1,466",Not yet rated,NULL,$10.50
+CCD,$20.62,1440080434444,"12,749",Not yet rated,NULL,N/A
+CSQ,$10.36,1440080434498,"75,931",Not yet rated,NULL,N/A
+CGO,$12.41,1440080434527,"7,666",100% bearish,of 1 rating,N/A
+CFGE,NULL,1440080434558,0,Not yet rated,NULL,N/A
+CHW,$7.89,1440080434589,"50,717",100% bearish,of 1 rating,N/A
+CAMP,$16.24,1440080434718,"35,033",88% bullish,of 8 ratings,$25
+CVGW,$54.22,1440080434911,"31,623",50% bullish,of 2 ratings,$58.50
+CALA,$5.15,1440080434971,"53,906",100% bullish,of 3 ratings,$19.50
+CFNB,NULL,1440080434996,0,100% bearish,of 1 rating,N/A
+CALD,$15.81,1440080435127,"27,344",100% bearish,of 1 rating,$20.50
+CALM,$50.01,1440080435158,"55,175",80% bullish,of 5 ratings,$65
+ABCD,$4.755,1440080435258,"18,924",83% bullish,of 6 ratings,N/A
+CAMBW,NULL,1440080435288,0,Not yet rated,NULL,N/A
+CAMB,$9.95,1440080435323,400,Not yet rated,NULL,N/A
+CLMT,$26,1440080435346,"19,783",75% bullish,of 8 ratings,$31
+CAMBU,NULL,1440080435420,0,100% bearish,of 1 rating,N/A
+CAC,$40,1440080435450,477,Not yet rated,NULL,N/A
+CSIQ,$19.2,1440080435492,"880,579",86% bullish,of 28 ratings,$45
+CAMT,$2.9,1440080435583,"11,370",73% bullish,of 11 ratings,$4
+CGIX,$9.85,1440080435656,"10,590",67% bullish,of 3 ratings,$14.375
+CPHC,NULL,1440080435714,0,100% bearish,of 1 rating,N/A
+CBNJ,NULL,1440080435906,0,100% bullish,of 1 rating,N/A
+CBF,$29.99,1440080435967,"18,860",Not yet rated,NULL,$32
+CPLA,$48.25,1440080436044,"4,088",50% bullish,of 2 ratings,$65
+CPLP,$7,1440080436081,"91,221",71% bullish,of 7 ratings,$11
+CCBG,$15.09,1440080436142,"1,900",Not yet rated,NULL,$17.25
+CAPN,$2.3227,1440080436176,"66,734",100% bullish,of 1 rating,$10.85
+CFFN,$12.03,1440080436208,"57,609",Not yet rated,NULL,$12.75
+CSWC,$47.94,1440080436234,"3,599",Not yet rated,NULL,N/A
+CPTA,$14.6701,1440080436338,"9,280",Not yet rated,NULL,$18.50
+CAPNW,NULL,1440080436370,0,Not yet rated,NULL,N/A
+CAPR,$4.11,1440080436432,"5,780",Not yet rated,NULL,$12
+CPST,$0.3927,1440080436590,"105,156",95% bullish,of 22 ratings,$1
+CARA,$22.01,1440080436728,"24,655",50% bullish,of 4 ratings,$25
+CARB,$11.27,1440080436759,"17,791",75% bullish,of 4 ratings,$12
+CFNL,$22.68,1440080436805,"19,627",Not yet rated,NULL,$24
+CRME,$9.34,1440080436833,"1,402",89% bullish,of 9 ratings,$11.25
+CSII,$24.12,1440080436861,"20,892",100% bearish,of 2 ratings,$42.125
+CBYL,$6.7,1440080436896,"4,108",100% bearish,of 1 rating,$20
+CRDC,$0.4,1440080436924,"6,500",100% bullish,of 1 rating,$1.25
+CATM,$34.825,1440080437055,"27,304",100% bearish,of 1 rating,$44
+CDNA,$6.41,1440080437222,"1,600",100% bearish,of 1 rating,$9
+CECO,$3.64,1440080437276,"28,998",67% bearish,of 3 ratings,$6
+CLBH,NULL,1440080437302,0,Not yet rated,NULL,$16.50
+CTRE,$12.175,1440080437328,"57,965",50% bullish,of 2 ratings,N/A
+CKEC,$22.55,1440080437359,"9,410",50% bullish,of 2 ratings,$35.915
+CARO,$15.34,1440080437465,"6,922",100% bearish,of 1 rating,$19
+CRZO,$33.145,1440080437710,"63,084",67% bearish,of 3 ratings,$57
+CART,$5.454,1440080437742,"1,756",100% bearish,of 1 rating,N/A
+TAST,$12.5401,1440080437773,"32,777",Not yet rated,NULL,$14.25
+CARV,$6.04,1440080437813,317,50% bullish,of 2 ratings,N/A
+CRTN,$2.71,1440080437848,100,100% bearish,of 1 rating,N/A
+CSCD,$14.16,1440080437908,"19,095",100% bullish,of 2 ratings,$17
+CASM,$1.12,1440080437939,"35,900",100% bullish,of 1 rating,$3.50
+CACB,$5.5,1440080437970,"3,534",Not yet rated,NULL,$5.50
+CWST,$6.37,1440080438269,"6,101",50% bullish,of 2 ratings,$7
+CASY,$107.2,1440080438324,"20,975",50% bullish,of 2 ratings,$99.50
+CASS,$49.2932,1440080438426,808,100% bearish,of 1 rating,N/A
+CASI,$1.4802,1440080438452,"7,840",100% bullish,of 1 rating,$3.50
+CATB,$11.89,1440080438483,"1,908",100% bearish,of 1 rating,$28
+CATYW,NULL,1440080438617,0,100% bearish,of 1 rating,N/A
+CPRX,$3.87,1440080438675,"64,982",71% bullish,of 7 ratings,$7
+CATY,$30.94,1440080438703,"42,272",100% bearish,of 1 rating,$33.50
+CVCO,$73.7,1440080438744,"3,131",100% bearish,of 1 rating,N/A
+CAVM,$69.66,1440080438778,"45,689",67% bearish,of 3 ratings,$72
+CBFV,$20,1440080438836,700,Not yet rated,NULL,N/A
+CNLMR,NULL,1440080438868,0,Not yet rated,NULL,N/A
+CNLM,$9.98,1440080438999,200,Not yet rated,NULL,N/A
+CNLMW,NULL,1440080439031,0,Not yet rated,NULL,N/A
+CNLMU,NULL,1440080439056,0,100% bullish,of 1 rating,N/A
+CBOE,$63.08,1440080439255,"15,168",Not yet rated,NULL,$60
+CDW,$39.16,1440080439437,"57,926",75% bullish,of 4 ratings,$44
+CELGZ,$1.82,1440080439467,"3,600",80% bullish,of 5 ratings,N/A
+CELG,$127.5,1440080439501,"578,952",92% bullish,of 13 ratings,$155.50
+CDK,$48.84,1440080439528,"59,602",67% bearish,of 3 ratings,$50
+CLDN,$1.069,1440080439568,"20,018",71% bullish,of 7 ratings,$3
+CECE,$9.83,1440080439595,"50,735",50% bullish,of 2 ratings,$16
+CPXX,$2.2,1440080439621,"3,000",100% bullish,of 2 ratings,$7
+CLLS,$31.65,1440080439963,"15,181",75% bullish,of 4 ratings,$51.50
+CBMG,$22.86,1440080440016,"4,408",50% bullish,of 2 ratings,N/A
+CLDX,$14.66,1440080440050,"205,252",89% bullish,of 9 ratings,$36
+CLRB,NULL,1440080440072,0,100% bearish,of 1 rating,N/A
+CLRBW,NULL,1440080440104,0,Not yet rated,NULL,N/A
+CLSN,$2.062,1440080440147,"12,554",80% bullish,of 10 ratings,$7.50
+CLTX,$2.89,1440080440203,"2,865,394",100% bullish,of 2 ratings,N/A
+CYAD,$54.54,1440080440421,618,100% bullish,of 1 rating,$87.50
+CETV,$2.1,1440080440484,"14,497",67% bullish,of 3 ratings,$2.80
+CEMP,$37.125,1440080440521,"89,802",71% bullish,of 7 ratings,$52
+CETX,$2.51,1440080440547,"5,552",Not yet rated,NULL,$5.60
+CFBK,$1.372,1440080440620,100,Not yet rated,NULL,N/A
+CSFL,$13.96,1440080440648,"36,978",Not yet rated,NULL,$15
+CENT,$12.16,1440080440674,"8,163",Not yet rated,NULL,$10
+CVCY,NULL,1440080440821,0,Not yet rated,NULL,$12
+CENTA,$12.95,1440080440851,"9,233",Not yet rated,NULL,N/A
+CENX,$5.265,1440080440896,"318,735",67% bullish,of 6 ratings,$9
+CNTY,$6.26,1440080441041,"1,684",80% bullish,of 5 ratings,$7.75
+CRNT,$1.46,1440080441071,"6,250",50% bullish,of 2 ratings,$2
+CNBKA,$41.1,1440080441093,34,100% bullish,of 1 rating,N/A
+CPHD,$49.09,1440080441127,"28,590",50% bullish,of 2 ratings,$66.50
+CERE,$1.24,1440080441222,"94,491",88% bullish,of 8 ratings,N/A
+CERN,$64.01,1440080441263,"165,057",67% bullish,of 3 ratings,$79
+CERS,$4.97,1440080441398,"50,932",75% bullish,of 4 ratings,$7
+CERU,$3.32,1440080441430,"7,025",75% bullish,of 4 ratings,$15
+KOOL,$0.72,1440080441457,670,100% bullish,of 5 ratings,$7
+CEVA,$18.82,1440080441537,"1,834",100% bearish,of 1 rating,$25
+CYOU,$19.95,1440080441592,"64,442",50% bullish,of 6 ratings,$24
+HOTRW,$0.1984,1440080441618,"3,199",Not yet rated,NULL,N/A
+HOTR,$1.29,1440080441823,"98,653",100% bullish,of 2 ratings,$5
+CHTR,$185.07,1440080441850,"132,022",100% bearish,of 2 ratings,$196
+CTHR,$1.2601,1440080441878,"4,062",50% bullish,of 2 ratings,$2.50
+GTLS,$23.3363,1440080441926,"33,765",50% bullish,of 4 ratings,$40
+CHKP,$80.185,1440080442018,"109,083",50% bullish,of 4 ratings,$92
+CHFN,$12.42,1440080442044,"1,722",Not yet rated,NULL,$14
+CHEK,$3.08,1440080442073,38,Not yet rated,NULL,$7.75
+CHFC,$32.05,1440080442243,"6,051",100% bearish,of 1 rating,$36
+CHEKW,NULL,1440080442273,0,Not yet rated,NULL,N/A
+CEMI,$4.4,1440080442346,"5,118",50% bullish,of 2 ratings,$7.50
+CCXI,$6.974,1440080442371,"6,152",67% bullish,of 3 ratings,$14
+CHKE,$26.36,1440080442420,"2,151",100% bearish,of 1 rating,$32.50
+CHMG,$26.5,1440080442445,100,Not yet rated,NULL,$30
+CHMA,$27.25,1440080442626,"5,043",Not yet rated,NULL,$40
+CHEV,$14.67,1440080442654,400,Not yet rated,NULL,N/A
+CBNK,$16.52,1440080442683,100,100% bearish,of 1 rating,N/A
+CMRX,$50.16,1440080442938,"11,953",50% bullish,of 2 ratings,$57
+PLCE,$60.05,1440080443001,"57,226",100% bearish,of 1 rating,$71
+CALI,NULL,1440080443029,0,67% bullish,of 3 ratings,N/A
+CADC,NULL,1440080443082,0,78% bullish,of 9 ratings,N/A
+CBAK,$2.105,1440080443162,"31,426",67% bullish,of 9 ratings,N/A
+CAAS,$6.64,1440080443212,"2,099",93% bullish,of 14 ratings,$11.50
+CCCL,$0.9,1440080443238,"1,872",100% bullish,of 6 ratings,N/A
+CBPO,$107.9261,1440080443297,"29,787",75% bullish,of 8 ratings,$140.50
+CCCR,$0.8,1440080443367,500,67% bearish,of 3 ratings,N/A
+JRJC,$4.31,1440080443459,"7,101",82% bullish,of 11 ratings,N/A
+CHOP,NULL,1440080443568,0,50% bullish,of 2 ratings,N/A
+HGSH,NULL,1440080443599,0,67% bullish,of 3 ratings,N/A
+CHLN,$2.14,1440080443624,"10,466",67% bullish,of 3 ratings,N/A
+CNIT,$1.6572,1440080443700,"23,972",67% bullish,of 6 ratings,N/A
+HTHT,$25.98,1440080443767,"4,978",50% bullish,of 2 ratings,$28
+CJJD,$2,1440080443795,"3,708",100% bullish,of 1 rating,N/A
+CHNR,NULL,1440080443945,0,100% bearish,of 1 rating,N/A
+CREG,$0.795,1440080443976,"1,300",100% bullish,of 3 ratings,N/A
+CSUN,$1.46,1440080444037,"5,700",80% bullish,of 5 ratings,N/A
+CNTF,$0.9487,1440080444075,"6,500",Not yet rated,NULL,N/A
+CPGI,$6.7065,1440080444103,140,Not yet rated,NULL,N/A
+CXDC,$6.24,1440080444134,"6,102",67% bullish,of 3 ratings,N/A
+CNYD,NULL,1440080444282,0,67% bullish,of 3 ratings,N/A
+CCIH,$9.225,1440080444329,"16,273",67% bullish,of 6 ratings,$12.65
+CNET,$0.8475,1440080444361,"9,249",50% bullish,of 2 ratings,N/A
+IMOS,$15.41,1440080444459,"14,085",60% bullish,of 5 ratings,$21.50
+CHSCL,$26.99,1440080444496,"1,883",Not yet rated,NULL,N/A
+CHSCM,$26.2399,1440080444558,"3,042",Not yet rated,NULL,N/A
+CHSCN,NULL,1440080444626,0,Not yet rated,NULL,N/A
+CHSCO,NULL,1440080444708,0,Not yet rated,NULL,N/A
+CHDN,$134.62,1440080444836,"21,169",Not yet rated,NULL,$165
+CHSCP,$30.32,1440080444867,414,Not yet rated,NULL,N/A
+CHUY,$32.22,1440080444931,"19,713",50% bullish,of 2 ratings,$34
+CDTX,$13.87,1440080444966,"1,557",Not yet rated,NULL,$22
+CIFC,$7.09,1440080444993,260,Not yet rated,NULL,N/A
+CMPR,$70.01,1440080445128,"30,621",50% bullish,of 2 ratings,$72.50
+CMCT,NULL,1440080445156,0,100% bearish,of 1 rating,N/A
+CINF,$55.94,1440080445338,"25,160",50% bullish,of 4 ratings,$50.50
+CTAS,$87.14,1440080445372,"33,790",100% bearish,of 1 rating,$91
+CPHR,$6.48,1440080445428,"1,600",100% bearish,of 1 rating,$16
+CIDM,$0.65,1440080445450,100,50% bullish,of 2 ratings,$2.10
+CRUS,$28.71,1440080445471,"156,323",75% bullish,of 12 ratings,$44.50
+CSCO,$27.24,1440080445510,"3,571,506",84% bullish,of 208 ratings,$32
+CTRN,$27.71,1440080445602,"46,237",100% bearish,of 1 rating,$30.50
+CZWI,NULL,1440080445753,0,Not yet rated,NULL,N/A
+CZNC,$20,1440080445786,"4,752",Not yet rated,NULL,N/A
+CZFC,NULL,1440080445818,0,Not yet rated,NULL,N/A
+CTXS,$76.32,1440080445889,"93,866",86% bullish,of 7 ratings,$80
+CIZN,NULL,1440080445919,0,Not yet rated,NULL,N/A
+CHCO,$47.34,1440080445944,"4,985",Not yet rated,NULL,$46
+CIVB,$10.32,1440080446176,200,Not yet rated,NULL,$11
+CIVBP,NULL,1440080446204,0,Not yet rated,NULL,N/A
+CLNE,$4.1831,1440080446237,"142,789",80% bullish,of 15 ratings,$9
+CLRO,NULL,1440080446336,0,50% bullish,of 2 ratings,$14.25
+CLFD,$17.67,1440080446363,"18,289",67% bullish,of 3 ratings,$18
+CDTI,$1.6101,1440080446421,"14,330",75% bullish,of 4 ratings,$3.20
+CLNT,$1.9875,1440080446448,"3,854",75% bullish,of 8 ratings,N/A
+CBLI,$4.0299,1440080446577,"3,596",60% bullish,of 5 ratings,N/A
+CLIR,$5.3,1440080446683,"6,524",100% bullish,of 3 ratings,N/A
+CMFN,$11.77,1440080446720,"4,344",100% bearish,of 1 rating,$15.50
+CSBK,$13.79,1440080446751,"6,112",Not yet rated,NULL,N/A
+CLVS,$74.68,1440080446853,"33,923",60% bullish,of 5 ratings,$101.50
+CME,$95.8,1440080446934,"129,070",67% bullish,of 3 ratings,$102
+CCNE,$17.26,1440080446988,664,50% bullish,of 2 ratings,$21.50
+CISG,$8.45,1440080447029,"28,485",100% bullish,of 5 ratings,$10
+CWAY,$11.4,1440080447167,"1,400",Not yet rated,NULL,N/A
+CNV,$4.635,1440080447214,"16,211",50% bullish,of 2 ratings,$7.15
+CDRB,$12.02,1440080447314,"1,496",67% bullish,of 3 ratings,N/A
+COKE,$156.5808,1440080447350,"3,812",79% bullish,of 19 ratings,N/A
+COBZ,$13,1440080447378,"27,522",100% bullish,of 1 rating,$14
+JVA,$4.8,1440080447451,"1,146",83% bullish,of 6 ratings,$7
+CDXS,$3.99,1440080447479,"7,532",64% bullish,of 11 ratings,$6
+CVLY,NULL,1440080447629,0,Not yet rated,NULL,N/A
+CCOI,$28.63,1440080447655,"18,522",50% bullish,of 4 ratings,$35
+CGNT,$1.62,1440080447796,"2,752",100% bullish,of 2 ratings,$2
+CTSH,$65.56,1440080447822,"471,110",90% bullish,of 10 ratings,$74.50
+CGNX,$36.54,1440080447887,"44,104",50% bullish,of 2 ratings,$47
+COHR,$56.95,1440080447955,"11,366",50% bullish,of 2 ratings,$72
+CHRS,$29.4,1440080447988,"19,653",67% bearish,of 3 ratings,$37
+CLRX,$0.5098,1440080448086,"10,695",50% bullish,of 2 ratings,N/A
+COHU,$9.62,1440080448115,"5,633",100% bearish,of 1 rating,$14.25
+CBAN,NULL,1440080448245,0,Not yet rated,NULL,N/A
+COLL,$14.025,1440080448276,"6,366",100% bearish,of 1 rating,$26
+CIGI,$45.66,1440080448342,400,100% bearish,of 1 rating,$52
+CLCT,$19.091,1440080448412,"1,878",100% bearish,of 1 rating,N/A
+CLCD,$7.61,1440080448473,"5,060",100% bearish,of 1 rating,$20.50
+COLB,$32.31,1440080448554,"15,334",Not yet rated,NULL,$36
+COLM,$64.46,1440080448584,"12,798",100% bearish,of 1 rating,$71
+CMCO,$20.01,1440080448690,"122,493",60% bullish,of 5 ratings,$28
+CBMX,$1.16,1440080448798,"2,600",83% bullish,of 6 ratings,$3.15
+CMCSK,$59.09,1440080448863,"520,287",Not yet rated,NULL,$84
+CMCSA,$58.64,1440080448893,"1,850,051",66% bullish,of 35 ratings,$69.50
+CBSH,$46.18,1440080448915,"34,983",50% bullish,of 2 ratings,$46
+CUBN,NULL,1440080449047,0,Not yet rated,NULL,N/A
+CBSHP,$25.13,1440080449077,800,100% bearish,of 1 rating,N/A
+CVGI,$4.65,1440080449099,"8,834",50% bullish,of 2 ratings,$6
+COMM,$31.1,1440080449133,"61,449",67% bearish,of 3 ratings,$35
+JCS,$9.28,1440080449287,"1,600",67% bullish,of 3 ratings,N/A
+CSAL,$22.374,1440080449336,"56,703",75% bullish,of 4 ratings,$30
+ESXB,$5.1,1440080449363,"3,000",Not yet rated,NULL,N/A
+COB,$10.52,1440080449522,600,100% bullish,of 1 rating,$11.75
+CYHHZ,$0.012,1440080449609,450,100% bullish,of 1 rating,N/A
+CTBI,$34.69,1440080449656,"1,551",Not yet rated,NULL,$36
+CWBC,NULL,1440080449692,0,Not yet rated,NULL,N/A
+CIL,NULL,1440080449789,0,Not yet rated,NULL,N/A
+CIZ,$34.33,1440080449817,290,100% bearish,of 1 rating,N/A
+CVLT,$36.76,1440080449854,"13,825",75% bullish,of 4 ratings,$44.50
+CID,NULL,1440080449951,0,Not yet rated,NULL,N/A
+CSA,NULL,1440080449978,0,Not yet rated,NULL,N/A
+CDC,$36.137,1440080450237,442,Not yet rated,NULL,N/A
+CFA,$37.15,1440080450278,200,100% bearish,of 1 rating,N/A
+CSF,$38.02,1440080450311,175,100% bearish,of 1 rating,N/A
+CDL,NULL,1440080450343,0,Not yet rated,NULL,N/A
+CFO,$37.0271,1440080450414,"1,280",100% bearish,of 1 rating,N/A
+CSB,NULL,1440080450440,0,Not yet rated,NULL,N/A
+CGEN,$5.48,1440080450466,"14,888",50% bullish,of 2 ratings,$11
+CPSI,$45.26,1440080450652,"3,332",100% bearish,of 1 rating,$45.50
+CTG,$6.57,1440080450757,"2,235",100% bearish,of 1 rating,$8.50
+SCOR,$62.05,1440080450790,"49,798",100% bearish,of 1 rating,$66
+CNAT,$4.36,1440080450818,"5,046",83% bullish,of 6 ratings,$13
+CMTL,$26.86,1440080450839,"2,531",100% bearish,of 2 ratings,$37
+CNSI,$19.1,1440080450873,"5,548",100% bearish,of 2 ratings,$29
+CHCI,NULL,1440080450902,0,50% bullish,of 2 ratings,N/A
+CNCE,$15.86,1440080451037,"39,525",75% bullish,of 4 ratings,$22
+CXRX,$77.334,1440080451206,721,Not yet rated,NULL,$90
+CCUR,$5.21,1440080451232,"2,449",75% bullish,of 4 ratings,N/A
+CDOR,$1.45,1440080451260,"2,612",100% bullish,of 1 rating,N/A
+CDORO,NULL,1440080451287,0,100% bearish,of 1 rating,N/A
+CFMS,$22.03,1440080451421,"14,039",Not yet rated,NULL,$27
+CDORP,NULL,1440080451448,0,100% bearish,of 1 rating,N/A
+CNFR,$10.25,1440080451581,"5,460",Not yet rated,NULL,N/A
+CNMD,$55.92,1440080451616,"2,652",Not yet rated,NULL,$59
+CNXR,$6.205,1440080451672,"3,150",100% bearish,of 1 rating,$12
+CTWS,$34.95,1440080451718,"1,584",100% bearish,of 1 rating,$44
+CNOB,$19.88,1440080451748,"1,600",100% bullish,of 1 rating,$23.50
+CONN,$32.07,1440080451824,"25,684",67% bullish,of 3 ratings,$48.50
+CNSL,$20.01,1440080451879,"18,121",100% bearish,of 1 rating,$23
+CWCO,$11.5251,1440080451904,"13,560",67% bullish,of 3 ratings,$14.50
+CFRXW,NULL,1440080452240,0,100% bearish,of 1 rating,N/A
+CFRXZ,NULL,1440080452265,0,Not yet rated,NULL,N/A
+CPSS,$5.56,1440080452296,"2,160",100% bullish,of 1 rating,$10
+CTRV,$4.22,1440080452317,"4,264",Not yet rated,NULL,$6.40
+CFRX,$4.8439,1440080452360,"6,725",Not yet rated,NULL,$14
+CTCT,$24.24,1440080452467,"21,791",67% bullish,of 3 ratings,$37
+CRBP,$2.1988,1440080452496,"619,503",100% bullish,of 2 ratings,$6.25
+CPRT,$35.78,1440080452518,"28,235",67% bearish,of 3 ratings,$40
+CORT,$4.9899,1440080452695,"57,667",67% bullish,of 3 ratings,$12
+CTRL,$7.97,1440080452726,"23,294",50% bullish,of 2 ratings,$11
+CORE,$62.89,1440080452861,"5,324",100% bearish,of 1 rating,$72
+BVA,NULL,1440080452887,0,50% bullish,of 2 ratings,N/A
+CORI,$11.05,1440080452914,"4,221",100% bearish,of 1 rating,$18
+CSOD,$37.9025,1440080453047,"49,803",50% bullish,of 2 ratings,$42
+CRVL,$32.31,1440080453089,"2,083",100% bearish,of 1 rating,N/A
+COSI,$1.1475,1440080453115,"47,219",100% bullish,of 1 rating,N/A
+COST,$144.22,1440080453184,"180,187",83% bullish,of 24 ratings,$154.50
+ICBK,NULL,1440080453286,0,Not yet rated,NULL,$21
+CSGP,$190.06,1440080453312,"2,332",50% bullish,of 2 ratings,$235
+CPAH,NULL,1440080453359,0,50% bullish,of 2 ratings,N/A
+CVTI,$24.53,1440080453457,"12,165",67% bearish,of 3 ratings,$39
+COVS,$2.73,1440080453513,"4,338",67% bullish,of 3 ratings,N/A
+COWN,$5.325,1440080453694,"88,461",75% bullish,of 4 ratings,$7
+CPSH,$2.4,1440080453800,"2,700",Not yet rated,NULL,N/A
+COWNL,$27.02,1440080453831,300,Not yet rated,NULL,N/A
+CRAI,$22.4,1440080453861,"2,912",Not yet rated,NULL,$36
+CBRL,$148.985,1440080453883,"25,245",50% bullish,of 2 ratings,$155
+BREW,$7.75,1440080453912,"11,402",67% bullish,of 6 ratings,$15
+CRAY,$21.715,1440080453941,"14,177",83% bullish,of 6 ratings,$38.50
+GLDI,$11.03,1440080454106,28,100% bearish,of 1 rating,N/A
+CACC,$191.75,1440080454137,"8,400",50% bullish,of 2 ratings,$158.50
+SLVO,$10.501,1440080454243,"4,017",100% bearish,of 1 rating,N/A
+CREE,$26.61,1440080454272,"98,889",65% bullish,of 17 ratings,$28.50
+CRESY,$10.9,1440080454300,"66,755",100% bearish,of 1 rating,$19
+CRTO,$47.04,1440080454326,"42,944",67% bullish,of 6 ratings,$64
+CROX,$14.62,1440080454352,"78,726",63% bullish,of 8 ratings,$16.50
+CRWS,$8.05,1440080454674,100,Not yet rated,NULL,$10
+CCRN,$15.05,1440080454719,"53,454",100% bearish,of 1 rating,$14.25
+CRDS,$1.07,1440080454741,"2,600",50% bullish,of 4 ratings,$4.50
+CRWN,$4.655,1440080454807,"26,623",75% bullish,of 4 ratings,N/A
+CSGS,$31.69,1440080454840,"15,973",Not yet rated,NULL,$40
+CYRXW,$1,1440080454861,"6,000",Not yet rated,NULL,N/A
+CYRX,$3.13,1440080454891,"4,970",Not yet rated,NULL,$9
+CCLP,$14.81,1440080454918,"7,480",67% bearish,of 3 ratings,$21
+CTIC,$1.673,1440080455174,"467,925",84% bullish,of 76 ratings,$5.75
+CTCM,$1.72,1440080455208,"29,942",80% bearish,of 5 ratings,$3.90
+CTIB,$3.54,1440080455262,"2,475",100% bearish,of 1 rating,N/A
+CSPI,$6.3299,1440080455289,100,67% bullish,of 3 ratings,N/A
+CTRP,$65.84,1440080455344,"549,326",75% bullish,of 8 ratings,$92
+CUI,$5.42,1440080455424,"11,035",50% bullish,of 2 ratings,$10
+CUNB,$21.901,1440080455451,"2,308",Not yet rated,NULL,$24.50
+CPIX,$5.85,1440080455592,"1,400",Not yet rated,NULL,N/A
+CRIS,$2.62,1440080455619,"16,243",100% bullish,of 8 ratings,$6
+CMLS,$1.25,1440080455689,"67,239",50% bullish,of 4 ratings,$6
+CVBF,$16.87,1440080455755,"25,274",Not yet rated,NULL,$18
+CUTR,$14.72,1440080455784,"2,368",67% bearish,of 3 ratings,$18
+CVV,$12,1440080455811,"3,600",100% bullish,of 5 ratings,N/A
+CYAN,$7.64,1440080455944,202,100% bearish,of 1 rating,N/A
+CYBR,$59.2375,1440080456029,"338,572",86% bullish,of 7 ratings,$66
+CYBX,$65,1440080456059,"207,745",50% bullish,of 4 ratings,$70
+CYCC,$0.601,1440080456162,"15,778",73% bullish,of 11 ratings,N/A
+CBAY,$2.78,1440080456245,"6,516",100% bullish,of 1 rating,$4
+CYNO,$33.465,1440080456380,"26,766",67% bearish,of 3 ratings,$45.50
+CYCCP,NULL,1440080456408,0,100% bearish,of 1 rating,N/A
+CY,$9.7,1440080456438,"1,022,942",80% bullish,of 10 ratings,$15.50
+CYBE,$5.88,1440080456459,"3,275",100% bearish,of 1 rating,N/A
+CYNA,$15.9302,1440080456493,"3,568",100% bullish,of 1 rating,$31.50
+CONE,$33.54,1440080456627,"67,739",67% bearish,of 3 ratings,$35
+CYRN,$1.73,1440080456654,"17,091",67% bullish,of 3 ratings,$4
+CYTX,$0.4026,1440080456798,"180,450",83% bullish,of 12 ratings,$5.50
+CYTK,$6.46,1440080456825,"13,196",71% bullish,of 14 ratings,$13.50
+CTSO,$7.2,1440080456978,"14,495",Not yet rated,NULL,$15.625
+DAEG,NULL,1440080457003,0,100% bearish,of 1 rating,N/A
+CYTR,$2.29,1440080457030,"51,153",67% bullish,of 6 ratings,$10
+TVIZ,$13.6,1440080457161,200,100% bearish,of 1 rating,N/A
+XIV,$44.4699,1440080457197,"3,306,985",75% bearish,of 4 ratings,N/A
+ZIV,$48.32,1440080457224,"26,941",Not yet rated,NULL,N/A
+TVIX,$6.48,1440080457258,"2,861,890",81% bullish,of 16 ratings,N/A
+DAKT,$11.75,1440080457361,"10,968",50% bullish,of 2 ratings,$14
+DARA,$0.89,1440080457390,"12,222",83% bullish,of 6 ratings,$1.50
+DAIO,$2.65,1440080457464,"2,500",Not yet rated,NULL,N/A
+DJCO,$205.8,1440080457534,200,Not yet rated,NULL,N/A
+DRAM,NULL,1440080457675,0,78% bullish,of 9 ratings,N/A
+DTLK,$5.4,1440080457701,"26,733",100% bearish,of 1 rating,$9
+PLAY,$34.86,1440080457835,"44,206",100% bullish,of 5 ratings,$42
+DWCH,$5.41,1440080457863,"9,361",75% bullish,of 4 ratings,$8.25
+DTEA,$12.15,1440080457889,"2,574",100% bearish,of 2 ratings,$24
+DWSN,$4.425,1440080457915,"3,292",67% bullish,of 3 ratings,$6
+DBVT,$41.89,1440080457941,"6,058",100% bearish,of 1 rating,$53
+TRAK,$63,1440080458114,"263,918",50% bullish,of 2 ratings,$62.50
+DHRM,$1.84,1440080458139,100,Not yet rated,NULL,N/A
+DFRG,$15.02,1440080458214,"4,678",100% bearish,of 1 rating,$20
+TACOW,$4.5,1440080458286,400,100% bullish,of 1 rating,N/A
+TACO,$13.28,1440080458315,"14,068",100% bullish,of 3 ratings,$20
+DCTH,$0.4801,1440080458341,"23,599",78% bullish,of 9 ratings,N/A
+DGAS,$20.23,1440080458367,"6,958",67% bearish,of 3 ratings,N/A
+DELT,$2.7563,1440080458565,"2,893",Not yet rated,NULL,N/A
+DEPO,$30.9,1440080458669,"66,673",80% bullish,of 5 ratings,$29
+DENN,$12.27,1440080458708,"33,444",100% bullish,of 3 ratings,$15
+DELTW,NULL,1440080458741,0,Not yet rated,NULL,N/A
+DERM,$24,1440080458838,"15,658",100% bearish,of 1 rating,$33.50
+XRAY,$56.04,1440080458867,"28,953",100% bullish,of 1 rating,$58
+DSCI,$6.41,1440080458921,"2,746",50% bullish,of 2 ratings,$16
+DEST,$11.64,1440080458943,"4,148",50% bullish,of 2 ratings,N/A
+DSWL,NULL,1440080459144,0,100% bullish,of 1 rating,N/A
+DXLG,$4.7,1440080459204,"2,492",100% bearish,of 1 rating,$8
+DXCM,$92.42,1440080459247,"75,729",57% bullish,of 7 ratings,$98
+DHXM,NULL,1440080459272,0,Not yet rated,NULL,N/A
+DXM,$0.305,1440080459298,"8,001",50% bullish,of 2 ratings,N/A
+DMND,$31.25,1440080459430,"73,952",75% bullish,of 12 ratings,$32
+DHIL,$191.58,1440080459509,116,Not yet rated,NULL,N/A
+FANG,$70.4,1440080459565,"94,042",50% bullish,of 2 ratings,$86
+DRNA,$10.24,1440080459665,"15,242",67% bearish,of 3 ratings,$25
+DCIX,$1.8249,1440080459726,"5,871",50% bullish,of 4 ratings,$3.50
+DRAD,$3.98,1440080459758,70,100% bullish,of 1 rating,$5.25
+DGII,$10.1101,1440080459792,"4,200",100% bearish,of 1 rating,$10
+DMRC,$35.35,1440080459817,"4,610",100% bearish,of 1 rating,$44
+DGLY,$7.22,1440080459965,"23,219",50% bullish,of 6 ratings,$20
+APPS,$2.33,1440080460049,"2,224",100% bearish,of 1 rating,$10.25
+DCOM,$16.98,1440080460080,"6,146",100% bearish,of 2 ratings,$16.50
+DPRX,$11.89,1440080460185,"60,398",100% bullish,of 2 ratings,$27.75
+DISCK,$27.095,1440080460216,"392,143",100% bearish,of 1 rating,$32
+DIOD,$19.47,1440080460314,"6,342",75% bearish,of 4 ratings,$24
+DISCA,$28.2,1440080460344,"275,591",67% bullish,of 3 ratings,$34
+DISCB,$30.53,1440080460371,50,100% bearish,of 1 rating,$35
+DSCO,$0.4599,1440080460555,"28,301",83% bullish,of 6 ratings,$2.75
+DISH,$64.05,1440080460600,"108,686",69% bullish,of 13 ratings,$73
+BAGR,$3,1440080460648,904,100% bearish,of 1 rating,$6
+DVCR,$11.25,1440080460734,"6,349",100% bullish,of 1 rating,N/A
+DNBF,$26.579,1440080460781,236,Not yet rated,NULL,$27.50
+DLHC,$2.65,1440080460915,904,100% bearish,of 1 rating,N/A
+DLTR,$80.61,1440080460962,"254,862",82% bullish,of 11 ratings,$88
+DGICA,$14.35,1440080461092,"2,590",100% bearish,of 1 rating,$17
+DORM,$50.62,1440080461181,"7,902",100% bearish,of 1 rating,$56
+HILL,$9.675,1440080461208,"1,795,387",60% bearish,of 5 ratings,$9
+DGICB,NULL,1440080461246,0,100% bearish,of 1 rating,N/A
+DMLP,$13.9,1440080461272,"7,035",100% bearish,of 1 rating,N/A
+DRWI,$0.253,1440080461344,"106,759",60% bullish,of 5 ratings,$.45
+DWA,$18.5995,1440080461446,"44,792",63% bullish,of 8 ratings,$26
+DRWIW,$0.068,1440080461478,200,Not yet rated,NULL,N/A
+DRYS,$0.35,1440080461584,"304,854",77% bullish,of 31 ratings,$.60
+DSPG,$8.7,1440080461712,"5,395",100% bearish,of 1 rating,$13.50
+DSKX,$3.1301,1440080461752,"68,940",100% bullish,of 1 rating,N/A
+CADT,NULL,1440080461777,0,Not yet rated,NULL,N/A
+CADTR,NULL,1440080461815,0,Not yet rated,NULL,N/A
+CADTU,NULL,1440080461840,0,Not yet rated,NULL,N/A
+DTSI,$27.14,1440080462049,"8,197",100% bearish,of 2 ratings,$39.50
+CADTW,NULL,1440080462081,0,Not yet rated,NULL,N/A
+DNKN,$50.435,1440080462103,"261,501",67% bullish,of 15 ratings,$56.50
+DRRX,$2.02,1440080462182,"22,998",50% bullish,of 6 ratings,$3
+DYAX,$22.71,1440080462246,"20,042",89% bullish,of 9 ratings,$30
+DXPE,$28.46,1440080462317,"16,367",50% bullish,of 2 ratings,N/A
+BOOM,$10.25,1440080462345,"9,532",67% bullish,of 3 ratings,$12
+DYSL,$1.8452,1440080462477,"242,201",100% bullish,of 2 ratings,N/A
+DYNT,$2.99,1440080462521,39,75% bullish,of 4 ratings,N/A
+DVAX,$28.5,1440080462579,"40,773",70% bullish,of 10 ratings,$40
+ETFC,$26.86,1440080462618,"301,523",57% bullish,of 14 ratings,$33
+EGLE,$6.68,1440080462755,"4,200",60% bullish,of 5 ratings,N/A
+EGBN,$43.57,1440080462825,"10,091",Not yet rated,NULL,$48
+EBMT,$11.45,1440080462855,600,Not yet rated,NULL,$13.50
+EGRX,$67.11,1440080462888,"48,676",67% bullish,of 3 ratings,$97
+EROC,$1.2,1440080462920,"69,992",50% bullish,of 2 ratings,$3
+ELNK,$8.8951,1440080462991,"58,575",60% bullish,of 5 ratings,$9.50
+EWBC,$43.26,1440080463020,"130,236",100% bearish,of 1 rating,$50
+EACQU,$10.09,1440080463151,144,Not yet rated,NULL,N/A
+EML,$16.965,1440080463281,"2,300",Not yet rated,NULL,N/A
+EVBS,NULL,1440080463320,0,Not yet rated,NULL,$7
+EBAY,$26.98,1440080463347,"1,185,216",81% bullish,of 117 ratings,$48
+EBIX,$29.235,1440080463382,"21,670",69% bullish,of 13 ratings,$40
+ECTE,NULL,1440080463554,0,75% bullish,of 4 ratings,N/A
+ELON,$0.6,1440080463580,"2,748",50% bullish,of 2 ratings,N/A
+ECHO,$25.6,1440080463613,"13,009",67% bearish,of 3 ratings,$35.50
+SATS,$45.545,1440080463722,"18,703",50% bullish,of 2 ratings,$60
+ECACU,$10.05,1440080463783,"13,200",Not yet rated,NULL,N/A
+EEI,$11.29,1440080463857,800,67% bearish,of 3 ratings,N/A
+EDAP,$3.5,1440080463887,"11,988",60% bullish,of 5 ratings,$4.50
+ESES,$3.45,1440080463914,49,100% bearish,of 1 rating,$7
+EDGW,$7.15,1440080463961,"11,300",100% bearish,of 1 rating,N/A
+EDUC,$4.67,1440080464106,"5,866",100% bearish,of 1 rating,N/A
+EFUT,NULL,1440080464249,0,Not yet rated,NULL,N/A
+EGLT,$11.46,1440080464294,"17,291",50% bullish,of 2 ratings,$21
+EGAN,$3.57,1440080464322,200,50% bullish,of 2 ratings,$6.25
+LOCO,$12.55,1440080464347,"517,936",69% bullish,of 13 ratings,$20
+EHTH,$14.41,1440080464388,"14,662",50% bullish,of 4 ratings,$16.50
+ESLT,$80.65,1440080464524,"1,957",100% bullish,of 2 ratings,N/A
+EMITF,$1.2638,1440080464577,"2,954",75% bullish,of 4 ratings,N/A
+ERI,$9.62,1440080464707,"4,741",100% bearish,of 1 rating,$10
+ELRC,$10.26,1440080464736,"3,660",100% bearish,of 1 rating,N/A
+EFII,$44.54,1440080464763,"12,070",80% bullish,of 5 ratings,$55
+ESIO,$4.485,1440080464800,"19,429",50% bullish,of 2 ratings,$10
+ELSE,$4.09,1440080464895,1,60% bullish,of 5 ratings,N/A
+EA,$68.92,1440080464922,"556,461",77% bullish,of 35 ratings,$80
+ELEC,NULL,1440080465077,0,Not yet rated,NULL,N/A
+ELECU,NULL,1440080465119,0,Not yet rated,NULL,N/A
+ELECW,NULL,1440080465210,0,Not yet rated,NULL,N/A
+EBIO,$3.37,1440080465235,"176,666",100% bearish,of 2 ratings,$8.35
+CAPX,NULL,1440080465263,0,Not yet rated,NULL,N/A
+RDEN,$10.65,1440080465290,"10,726",100% bearish,of 4 ratings,$15
+ESBK,NULL,1440080465425,0,Not yet rated,NULL,N/A
+LONG,$17.05,1440080465451,"9,574",67% bullish,of 3 ratings,$15.75
+EMKR,$7.12,1440080465634,"6,591",75% bullish,of 4 ratings,$8.50
+EMCI,$23.61,1440080465666,300,Not yet rated,NULL,N/A
+EMMS,$1.33,1440080465711,"4,250",67% bullish,of 6 ratings,N/A
+ELTK,$1.09,1440080465743,"9,748",67% bearish,of 3 ratings,N/A
+EMCF,NULL,1440080465769,0,100% bearish,of 1 rating,N/A
+EMMSP,NULL,1440080465845,0,100% bearish,of 1 rating,N/A
+NYNY,$4.0299,1440080466024,"6,770",50% bullish,of 2 ratings,N/A
+ENTA,$40,1440080466060,"7,199",50% bullish,of 2 ratings,$42
+ECYT,$5.17,1440080466154,"26,765",83% bullish,of 6 ratings,$12
+WIRE,$32.93,1440080466183,"3,132",100% bearish,of 1 rating,$37
+ECPG,$38.94,1440080466212,"13,423",100% bullish,of 2 ratings,$52
+ERS,$2.82,1440080466237,"1,285",Not yet rated,NULL,N/A
+ENDP,$82.73,1440080466372,"71,380",50% bullish,of 6 ratings,$104
+ELGX,$13.06,1440080466436,"32,242",75% bullish,of 4 ratings,$17
+EIGI,$15.62,1440080466473,"44,443",67% bearish,of 3 ratings,$20
+WATT,$6.8,1440080466623,"13,781",50% bullish,of 2 ratings,$13
+EFOI,$16.8,1440080466651,"133,332",50% bullish,of 2 ratings,$20.50
+ERII,$2.8732,1440080466675,"4,900",80% bullish,of 5 ratings,$2.50
+EXXI,$1.615,1440080466697,"189,384",86% bullish,of 7 ratings,$3.50
+ENOC,$8.09,1440080466830,"31,340",75% bullish,of 4 ratings,$18
+ENPH,$4.76,1440080466904,"63,243",75% bullish,of 4 ratings,$11
+ENG,$1,1440080467034,"10,900",100% bullish,of 3 ratings,N/A
+ENTG,$14.09,1440080467064,"18,389",100% bearish,of 1 rating,$18
+ESGR,$150.435,1440080467093,"2,461",100% bearish,of 1 rating,$185
+ENFC,NULL,1440080467163,0,Not yet rated,NULL,N/A
+ENTL,$21.845,1440080467249,"1,600",Not yet rated,NULL,$28
+ETRM,$0.2458,1440080467274,"72,829",69% bearish,of 35 ratings,$1.625
+EBTC,$20.62,1440080467462,640,Not yet rated,NULL,N/A
+EGT,NULL,1440080467550,0,100% bullish,of 1 rating,N/A
+ENVI,$1.7694,1440080467582,614,67% bullish,of 3 ratings,N/A
+ENZN,$1.08,1440080467610,"124,737",100% bullish,of 9 ratings,N/A
+EFSC,$24.665,1440080467682,"4,500",Not yet rated,NULL,$27
+ENZY,$9.06,1440080467829,"2,076",67% bullish,of 3 ratings,$9.50
+EPIQ,$13.88,1440080467860,"16,529",100% bearish,of 1 rating,$18
+EPRS,$4.9,1440080467960,"19,380",82% bullish,of 11 ratings,$15
+PLUS,$79.39,1440080468021,"32,420",50% bullish,of 2 ratings,$88
+EQIX,$281.24,1440080468096,"25,518",67% bullish,of 3 ratings,$312.50
+EQFN,$8.3001,1440080468127,400,Not yet rated,NULL,N/A
+EAC,$3.67,1440080468148,700,100% bearish,of 1 rating,$8
+EPZM,$16.83,1440080468177,"20,059",60% bullish,of 5 ratings,$34
+ERIC,$9.99,1440080468389,"179,900",63% bullish,of 8 ratings,$13.30
+ESCA,$18.29,1440080468436,"2,004",100% bearish,of 1 rating,$22
+ESCR,$0.2189,1440080468539,"6,700",50% bullish,of 2 ratings,N/A
+ERIE,$86.4255,1440080468561,"1,501",Not yet rated,NULL,$73
+ESCRP,NULL,1440080468595,0,100% bearish,of 1 rating,N/A
+ESMC,$1.3,1440080468642,1,Not yet rated,NULL,N/A
+ESPR,$56,1440080468690,"258,836",67% bearish,of 9 ratings,$123
+ESND,$35.94,1440080468826,"4,998",50% bullish,of 2 ratings,$40
+ESSA,$12.9,1440080468883,"1,295",100% bearish,of 1 rating,N/A
+EPIX,NULL,1440080468960,0,Not yet rated,NULL,N/A
+ETSY,$14.44,1440080468990,"152,652",80% bullish,of 5 ratings,$16
+CLWT,NULL,1440080469013,0,100% bearish,of 1 rating,N/A
+ESSX,$0.4985,1440080469043,"14,400",50% bullish,of 2 ratings,N/A
+EEFT,$68.04,1440080469188,"17,552",100% bearish,of 1 rating,$67.50
+EVEP,$8.117,1440080469295,"84,432",50% bullish,of 2 ratings,$15
+EVOK,$4.25,1440080469424,"96,978",100% bearish,of 1 rating,$13.75
+EVK,$3.9,1440080469456,112,75% bearish,of 4 ratings,N/A
+EVLV,$2.25,1440080469482,"14,221",60% bullish,of 5 ratings,$6.50
+ESEA,$6.13,1440080469554,300,100% bullish,of 1 rating,$15
+EXA,$10.615,1440080469626,"1,822",100% bearish,of 1 rating,$13
+EXAS,$22.17,1440080469651,"75,569",78% bullish,of 9 ratings,$31
+EVOL,$6.2,1440080469808,"2,887",75% bullish,of 4 ratings,$10
+EXEL,$5.5737,1440080469843,"384,355",81% bullish,of 16 ratings,$6
+EXAC,$18.36,1440080469865,"1,773",100% bearish,of 1 rating,$22.50
+EXFO,$2.76,1440080469898,100,67% bearish,of 3 ratings,$3.95
+EXPE,$120.74,1440080469936,"102,531",64% bullish,of 11 ratings,$130
+EXPD,$49.84,1440080470032,"278,890",80% bullish,of 5 ratings,$50.50
+EXLS,$36.3,1440080470075,"15,713",100% bullish,of 1 rating,$41
+EXPO,$42.93,1440080470166,"2,540",100% bearish,of 1 rating,$45.50
+ESRX,$89.215,1440080470310,"467,340",67% bearish,of 6 ratings,$101
+EXTR,$2.96,1440080470445,"88,716",80% bullish,of 5 ratings,$3
+EYEG,$4.1608,1440080470481,"5,026",Not yet rated,NULL,N/A
+EYEGW,NULL,1440080470502,0,Not yet rated,NULL,N/A
+EXLP,$20.088,1440080470580,"9,814",100% bearish,of 1 rating,$27
+EZPW,$6.1,1440080470610,"18,464",50% bullish,of 4 ratings,$7.50
+FFIV,$128.5201,1440080470644,"71,643",71% bullish,of 7 ratings,$132
+EZCH,$21.3901,1440080470665,"16,885",75% bullish,of 8 ratings,$19.50
+FB,$92.89,1440080470753,"5,163,584",73% bullish,of 1065 ratings,$111
+FWM,$2.25,1440080470971,"15,248",100% bearish,of 2 ratings,$3.20
+FRP,$17.1,1440080471000,"3,050",100% bearish,of 1 rating,$18
+DAVE,$13.85,1440080471048,"4,187",100% bearish,of 1 rating,$15.50
+FCS,$13.72,1440080471101,"54,603",67% bearish,of 3 ratings,$17
+FALC,$1.61,1440080471148,"3,882",63% bearish,of 8 ratings,N/A
+FARM,$22.39,1440080471196,"2,814",100% bearish,of 1 rating,$35
+FMNB,$8.07,1440080471344,346,Not yet rated,NULL,N/A
+FARO,$39.35,1440080471416,"4,270",50% bullish,of 2 ratings,$48
+FFKT,$26.92,1440080471445,878,Not yet rated,NULL,$29
+FAST,$39.935,1440080471479,"130,788",80% bullish,of 5 ratings,$46
+FBSS,NULL,1440080471581,0,Not yet rated,NULL,N/A
+FDML,$9.28,1440080471613,"32,031",50% bullish,of 4 ratings,$14
+FATE,$6.56,1440080471640,"24,446",50% bullish,of 2 ratings,$11
+FBRC,$22.29,1440080471662,"1,116",100% bearish,of 1 rating,$29
+FEIC,$80.42,1440080471871,"30,968",50% bullish,of 2 ratings,$95.50
+FNHC,$23.02,1440080471916,"10,716",100% bearish,of 1 rating,$35
+FENX,$9.75,1440080472015,"4,055",100% bullish,of 1 rating,$14.25
+FCSC,$5.88,1440080472041,"24,227",100% bearish,of 1 rating,$8.125
+FHCO,$1.401,1440080472089,"7,900",50% bullish,of 4 ratings,N/A
+FGEN,$25.11,1440080472171,"20,278",100% bearish,of 1 rating,$39
+ONEQ,$194.6799,1440080472231,"4,555",100% bullish,of 1 rating,N/A
+LION,$19.48,1440080472309,"9,256",100% bullish,of 1 rating,$20
+FSC,$6.535,1440080472336,"162,646",75% bullish,of 4 ratings,$8
+FDUS,$14.9525,1440080472412,"3,918",100% bullish,of 1 rating,$18
+FRGI,$53.29,1440080472478,"18,603",50% bullish,of 2 ratings,$70
+FSAM,$8.82,1440080472554,732,100% bearish,of 1 rating,$11
+FITB,$20.52,1440080472618,"657,794",54% bullish,of 13 ratings,$22
+FSFR,$9.1,1440080472657,"8,540",100% bearish,of 1 rating,$11.50
+FSCFL,$24.94,1440080472717,"2,375",Not yet rated,NULL,N/A
+FITBI,$27.84,1440080472742,992,Not yet rated,NULL,N/A
+FNGN,$35.11,1440080473134,"35,066",67% bullish,of 3 ratings,$47
+FNSR,$16.39,1440080473197,"155,957",71% bullish,of 7 ratings,$24.50
+FNTCU,NULL,1440080473230,0,Not yet rated,NULL,N/A
+FISI,$24.6,1440080473260,"20,410",100% bullish,of 2 ratings,$24.50
+FNTC,$9.82,1440080473290,100,Not yet rated,NULL,N/A
+FNTCW,NULL,1440080473334,0,Not yet rated,NULL,N/A
+FNJN,$1.695,1440080473363,"4,950",100% bearish,of 1 rating,$5
+FEYE,$42.19,1440080473593,"529,734",87% bullish,of 15 ratings,$55.50
+FBNC,$16.89,1440080473697,"12,792",100% bullish,of 1 rating,$20
+FRBA,NULL,1440080473727,0,Not yet rated,NULL,$8
+FNLC,$18.8,1440080473828,910,100% bullish,of 1 rating,N/A
+FBIZ,$44.05,1440080473898,400,100% bearish,of 2 ratings,$52
+FCVA,$4.78,1440080473974,600,Not yet rated,NULL,N/A
+FCAP,NULL,1440080474106,0,Not yet rated,NULL,N/A
+FCFS,$38.61,1440080474141,"7,874",100% bearish,of 2 ratings,$48
+FCNCA,$243.46,1440080474207,224,Not yet rated,NULL,N/A
+FCLF,NULL,1440080474242,0,Not yet rated,NULL,N/A
+FCCO,$11.9,1440080474303,836,Not yet rated,NULL,$13.25
+FCBC,$17.61,1440080474405,"1,092",Not yet rated,NULL,$18
+FCFP,NULL,1440080474430,0,Not yet rated,NULL,N/A
+FBNK,$16.44,1440080474463,280,100% bearish,of 1 rating,$17.50
+FDEF,$37.4575,1440080474563,"2,503",Not yet rated,NULL,$38
+BUSE,$6.33,1440080474693,"16,607",Not yet rated,NULL,$6.875
+FFNM,$6.42,1440080474723,100,Not yet rated,NULL,N/A
+FFBC,$19.09,1440080474823,"11,724",67% bearish,of 3 ratings,$20.25
+FFIN,$31.4,1440080474862,"10,970",50% bullish,of 2 ratings,$31.75
+FFBCW,NULL,1440080474891,0,100% bearish,of 1 rating,N/A
+FFNW,$12.52,1440080474957,"2,422",Not yet rated,NULL,$14
+THFF,$33.31,1440080474984,"2,216",Not yet rated,NULL,$35
+FFWM,$21,1440080475124,500,Not yet rated,NULL,$24
+INBK,$32.634,1440080475229,"1,258",50% bullish,of 2 ratings,$37
+FRME,$25.75,1440080475259,"15,638",Not yet rated,NULL,$26.50
+FIBK,$27.21,1440080475298,"6,359",Not yet rated,NULL,$32
+FMBH,NULL,1440080475362,0,Not yet rated,NULL,N/A
+FMBI,$18.12,1440080475436,"48,233",Not yet rated,NULL,$20
+FNBC,$34.57,1440080475496,"10,273",Not yet rated,NULL,$41.50
+FNFG,$9.345,1440080475567,"370,851",80% bullish,of 5 ratings,$9
+FNWB,$12.1,1440080475704,"4,110",Not yet rated,NULL,N/A
+FSGI,$2.5004,1440080475731,"1,207",Not yet rated,NULL,N/A
+FSFG,$31.12,1440080475753,100,Not yet rated,NULL,N/A
+BICK,$20.17,1440080475881,100,100% bullish,of 1 rating,N/A
+FSLR,$48.68,1440080475909,"187,661",74% bullish,of 39 ratings,$65
+FSBK,NULL,1440080475943,0,100% bullish,of 1 rating,N/A
+FBZ,NULL,1440080476039,0,Not yet rated,NULL,N/A
+FCAN,$24.94,1440080476141,400,Not yet rated,NULL,N/A
+FTCS,$38.0584,1440080476193,"1,110",Not yet rated,NULL,N/A
+FCA,$21.007,1440080476298,"3,600",Not yet rated,NULL,N/A
+FV,$24.2701,1440080476336,"174,978",Not yet rated,NULL,N/A
+IFV,$18.1901,1440080476366,"123,661",100% bearish,of 1 rating,N/A
+FTSM,$59.9201,1440080476466,"1,701",100% bearish,of 1 rating,N/A
+FEMB,NULL,1440080476525,0,Not yet rated,NULL,N/A
+FEUZ,NULL,1440080476598,0,Not yet rated,NULL,N/A
+MDIV,$19.672,1440080476680,"30,403",Not yet rated,NULL,N/A
+FGM,$36.17,1440080476730,"4,896",Not yet rated,NULL,N/A
+TDIV,$25.31,1440080476755,"23,728",100% bearish,of 1 rating,N/A
+FTGC,$22.54,1440080476783,"12,419",Not yet rated,NULL,N/A
+FTHI,$20.35,1440080476933,"2,904",Not yet rated,NULL,N/A
+HYLS,$49.7,1440080477007,"4,196",100% bearish,of 1 rating,N/A
+FHK,$34.0778,1440080477142,"7,563",Not yet rated,NULL,N/A
+FPXI,$28.06,1440080477169,100,Not yet rated,NULL,N/A
+CU,$12.89,1440080477227,"1,684",100% bearish,of 1 rating,N/A
+SKYY,$29.945,1440080477254,"5,007",100% bullish,of 1 rating,N/A
+YDIV,$16.88,1440080477304,"1,400",Not yet rated,NULL,N/A
+PLTM,$6.53,1440080477462,"1,200",100% bearish,of 1 rating,N/A
+LMBS,NULL,1440080477486,0,Not yet rated,NULL,N/A
+FJP,$48.4868,1440080477516,"35,840",Not yet rated,NULL,N/A
+FTLB,NULL,1440080477544,0,100% bearish,of 1 rating,N/A
+QABA,$38.53,1440080477676,"1,796",100% bearish,of 1 rating,N/A
+FMB,NULL,1440080477710,0,Not yet rated,NULL,N/A
+FONE,$35.92,1440080477808,50,Not yet rated,NULL,N/A
+CIBR,$18.9199,1440080477885,"16,337",Not yet rated,NULL,N/A
+QCLN,$15.49,1440080477940,"5,108",Not yet rated,NULL,N/A
+CARZ,$35.98,1440080478016,725,100% bearish,of 1 rating,N/A
+GRID,NULL,1440080478110,0,100% bearish,of 1 rating,N/A
+QTEC,$40.9392,1440080478277,"8,033",Not yet rated,NULL,N/A
+RDVY,$22.035,1440080478332,"1,514",Not yet rated,NULL,N/A
+QQXT,$42.1201,1440080478368,359,Not yet rated,NULL,N/A
+AIRR,$16.61,1440080478390,"2,947",100% bearish,of 1 rating,N/A
+QQEW,$43.122,1440080478423,"6,194",Not yet rated,NULL,N/A
+QINC,NULL,1440080478459,0,Not yet rated,NULL,N/A
+FKO,NULL,1440080478489,0,Not yet rated,NULL,N/A
+FDIV,NULL,1440080478556,0,100% bearish,of 1 rating,N/A
+FTSL,$48.98,1440080478711,"10,223",100% bearish,of 1 rating,N/A
+FTW,NULL,1440080478847,0,Not yet rated,NULL,N/A
+FSZ,$39.9515,1440080478873,"6,377",Not yet rated,NULL,N/A
+TUSA,NULL,1440080478953,0,Not yet rated,NULL,N/A
+FKU,$43.1286,1440080479021,"6,224",Not yet rated,NULL,N/A
+FUNC,$8.33,1440080479057,200,Not yet rated,NULL,N/A
+SVVC,$10.62,1440080479088,"5,661",100% bullish,of 1 rating,$26
+FSV,$32.14,1440080479120,100,Not yet rated,NULL,$33.60
+FMER,$18.12,1440080479217,"69,368",50% bullish,of 2 ratings,$20
+FISV,$88.95,1440080479321,"110,012",100% bearish,of 3 ratings,$90
+FIVE,$36.41,1440080479354,"27,268",75% bearish,of 4 ratings,$44
+FPRX,$18.635,1440080479391,"32,973",50% bullish,of 2 ratings,$35
+FIVN,$4.24,1440080479486,"74,432",100% bullish,of 1 rating,$8.50
+FLML,$21.4347,1440080479513,"26,621",50% bullish,of 2 ratings,$30
+FLKS,$14.56,1440080479537,"7,877",50% bullish,of 2 ratings,$27
+FLXN,$24.2057,1440080479865,"11,184",100% bearish,of 1 rating,$40
+SKOR,$50.5,1440080479900,200,Not yet rated,NULL,N/A
+MBSD,NULL,1440080479921,0,Not yet rated,NULL,N/A
+FLXS,$33.29,1440080479971,"8,255",100% bearish,of 2 ratings,N/A
+FLDM,$12.75,1440080480001,"37,458",67% bearish,of 3 ratings,$21.50
+FFIC,$20.43,1440080480065,"2,544",Not yet rated,NULL,$21
+FLEX,$10.81,1440080480103,"362,252",63% bullish,of 8 ratings,$12
+FOMX,$10.04,1440080480209,"51,202",50% bullish,of 2 ratings,$23.50
+FOGO,$18.76,1440080480283,"24,214",50% bullish,of 2 ratings,$25.50
+FONR,$9.56,1440080480346,"3,000",100% bullish,of 1 rating,N/A
+FLIR,$29.82,1440080480414,"101,131",100% bearish,of 1 rating,$38.50
+FES,NULL,1440080480444,0,50% bullish,of 2 ratings,$1
+FORTY,NULL,1440080480490,0,Not yet rated,NULL,N/A
+FORM,$6.11,1440080480572,"19,955",67% bullish,of 3 ratings,$10.50
+FTNT,$45.84,1440080480708,"184,163",80% bullish,of 10 ratings,$52
+FORR,$32.29,1440080480773,"4,972",Not yet rated,NULL,N/A
+FBIO,$2.86,1440080480914,"19,830",83% bullish,of 6 ratings,N/A
+FWP,$26.1399,1440080480940,"1,040",100% bearish,of 1 rating,$45
+FWRD,$48.07,1440080480970,"29,876",100% bearish,of 1 rating,$50
+FOSL,$61.75,1440080481002,"130,688",50% bullish,of 4 ratings,$70
+FORD,$1.0363,1440080481025,"17,455",50% bullish,of 2 ratings,N/A
+FMI,$20.22,1440080481100,"17,904",100% bearish,of 2 ratings,$27.50
+FOXF,$15.37,1440080481280,"1,385",100% bearish,of 1 rating,$19
+FRAN,$10.241,1440080481329,"94,289",50% bullish,of 4 ratings,$15
+FXCB,$17.27,1440080481358,318,Not yet rated,NULL,$19
+FELE,$29.405,1440080481493,"26,998",50% bullish,of 4 ratings,$33
+FRED,$14.56,1440080481519,"6,951",50% bullish,of 2 ratings,$16.50
+RAIL,$21.155,1440080481601,"15,995",100% bearish,of 1 rating,$24.50
+FREE,$0.6403,1440080481759,"982,561",92% bullish,of 12 ratings,N/A
+FTR,$5.28,1440080481802,"1,969,046",78% bullish,of 27 ratings,$6.25
+FRPT,$13.315,1440080481834,"46,340",67% bearish,of 3 ratings,$23.50
+FTRPR,$104.24,1440080481888,748,100% bearish,of 1 rating,N/A
+FRPH,$31.23,1440080481939,100,100% bearish,of 1 rating,N/A
+FEIM,$10.99,1440080481966,"2,200",100% bearish,of 1 rating,N/A
+FTD,$30.24,1440080482040,"7,517",100% bearish,of 1 rating,$40
+FSBW,$23.44,1440080482100,1,Not yet rated,NULL,N/A
+FTEK,$2.2105,1440080482245,"14,083",75% bullish,of 4 ratings,N/A
+FSYS,$6.56,1440080482310,"9,402",67% bullish,of 3 ratings,$10
+FCEL,$0.8,1440080482336,"84,025",88% bullish,of 40 ratings,$2.65
+FULLL,$25.46,1440080482483,500,Not yet rated,NULL,N/A
+FLL,$1.56,1440080482542,395,75% bullish,of 4 ratings,$2.825
+FULL,$3.1901,1440080482564,"1,189",67% bearish,of 3 ratings,$4.25
+FULT,$12.7,1440080482643,"77,428",100% bearish,of 1 rating,$13
+FSNN,NULL,1440080482735,0,67% bullish,of 3 ratings,$6
+FFHL,NULL,1440080482774,0,50% bullish,of 4 ratings,N/A
+FXENP,NULL,1440080482839,0,100% bearish,of 1 rating,N/A
+FXEN,$0.98,1440080482910,"3,150",75% bullish,of 4 ratings,$1.10
+GK,$71.03,1440080482940,"1,752",Not yet rated,NULL,$78
+GAIA,$5.9,1440080482966,"2,480",50% bullish,of 2 ratings,$8.50
+WILC,$5.1101,1440080483139,300,100% bullish,of 2 ratings,N/A
+GALT,$2.05,1440080483211,"6,916",80% bullish,of 5 ratings,N/A
+GALTU,NULL,1440080483340,0,100% bearish,of 1 rating,N/A
+GLPG,$64.9758,1440080483366,"2,486",100% bullish,of 1 rating,$75
+GALTW,NULL,1440080483392,0,100% bullish,of 1 rating,N/A
+GALE,$1.3999,1440080483423,"158,051",89% bullish,of 47 ratings,$4
+GPIC,$10.89,1440080483558,200,100% bearish,of 1 rating,N/A
+GLMD,$8.6301,1440080483591,600,67% bullish,of 3 ratings,$20.50
+GLPI,$33,1440080483613,"15,315",100% bearish,of 1 rating,$37.50
+GRMN,$39.5,1440080483688,"72,269",50% bullish,of 6 ratings,$48
+GGACR,NULL,1440080483747,0,100% bullish,of 1 rating,N/A
+GGACW,$0.12,1440080483822,500,Not yet rated,NULL,N/A
+GGAC,NULL,1440080483847,0,100% bearish,of 1 rating,N/A
+GGACU,NULL,1440080483873,0,Not yet rated,NULL,N/A
+GARS,$14.75,1440080484004,"4,214",Not yet rated,NULL,$16
+GENC,$9.43,1440080484029,200,100% bearish,of 1 rating,N/A
+GFN,$3.7001,1440080484266,"2,647",100% bearish,of 2 ratings,$8
+GFNCP,NULL,1440080484296,0,Not yet rated,NULL,N/A
+GNCMA,$17.37,1440080484318,"18,412",100% bearish,of 1 rating,$12
+GFNSL,$25.76,1440080484340,"1,300",Not yet rated,NULL,N/A
+GENE,$2.5688,1440080484475,"33,297",100% bullish,of 12 ratings,N/A
+GNMK,$9.35,1440080484505,"22,883",67% bullish,of 6 ratings,$14
+GNCA,$12.531,1440080484532,"15,077",100% bearish,of 1 rating,$20
+GNTX,$15.7,1440080484576,"199,145",Not yet rated,NULL,$20
+THRM,$45.96,1440080484662,"27,016",75% bearish,of 4 ratings,$55.50
+GHDX,$25.83,1440080484692,"8,972",50% bullish,of 2 ratings,$30
+GNVC,$2.49,1440080484826,"1,210",90% bullish,of 10 ratings,$8.50
+GEOS,$15.46,1440080484865,"26,077",100% bearish,of 3 ratings,$25.50
+GTWN,$18.57,1440080484957,1,Not yet rated,NULL,N/A
+GABC,$29.49,1440080485009,"1,286",Not yet rated,NULL,$31.50
+GEVO,$2.3515,1440080485219,"71,381",75% bullish,of 12 ratings,$5
+GERN,$3.13,1440080485250,"159,385",88% bullish,of 16 ratings,$5.25
+ROCK,$18.21,1440080485276,"6,240",80% bullish,of 5 ratings,$24
+GIGA,$1.4,1440080485302,"1,873",100% bearish,of 1 rating,N/A
+GIGM,$0.631,1440080485337,"3,000",100% bullish,of 2 ratings,N/A
+GILD,$114.84,1440080485364,"866,056",91% bullish,of 86 ratings,$129
+GILT,$4.5,1440080485440,"5,406",50% bullish,of 2 ratings,N/A
+GIII,$68.19,1440080485509,"13,268",67% bullish,of 3 ratings,$75
+GBCI,$26.74,1440080485651,"23,402",50% bullish,of 2 ratings,$31
+GLAD,$8.25,1440080485678,"17,658",50% bullish,of 2 ratings,$8.75
+GLADO,NULL,1440080485742,0,Not yet rated,NULL,N/A
+GOODN,$25.6499,1440080485939,400,Not yet rated,NULL,N/A
+GAIN,$7.8,1440080485979,"16,985",100% bullish,of 2 ratings,$8.25
+GOOD,$15.615,1440080486004,"4,557",Not yet rated,NULL,$19
+GOODO,NULL,1440080486040,0,Not yet rated,NULL,N/A
+GAINO,$25.7499,1440080486174,200,Not yet rated,NULL,N/A
+GOODP,NULL,1440080486205,0,Not yet rated,NULL,N/A
+LAND,$9.44,1440080486234,"3,900",50% bullish,of 2 ratings,$13.75
+GAINP,$26.1199,1440080486255,600,Not yet rated,NULL,N/A
+GLBZ,NULL,1440080486400,0,Not yet rated,NULL,N/A
+GBT,$43.69,1440080486524,"17,385",100% bearish,of 1 rating,N/A
+GDEF,NULL,1440080486552,0,Not yet rated,NULL,N/A
+GAINN,NULL,1440080486577,0,Not yet rated,NULL,N/A
+ENT,$12.005,1440080486603,"65,911",100% bearish,of 1 rating,$18
+GPACU,NULL,1440080486738,0,Not yet rated,NULL,N/A
+GBLI,$26.58,1440080486798,"3,200",Not yet rated,NULL,N/A
+QQQC,$20.03,1440080486966,"1,173",100% bearish,of 1 rating,N/A
+GSOL,$8.406,1440080486997,"4,046",100% bearish,of 1 rating,N/A
+SOCL,$17.9601,1440080487023,"18,065",100% bullish,of 2 ratings,N/A
+ACTX,$13.85,1440080487045,251,100% bullish,of 1 rating,N/A
+ALTY,NULL,1440080487084,0,Not yet rated,NULL,N/A
+GAI,$5.43,1440080487182,"1,562",50% bullish,of 2 ratings,N/A
+SRET,$13.85,1440080487212,1,Not yet rated,NULL,N/A
+YLCO,$12.1099,1440080487264,100,Not yet rated,NULL,N/A
+GSM,$13.53,1440080487436,"29,468",50% bullish,of 2 ratings,$24.50
+GBIM,$2.2001,1440080487461,"1,000",50% bullish,of 2 ratings,N/A
+GLUU,$4.6299,1440080487671,"594,283",92% bullish,of 26 ratings,$9
+GLBS,NULL,1440080487696,0,67% bullish,of 3 ratings,N/A
+GLRI,$1.15,1440080487728,"1,509",100% bearish,of 1 rating,$6
+GLYC,$7.25,1440080487763,712,50% bullish,of 2 ratings,$14
+GOGO,$16.01,1440080487785,"94,814",80% bullish,of 5 ratings,$25
+GLNG,$37.47,1440080487827,"86,865",83% bullish,of 6 ratings,$58
+GMLP,$19.405,1440080487855,"31,556",50% bullish,of 4 ratings,$32.50
+GLDC,NULL,1440080488040,0,50% bullish,of 2 ratings,N/A
+GDEN,$8.82,1440080488139,"4,095",50% bullish,of 2 ratings,N/A
+GBDC,$16.56,1440080488201,"6,917",Not yet rated,NULL,$17.75
+GTIM,$6.5,1440080488234,"27,238",Not yet rated,NULL,$11.50
+GOGL,$3.28,1440080488260,"26,994",75% bullish,of 4 ratings,$5
+GOOG,$654.67,1440080488334,"178,571",89% bullish,of 65 ratings,$825
+GOOGL,$688.71,1440080488467,"221,583",88% bullish,of 1079 ratings,$749
+GPRO,$51.692,1440080488497,"1,291,361",78% bullish,of 58 ratings,$72
+GMAN,$4.53,1440080488601,"8,790",60% bullish,of 5 ratings,$8
+GPIAU,NULL,1440080488635,0,Not yet rated,NULL,N/A
+GPIAW,NULL,1440080488656,0,Not yet rated,NULL,N/A
+GPIA,NULL,1440080488688,0,Not yet rated,NULL,N/A
+GRVY,NULL,1440080488735,0,50% bullish,of 2 ratings,N/A
+LOPE,$36.58,1440080488865,"31,299",100% bearish,of 2 ratings,$50
+GBSN,$2.1501,1440080488998,"26,707",100% bearish,of 1 rating,$8.25
+GBSNU,$17.05,1440080489053,400,Not yet rated,NULL,N/A
+GLDD,$5.6,1440080489131,"8,254",100% bearish,of 4 ratings,$7.75
+GSBC,$40.82,1440080489153,"4,202",100% bullish,of 1 rating,$44
+GNBC,$12.61,1440080489235,575,100% bearish,of 1 rating,$17
+GPP,$14.38,1440080489312,"1,600",Not yet rated,NULL,$20.50
+GRBK,$14.09,1440080489338,"9,941",77% bullish,of 13 ratings,N/A
+GPRE,$20.425,1440080489393,"68,560",67% bullish,of 6 ratings,$28.50
+GLRE,$26.09,1440080489536,"36,956",100% bullish,of 1 rating,$41
+GCBC,NULL,1440080489594,0,100% bullish,of 1 rating,N/A
+GRIF,NULL,1440080489620,0,100% bearish,of 1 rating,N/A
+GRFS,$31.46,1440080489665,"14,136",50% bullish,of 2 ratings,$35
+GRPN,$4.07,1440080489692,"1,038,153",61% bullish,of 71 ratings,$6.75
+OMAB,$40.35,1440080489751,"3,917",100% bullish,of 1 rating,$44
+GGAL,$19.28,1440080489777,"57,873",80% bullish,of 5 ratings,$40
+GSIG,$13.29,1440080489929,"1,844",100% bearish,of 2 ratings,N/A
+GSIT,$4.8592,1440080490072,"1,434",100% bearish,of 1 rating,N/A
+GBNK,$15.77,1440080490174,"7,718",100% bearish,of 1 rating,$18
+GSVC,$9.33,1440080490200,"13,925",50% bullish,of 2 ratings,$14.50
+GTXI,$0.9418,1440080490231,"11,464",100% bullish,of 5 ratings,$.75
+GULTU,$0.31,1440080490334,"299,544",100% bearish,of 1 rating,N/A
+GUID,$8.17,1440080490364,"17,201",100% bearish,of 3 ratings,$10
+GIFI,$12.56,1440080490386,"10,080",100% bearish,of 1 rating,$16
+GFED,NULL,1440080490415,0,Not yet rated,NULL,$17
+GPOR,$33.57,1440080490600,"99,606",75% bullish,of 4 ratings,$55
+GYRO,$3,1440080490672,60,100% bearish,of 1 rating,N/A
+GWPH,$107.015,1440080490698,"35,277",78% bullish,of 9 ratings,$148.50
+GWGH,NULL,1440080490741,0,100% bearish,of 1 rating,$15.05
+GURE,$1.77,1440080490767,"8,950",88% bullish,of 8 ratings,N/A
+HEES,$16.75,1440080490837,"43,187",67% bearish,of 3 ratings,$31
+HLG,NULL,1440080490969,0,100% bearish,of 1 rating,N/A
+HNRG,$7.4,1440080491105,"49,851",100% bearish,of 1 rating,$10
+HBK,$13.72,1440080491172,550,50% bullish,of 2 ratings,N/A
+HALL,$11.7,1440080491205,"1,454",Not yet rated,NULL,N/A
+HBHCL,$24.586,1440080491235,"6,682",Not yet rated,NULL,N/A
+HMPR,$1.96,1440080491265,"112,254",100% bullish,of 1 rating,N/A
+HALO,$18.25,1440080491301,"127,920",67% bullish,of 3 ratings,$22.50
+HBHC,$27.43,1440080491370,"23,933",50% bullish,of 2 ratings,$30
+HAFC,$24.9,1440080491627,"8,616",100% bullish,of 2 ratings,$28.50
+HQCL,$9.96,1440080491655,"1,368",67% bullish,of 3 ratings,N/A
+HNSN,$0.505,1440080491682,"8,295",88% bullish,of 8 ratings,$.40
+HNH,$28.7,1440080491708,"6,497",100% bullish,of 1 rating,N/A
+HDNG,$10.63,1440080491839,100,50% bullish,of 4 ratings,N/A
+HLIT,$5.7557,1440080491898,"14,062",100% bearish,of 1 rating,$6.50
+HRMN,NULL,1440080491966,0,Not yet rated,NULL,N/A
+HRMNU,NULL,1440080492034,0,Not yet rated,NULL,N/A
+HRMNW,NULL,1440080492060,0,Not yet rated,NULL,N/A
+HBIO,$4.4,1440080492105,"2,834",Not yet rated,NULL,$10
+TINY,$2.4401,1440080492192,"3,402",50% bullish,of 2 ratings,$5.26
+HART,$0.5603,1440080492247,"17,300",100% bearish,of 1 rating,N/A
+HCAP,$12.12,1440080492277,20,50% bullish,of 2 ratings,$15
+HCAPL,$25.7154,1440080492413,800,Not yet rated,NULL,N/A
+HAS,$78.54,1440080492514,"91,568",63% bullish,of 8 ratings,$84.50
+HA,$25.03,1440080492541,"67,230",67% bullish,of 9 ratings,$27
+HCOM,$22.67,1440080492595,154,100% bearish,of 1 rating,$28
+HWBK,NULL,1440080492685,0,100% bearish,of 1 rating,N/A
+HWKN,$36.365,1440080492729,"1,518",Not yet rated,NULL,N/A
+HAYN,$38.91,1440080492820,"5,550",100% bearish,of 1 rating,$59
+HDS,$33.93,1440080492951,"100,298",100% bearish,of 2 ratings,$39.50
+HQY,$32.269,1440080492993,"18,672",67% bullish,of 3 ratings,$31
+HIIQ,$4.47,1440080493025,"1,550",50% bullish,of 2 ratings,$7
+HCSG,$33.91,1440080493053,"11,516",50% bullish,of 4 ratings,$35
+HSTM,$24.99,1440080493135,"7,353",50% bullish,of 2 ratings,$33.75
+HWAY,$12.49,1440080493204,"28,649",100% bearish,of 1 rating,$15
+HTLD,$20.85,1440080493234,"45,052",Not yet rated,NULL,$22.50
+HTLF,$36.65,1440080493364,"4,370",100% bullish,of 1 rating,$39.50
+HTWR,$86.48,1440080493431,"13,515",50% bullish,of 2 ratings,$103
+HSII,$20.1,1440080493532,"9,802",100% bullish,of 3 ratings,$25
+HTBX,$5.2,1440080493558,"8,590",50% bullish,of 2 ratings,$15.50
+HELE,$90.76,1440080493586,"22,438",67% bearish,of 3 ratings,$100
+HMNY,$2.43,1440080493612,"1,000",100% bearish,of 1 rating,N/A
+HMTV,$12.93,1440080493751,506,100% bearish,of 1 rating,$16
+HNNA,$23,1440080493853,"3,548",Not yet rated,NULL,N/A
+HCACU,$10.02,1440080493916,200,Not yet rated,NULL,N/A
+HERO,$0.0709,1440080493984,"120,085",81% bullish,of 16 ratings,$.75
+HSIC,$144.68,1440080494009,"32,592",83% bullish,of 6 ratings,$146
+HTBK,$10.8,1440080494037,"6,405",Not yet rated,NULL,$12
+HFWA,$18.0899,1440080494171,"2,559",100% bullish,of 1 rating,$20
+HEOP,$7.8,1440080494249,217,Not yet rated,NULL,$8.50
+MLHR,$28.95,1440080494381,"16,728",50% bullish,of 2 ratings,$33.50
+HSKA,$33.2,1440080494410,"3,190",100% bearish,of 1 rating,$38
+HCCI,$11.99,1440080494436,154,100% bearish,of 1 rating,$16.50
+HFFC,$16.3,1440080494464,102,Not yet rated,NULL,N/A
+HRTX,$32.1556,1440080494492,"106,039",67% bullish,of 6 ratings,$41
+HIHO,$4.3,1440080494673,38,Not yet rated,NULL,N/A
+HPJ,$2.6751,1440080494701,"3,700",75% bullish,of 4 ratings,$12.43
+HIBB,$39.96,1440080494761,"37,557",100% bearish,of 1 rating,$48.50
+HIFS,$118.35,1440080494858,461,Not yet rated,NULL,N/A
+HIMX,$6.7501,1440080494884,"464,250",86% bullish,of 21 ratings,$8.50
+HSGX,$6.34,1440080494912,800,100% bearish,of 1 rating,$17
+HOLX,$41.5,1440080495103,"123,468",67% bullish,of 3 ratings,$42
+HOLI,$17.48,1440080495146,"60,027",50% bullish,of 4 ratings,$27
+HMNF,NULL,1440080495234,0,Not yet rated,NULL,N/A
+HMSY,$9.36,1440080495268,"61,806",67% bullish,of 3 ratings,$19.35
+HOMB,$39.85,1440080495290,"11,298",Not yet rated,NULL,$41
+HBCP,$24.25,1440080495366,100,Not yet rated,NULL,$29
+HFBL,NULL,1440080495425,0,Not yet rated,NULL,N/A
+AWAY,$31,1440080495451,"117,652",67% bullish,of 3 ratings,$36
+HMST,$21.377,1440080495510,"22,325",100% bullish,of 2 ratings,$27
+HMIN,$29.16,1440080495637,"35,103",100% bearish,of 2 ratings,$35
+HKTV,$4.93,1440080495738,"14,800",100% bearish,of 1 rating,N/A
+CETC,$0.8199,1440080495823,"17,914",86% bullish,of 7 ratings,N/A
+HOFT,$24.5,1440080495910,"6,860",100% bearish,of 1 rating,N/A
+HBNC,$24.64,1440080495955,"7,607",100% bullish,of 1 rating,$27
+HFBC,$11.6,1440080496012,"2,500",Not yet rated,NULL,N/A
+HTBI,$18.26,1440080496143,"9,149",67% bullish,of 3 ratings,$18.625
+HRZN,$10.78,1440080496176,"14,722",100% bearish,of 1 rating,$14.25
+HZNP,$30.525,1440080496198,"129,063",85% bullish,of 20 ratings,$40
+ZINC,$7.6151,1440080496238,"70,584",100% bearish,of 1 rating,$17
+HDP,$25.3901,1440080496327,"32,492",67% bearish,of 3 ratings,$30.50
+HMHC,$22.43,1440080496353,"44,040",Not yet rated,NULL,$27
+HWCC,$7.32,1440080496379,"7,363",100% bearish,of 1 rating,$9
+HOVNP,NULL,1440080496516,0,100% bearish,of 1 rating,N/A
+HBMD,NULL,1440080496566,0,100% bearish,of 1 rating,N/A
+HSNI,$62,1440080496711,"28,407",Not yet rated,NULL,$80
+HTGM,$5.935,1440080496763,"4,484",100% bearish,of 1 rating,$19.50
+HCBK,$9.98,1440080496853,"196,721",83% bullish,of 6 ratings,$8.61
+HSON,$2.88,1440080496885,573,100% bearish,of 1 rating,$5
+HUBG,$40.24,1440080496907,"12,221",100% bearish,of 1 rating,$43
+HBAN,$11.4,1440080496928,"873,700",76% bullish,of 17 ratings,$12.50
+HDSN,$2.897,1440080497071,"26,902",100% bullish,of 1 rating,$6.25
+HURN,$74.28,1440080497200,"3,340",50% bullish,of 2 ratings,$80
+HURC,$30.07,1440080497247,"2,482",100% bearish,of 1 rating,N/A
+HBANP,$1358,1440080497277,44,100% bearish,of 1 rating,N/A
+HBP,NULL,1440080497307,0,100% bullish,of 1 rating,N/A
+HTCH,$1.6363,1440080497333,"15,500",100% bearish,of 1 rating,$3.50
+HDRA,$9.69,1440080497388,100,Not yet rated,NULL,N/A
+HDRAR,NULL,1440080497492,0,Not yet rated,NULL,N/A
+HDRAW,NULL,1440080497633,0,Not yet rated,NULL,N/A
+HDRAU,NULL,1440080497679,0,Not yet rated,NULL,N/A
+IDSY,$3.9,1440080497736,"2,094",100% bearish,of 1 rating,$7
+HYGS,$7.385,1440080497764,"9,282",50% bullish,of 2 ratings,$13
+IKGH,NULL,1440080497809,0,75% bullish,of 4 ratings,N/A
+IACI,$72.9,1440080497834,"145,370",75% bullish,of 4 ratings,$90
+IBKC,$61.59,1440080497996,"13,438",100% bullish,of 1 rating,$70
+ICAD,$3.49,1440080498067,"1,800",50% bullish,of 2 ratings,$7.25
+IEP,$70.783,1440080498129,"20,601",75% bullish,of 4 ratings,$99
+ICLR,$79.79,1440080498195,"39,700",100% bearish,of 3 ratings,$85
+ICFI,$35.95,1440080498227,"3,490",50% bullish,of 2 ratings,$48.50
+ICUI,$120.96,1440080498267,"3,579",Not yet rated,NULL,$122
+ICON,$12.88,1440080498292,"38,364",50% bullish,of 2 ratings,$18.50
+IPWR,$7.62,1440080498497,215,100% bullish,of 1 rating,$15
+INVE,$4.79,1440080498575,"6,086",75% bullish,of 4 ratings,$4
+IDXX,$77.06,1440080498672,"72,719",100% bearish,of 1 rating,$77
+DSKY,$11.995,1440080498715,"40,955",67% bullish,of 6 ratings,$11.50
+IROQ,NULL,1440080498769,0,100% bullish,of 1 rating,N/A
+IRG,$4.388,1440080498847,660,100% bearish,of 1 rating,$4.50
+IDRA,$2.567,1440080498900,"128,949",89% bullish,of 9 ratings,$6.50
+IIVI,$17.5,1440080498981,"24,714",100% bearish,of 1 rating,$22
+RXDX,$12.73,1440080499049,"22,534",100% bullish,of 1 rating,$20
+KANG,$15.33,1440080499190,"56,052",50% bullish,of 2 ratings,$22.55
+IKAN,$2.72,1440080499242,"20,102",83% bullish,of 6 ratings,$5
+ILMN,$202.84,1440080499288,"81,923",80% bullish,of 5 ratings,$240
+IKNX,NULL,1440080499386,0,100% bearish,of 1 rating,N/A
+ISNS,$4.12,1440080499445,"6,101",50% bullish,of 2 ratings,N/A
+IMMR,$11.86,1440080499474,"41,121",80% bullish,of 5 ratings,$15.50
+ICCC,$8.505,1440080499602,"3,766",100% bullish,of 1 rating,N/A
+IMDZ,$16.3028,1440080499685,"7,800",100% bearish,of 1 rating,$33
+IMNP,$1.4999,1440080499779,"20,371",50% bullish,of 2 ratings,$6
+IMGN,$12.84,1440080499804,"98,433",75% bullish,of 4 ratings,$17.50
+IMMU,$1.81,1440080499832,"114,195",86% bullish,of 7 ratings,$2
+IPXL,$45.24,1440080499884,"65,374",67% bullish,of 3 ratings,$46.50
+IMMY,$7.45,1440080500024,788,100% bearish,of 1 rating,$11
+INCR,$43.915,1440080500053,"43,394",50% bullish,of 2 ratings,$53
+SAAS,$7.71,1440080500081,"33,329",50% bullish,of 2 ratings,$15
+INCY,$110.22,1440080500288,"99,281",50% bullish,of 6 ratings,$125.50
+INDB,$47.04,1440080500315,"3,093",Not yet rated,NULL,$44
+IBCP,$14.39,1440080500337,"4,149",100% bullish,of 1 rating,$14.50
+IBTX,$43.58,1440080500367,"4,184",100% bullish,of 2 ratings,$47.25
+IDSA,NULL,1440080500496,0,Not yet rated,NULL,N/A
+INFN,$22.98,1440080500531,"413,465",71% bullish,of 7 ratings,$28
+INFI,$9.1,1440080500560,"43,381",50% bullish,of 4 ratings,$18
+IPCC,$80.38,1440080500695,"6,400",Not yet rated,NULL,$77.50
+IMKTA,$54.1,1440080500827,"8,065",100% bearish,of 1 rating,N/A
+INWK,$7.43,1440080500861,"6,214",50% bullish,of 2 ratings,$10
+IFON,$1.24,1440080500892,"59,896",75% bullish,of 4 ratings,N/A
+III,$4.24,1440080500959,"13,566",57% bullish,of 7 ratings,$6
+INNL,$13.45,1440080501001,488,100% bearish,of 1 rating,$16.50
+INOD,$2.5001,1440080501103,"3,770",100% bearish,of 1 rating,N/A
+IPHS,$48.78,1440080501186,"6,114",100% bearish,of 1 rating,$60
+IOSP,$46.27,1440080501248,"10,734",100% bearish,of 1 rating,N/A
+ITEK,$15.1,1440080501393,"67,199",100% bearish,of 3 ratings,$20
+ISSC,$2.95,1440080501422,"7,800",67% bearish,of 3 ratings,N/A
+INOV,$21.02,1440080501449,"40,191",100% bearish,of 1 rating,$33
+INGN,$50.22,1440080501484,"22,192",100% bearish,of 1 rating,$50.50
+ISIG,$2.57,1440080501585,"2,100",100% bearish,of 1 rating,N/A
+INO,$7.455,1440080501612,"215,636",89% bullish,of 18 ratings,$20
+NSIT,$26.49,1440080501640,"16,128",50% bullish,of 2 ratings,N/A
+INSM,$26.75,1440080501847,"15,896",71% bullish,of 7 ratings,$31.50
+IIIN,$17.82,1440080501918,"2,521",100% bearish,of 2 ratings,N/A
+PODD,$29.91,1440080501978,"20,676",50% bullish,of 2 ratings,$35
+INSY,$33.47,1440080502005,"61,920",75% bullish,of 4 ratings,$48
+NTEC,$5.97,1440080502063,852,Not yet rated,NULL,N/A
+IDTI,$17.9,1440080502200,"429,591",60% bullish,of 5 ratings,$25
+IART,$61.42,1440080502227,"37,559",100% bearish,of 1 rating,$71.50
+IESC,$7.33,1440080502302,400,100% bearish,of 1 rating,N/A
+INTC,$27.9001,1440080502407,"4,007,286",82% bullish,of 238 ratings,$36
+ISSI,$22.31,1440080502432,"28,640",67% bullish,of 3 ratings,$19.75
+IPAR,$27.95,1440080502572,"2,540",67% bullish,of 3 ratings,$38
+IQNT,$19.0544,1440080502598,"24,432",86% bullish,of 7 ratings,$20
+IPCI,$2.14,1440080502662,"8,500",67% bullish,of 6 ratings,$7.75
+IBKR,$41.04,1440080502729,"60,992",100% bullish,of 1 rating,N/A
+ICPT,$202.46,1440080502805,"16,992",70% bullish,of 10 ratings,$359.50
+ININ,$39.54,1440080502830,"13,009",67% bearish,of 3 ratings,$57
+ICLD,$1.82,1440080503010,"17,698",75% bullish,of 4 ratings,N/A
+IDCC,$48.9299,1440080503081,"24,901",80% bullish,of 5 ratings,$63
+ICLDW,NULL,1440080503108,0,100% bearish,of 1 rating,N/A
+TILE,$25.33,1440080503147,"60,770",67% bearish,of 3 ratings,$27
+IBOC,$26.71,1440080503240,"17,455",100% bearish,of 1 rating,N/A
+IMI,NULL,1440080503265,0,67% bullish,of 3 ratings,$2.22
+INAP,$8.68,1440080503297,"20,534",75% bullish,of 4 ratings,$11
+IGLD,$7.25,1440080503526,612,50% bullish,of 2 ratings,N/A
+IIJI,NULL,1440080503591,0,50% bullish,of 2 ratings,$11.50
+ISCA,$32.63,1440080503660,"3,767",100% bearish,of 1 rating,N/A
+PTNT,$3,1440080503685,810,Not yet rated,NULL,N/A
+INPH,$0.31,1440080503720,100,50% bullish,of 2 ratings,N/A
+INTX,$2.41,1440080503849,"1,318",67% bullish,of 3 ratings,N/A
+XENT,$28.54,1440080503875,"17,569",50% bullish,of 2 ratings,$36.50
+ISIL,$10.45,1440080504008,"51,107",50% bullish,of 6 ratings,$15
+IVAC,$4.83,1440080504111,200,Not yet rated,NULL,$6.625
+IILG,$21.05,1440080504165,"9,775",100% bearish,of 1 rating,$30.50
+INTL,$26.92,1440080504191,"9,333",67% bearish,of 3 ratings,N/A
+ITCI,$29.8,1440080504220,"50,153",75% bearish,of 4 ratings,$40
+INTLL,NULL,1440080504246,0,Not yet rated,NULL,N/A
+IIN,NULL,1440080504379,0,100% bearish,of 1 rating,$12
+INTU,$104.18,1440080504578,"95,137",100% bullish,of 7 ratings,$110.50
+ISRG,$519.52,1440080504678,"14,022",67% bullish,of 3 ratings,$600
+INVT,$0.281,1440080504814,"3,751",67% bullish,of 3 ratings,N/A
+SNAK,$8.67,1440080504841,"7,143",50% bullish,of 2 ratings,$14
+ISTR,$15.69,1440080504894,4,100% bearish,of 1 rating,$18.50
+ISBC,$12.05,1440080505041,"236,068",100% bullish,of 1 rating,$13.25
+ITIC,NULL,1440080505191,0,100% bearish,of 2 ratings,N/A
+NVIV,$11.3007,1440080505228,"85,031",50% bullish,of 4 ratings,$24.50
+IVTY,$11.5101,1440080505258,"3,101",Not yet rated,NULL,$18
+DFVL,NULL,1440080505279,0,Not yet rated,NULL,N/A
+DTUL,NULL,1440080505314,0,Not yet rated,NULL,N/A
+IPAS,$1.0799,1440080505343,"5,000",67% bullish,of 3 ratings,N/A
+IPCM,$79.17,1440080505420,"49,795",50% bullish,of 2 ratings,$80.125
+IRMD,$25.84,1440080505589,"9,502",67% bearish,of 3 ratings,$25
+IPGP,$90.02,1440080505616,"25,249",100% bearish,of 2 ratings,$109.50
+IRIX,$7.1,1440080505659,"11,600",100% bearish,of 1 rating,N/A
+IRDM,$6.7,1440080505747,"41,466",60% bullish,of 5 ratings,$11.50
+IRDMB,$264.29,1440080505772,20,67% bearish,of 3 ratings,N/A
+IRBT,$30.32,1440080505905,"18,860",67% bullish,of 6 ratings,$37
+IRCP,$33,1440080506034,357,100% bullish,of 2 ratings,N/A
+COMT,$32.926,1440080506067,"1,520",100% bearish,of 1 rating,N/A
+GNMA,$50.19,1440080506088,322,Not yet rated,NULL,N/A
+IRWD,$11.18,1440080506123,"73,592",100% bearish,of 1 rating,$13
+FCHI,$47.9,1440080506220,470,Not yet rated,NULL,N/A
+IFAS,$28.84,1440080506252,300,Not yet rated,NULL,N/A
+IFEU,$40.2,1440080506289,"2,935",Not yet rated,NULL,N/A
+IFGL,$29.6984,1440080506393,"3,354",Not yet rated,NULL,N/A
+IFNA,$54.68,1440080506454,"1,000",Not yet rated,NULL,N/A
+ACWX,$41.835,1440080506537,"231,260",100% bearish,of 1 rating,N/A
+ACWI,$57.75,1440080506736,"133,991",Not yet rated,NULL,N/A
+AXJS,NULL,1440080506837,0,Not yet rated,NULL,N/A
+AAIT,$30.05,1440080506894,106,100% bullish,of 1 rating,N/A
+AAXJ,$54.01,1440080506915,"271,269",Not yet rated,NULL,N/A
+EEMA,$51.0501,1440080506994,"2,088",Not yet rated,NULL,N/A
+EEML,$28.25,1440080507051,600,Not yet rated,NULL,N/A
+EMDI,NULL,1440080507072,0,Not yet rated,NULL,N/A
+EEME,NULL,1440080507107,0,100% bearish,of 1 rating,N/A
+EGRW,$48.87,1440080507149,413,Not yet rated,NULL,N/A
+EMEY,NULL,1440080507244,0,Not yet rated,NULL,N/A
+EUFN,$22.6416,1440080507403,"31,026",100% bearish,of 1 rating,N/A
+IEUS,$46.68,1440080507453,125,100% bearish,of 1 rating,N/A
+EVAL,$36.36,1440080507484,"3,424",Not yet rated,NULL,N/A
+QAT,NULL,1440080507592,0,Not yet rated,NULL,N/A
+UAE,NULL,1440080507618,0,Not yet rated,NULL,N/A
+EMIF,$29.17,1440080507754,"1,370",Not yet rated,NULL,N/A
+IBB,$360,1440080507831,"170,981",63% bullish,of 8 ratings,N/A
+WOOD,$50.31,1440080507864,698,50% bullish,of 2 ratings,N/A
+SOXX,$82.3,1440080507890,"73,069",50% bullish,of 2 ratings,N/A
+ICLN,$9.77,1440080507921,"9,612",50% bullish,of 2 ratings,N/A
+ISHG,$79.1528,1440080507959,998,100% bearish,of 1 rating,N/A
+ISIS,$49.77,1440080508027,"126,983",53% bullish,of 15 ratings,$67
+IGOV,$90.95,1440080508134,"3,772",100% bearish,of 1 rating,N/A
+INDY,$29.07,1440080508182,"69,368",100% bullish,of 1 rating,N/A
+ISRL,$136.99,1440080508363,121,100% bearish,of 1 rating,N/A
+ISLE,$17.937,1440080508389,"33,650",50% bullish,of 4 ratings,$16
+ITUS,$4.3455,1440080508610,"1,600",Not yet rated,NULL,N/A
+ITRN,$24.8969,1440080508640,"1,353",50% bullish,of 2 ratings,N/A
+JJSF,$117.555,1440080508711,"1,826",100% bearish,of 1 rating,N/A
+ITRI,$32.76,1440080508737,"16,317",Not yet rated,NULL,$37
+IXYS,$10.59,1440080508797,"17,263",50% bullish,of 4 ratings,N/A
+XXIA,$15.6,1440080508868,"40,174",71% bullish,of 7 ratings,$14.625
+JCOM,$72.03,1440080508896,"9,820",100% bullish,of 2 ratings,$77
+JBHT,$79.277,1440080508924,"86,532",50% bullish,of 4 ratings,$89.50
+MAYS,NULL,1440080509059,0,Not yet rated,NULL,N/A
+JKHY,$70.7,1440080509122,"31,855",50% bullish,of 2 ratings,$72
+JASO,$7.79,1440080509192,"221,852",82% bullish,of 17 ratings,$10
+JACK,$85.25,1440080509223,"45,235",83% bullish,of 6 ratings,$105
+JXSB,NULL,1440080509324,0,Not yet rated,NULL,N/A
+JAXB,$13.22,1440080509350,15,100% bullish,of 1 rating,N/A
+JAGX,$2.95,1440080509502,200,Not yet rated,NULL,N/A
+JAKK,$9.8,1440080509641,"237,087",60% bearish,of 5 ratings,$10.50
+JASN,$4.985,1440080509674,"6,614",50% bullish,of 2 ratings,$9.50
+JRVR,$26.665,1440080509701,"3,100",Not yet rated,NULL,$32
+JMBA,$13.53,1440080509723,"7,401",75% bullish,of 4 ratings,$18
+ERW,NULL,1440080509754,0,Not yet rated,NULL,N/A
+JASNW,NULL,1440080509775,0,50% bullish,of 2 ratings,N/A
+JD,$25.53,1440080509950,"1,385,349",75% bullish,of 16 ratings,$36
+JAZZ,$184.115,1440080510053,"28,206",80% bullish,of 15 ratings,$206.50
+JBLU,$23.4343,1440080510101,"856,041",94% bullish,of 16 ratings,$27
+JTPY,$3,1440080510234,500,100% bearish,of 1 rating,N/A
+JCTCF,NULL,1440080510260,0,100% bullish,of 1 rating,N/A
+JST,$4.25,1440080510416,"7,048",75% bullish,of 4 ratings,N/A
+JIVE,$4.06,1440080510449,"93,752",75% bullish,of 4 ratings,$5
+JOEZ,$0.1967,1440080510546,"85,940",92% bullish,of 12 ratings,N/A
+DATE,$6.471,1440080510578,"24,000",75% bullish,of 4 ratings,$9
+WYIGU,NULL,1440080510610,0,Not yet rated,NULL,N/A
+JBSS,$47.9801,1440080510642,"3,008",67% bearish,of 3 ratings,N/A
+JOUT,$25.1,1440080510709,800,100% bearish,of 1 rating,$34
+JNP,$9.85,1440080510738,"4,435",100% bullish,of 3 ratings,$15
+JUNO,$39.7,1440080510870,"177,411",73% bullish,of 11 ratings,$71.50
+KTWO,$21.71,1440080510929,"33,769",100% bearish,of 1 rating,$28.50
+KALU,$84.05,1440080511007,"11,843",67% bearish,of 3 ratings,$91
+KBIO,$1.94,1440080511098,"25,936",50% bullish,of 4 ratings,N/A
+KMDA,$3.68,1440080511249,"1,385",50% bullish,of 2 ratings,$8
+KNDI,$7.404,1440080511276,"87,206",86% bullish,of 22 ratings,N/A
+KPTI,$13.2165,1440080511301,"36,116",67% bearish,of 3 ratings,$39
+KCLI,$47.805,1440080511475,610,Not yet rated,NULL,N/A
+KRNY,$11.56,1440080511525,"53,071",100% bearish,of 1 rating,$12
+KELYA,$14.77,1440080511608,"6,997",67% bullish,of 6 ratings,$20
+KMPH,$20.86,1440080511660,"9,031",100% bearish,of 2 ratings,$22
+KCAP,$4.7701,1440080511688,"17,288",75% bullish,of 4 ratings,$6
+KELYB,NULL,1440080511717,0,50% bullish,of 2 ratings,N/A
+KFFB,NULL,1440080511846,0,100% bearish,of 1 rating,N/A
+KERX,$5.675,1440080511990,"184,697",82% bullish,of 11 ratings,$12
+GMCR,$50.18,1440080512017,"318,654",71% bullish,of 42 ratings,$64
+KBSF,$4.1,1440080512043,250,100% bullish,of 1 rating,N/A
+KEQU,$16.92,1440080512193,700,100% bullish,of 1 rating,N/A
+KTEC,$12,1440080512262,424,Not yet rated,NULL,N/A
+KTCC,$10.565,1440080512288,"4,104",100% bearish,of 1 rating,$16
+KFRC,$28.1,1440080512334,"9,968",100% bullish,of 2 ratings,$29
+KE,$11.29,1440080512466,"6,365",67% bearish,of 3 ratings,$16
+KBAL,$11.16,1440080512495,"11,842",50% bullish,of 2 ratings,N/A
+KGJI,$0.78,1440080512526,"178,394",89% bullish,of 9 ratings,N/A
+KIN,$5.9,1440080512556,"3,400",50% bullish,of 2 ratings,$6.25
+KINS,$8.5501,1440080512662,"1,400",100% bullish,of 1 rating,N/A
+KIRK,$24.565,1440080512741,"97,989",50% bullish,of 2 ratings,$32
+KONE,$4.14,1440080512770,600,Not yet rated,NULL,N/A
+KITE,$55.47,1440080512875,"83,721",89% bullish,of 9 ratings,$85
+KLAC,$49.06,1440080512947,"112,317",100% bearish,of 1 rating,$61.50
+KLXI,$38.19,1440080513077,"58,207",100% bearish,of 1 rating,$49
+KOPN,$2.9427,1440080513150,"55,580",50% bullish,of 2 ratings,$4.50
+KZ,$7.08,1440080513187,"15,717",60% bearish,of 5 ratings,N/A
+KRNT,$13.24,1440080513215,"4,128",50% bullish,of 2 ratings,$18
+KONA,$19.719,1440080513283,"9,325",50% bullish,of 2 ratings,$28
+KWEB,$31.416,1440080513315,"22,137",Not yet rated,NULL,N/A
+KOSS,$2.54,1440080513414,2,100% bearish,of 2 ratings,N/A
+KTOS,$4.4149,1440080513521,"85,108",50% bullish,of 2 ratings,$8.50
+KUTV,$0.7414,1440080513666,"18,422",50% bullish,of 2 ratings,N/A
+KLIC,$10.21,1440080513696,"37,744",80% bullish,of 5 ratings,$13
+KVHI,$10.69,1440080513727,276,100% bearish,of 1 rating,$16
+KYTH,$74.65,1440080513799,"98,804",100% bullish,of 3 ratings,$66
+LJPC,$26.97,1440080513825,"17,344",87% bullish,of 15 ratings,$32
+FSTR,$19.08,1440080513953,"1,594",100% bearish,of 1 rating,$40.50
+LSBK,NULL,1440080514055,0,Not yet rated,NULL,N/A
+LKFN,$42.26,1440080514139,510,Not yet rated,NULL,$45
+LBAI,$11.17,1440080514188,"5,085",Not yet rated,NULL,$13.25
+LAKE,$9.44,1440080514241,"7,430",57% bullish,of 7 ratings,$19
+LSBG,NULL,1440080514274,0,Not yet rated,NULL,N/A
+LRCX,$70.86,1440080514296,"212,407",50% bullish,of 4 ratings,$95
+LAMR,$56.1499,1440080514378,"32,879",67% bullish,of 3 ratings,$61
+LANC,$94.95,1440080514440,"5,843",Not yet rated,NULL,$89
+LNDC,$12.99,1440080514601,"8,062",Not yet rated,NULL,$18
+LARK,NULL,1440080514690,0,100% bearish,of 1 rating,N/A
+LE,$23.02,1440080514781,"8,212",50% bullish,of 2 ratings,$34
+LSTR,$68.4,1440080514841,"12,224",Not yet rated,NULL,$75
+LMRK,$15.6541,1440080514881,948,Not yet rated,NULL,$20
+LNTH,$7.95,1440080515094,"8,625",100% bearish,of 1 rating,$10
+LSCC,$3.8812,1440080515154,"74,983",67% bullish,of 3 ratings,$7.50
+LPSB,$14.0899,1440080515176,320,Not yet rated,NULL,$13.50
+LTRX,$1.3289,1440080515198,200,50% bullish,of 2 ratings,$3.355
+LAWS,$24.3,1440080515256,"2,500",100% bearish,of 1 rating,$31
+LAYN,$7.395,1440080515285,"11,365",100% bearish,of 1 rating,$8.75
+LCNB,$16.19,1440080515330,820,100% bearish,of 1 rating,$18
+LDRH,$41.12,1440080515360,"8,763",100% bearish,of 1 rating,$47.50
+LBIX,NULL,1440080515497,0,100% bearish,of 1 rating,N/A
+LGCY,$5.49,1440080515599,"173,806",100% bearish,of 2 ratings,$12
+LGCYO,$12.6,1440080515737,"21,062",100% bearish,of 1 rating,N/A
+LMAT,$13.955,1440080515906,"8,858",Not yet rated,NULL,$14
+LGCYP,$12.86,1440080515956,"4,919",100% bearish,of 1 rating,N/A
+LTXB,$28,1440080515987,"13,724",100% bullish,of 1 rating,$34.50
+TREE,$134.35,1440080516017,"24,463",67% bearish,of 3 ratings,$119
+LHCG,$47.45,1440080516050,"4,617",100% bearish,of 1 rating,$48
+LGIH,$25.3,1440080516072,"44,076",67% bullish,of 3 ratings,$23
+LXRX,$12.26,1440080516105,"681,696",92% bullish,of 12 ratings,$16.50
+LBRDA,$55.92,1440080516147,"30,078",100% bearish,of 1 rating,$63
+LBRDK,$54.85,1440080516406,"28,530",100% bearish,of 1 rating,$56
+LBTYA,$51.46,1440080516462,"140,918",50% bullish,of 2 ratings,$61.80
+LBTYK,$47.65,1440080516493,"443,311",50% bullish,of 2 ratings,N/A
+LILA,$37.875,1440080516519,"21,156",Not yet rated,NULL,$50
+LBTYB,NULL,1440080516594,0,100% bearish,of 1 rating,N/A
+LILAK,$36.91,1440080516728,"7,949",Not yet rated,NULL,$53
+LVNTA,$41.81,1440080516760,"40,388",100% bearish,of 1 rating,$44.50
+QVCB,NULL,1440080517038,0,Not yet rated,NULL,N/A
+LVNTB,NULL,1440080517069,0,100% bearish,of 1 rating,N/A
+LMCA,$37.5,1440080517099,"43,922",67% bearish,of 3 ratings,$47
+QVCA,$28.56,1440080517129,"191,355",100% bearish,of 1 rating,$35.92
+LMCB,NULL,1440080517200,0,100% bearish,of 1 rating,N/A
+TAX,$24.68,1440080517265,530,100% bearish,of 2 ratings,$34
+LTRPA,$25.65,1440080517293,"54,218",100% bearish,of 1 rating,$31.55
+LMCK,$36.675,1440080517350,"78,862",100% bearish,of 1 rating,$45
+LTRPB,NULL,1440080517591,0,100% bearish,of 1 rating,N/A
+LPNT,$81.845,1440080517622,"51,333",100% bearish,of 2 ratings,$89.50
+LCUT,$14.76,1440080517680,"3,502",100% bearish,of 1 rating,N/A
+LGND,$93.53,1440080517720,"8,594",50% bullish,of 4 ratings,$125
+LTBR,$1.02,1440080517750,"10,156",100% bullish,of 5 ratings,N/A
+LFVN,$0.8782,1440080517816,"147,303",50% bullish,of 2 ratings,N/A
+LPTH,$1.69,1440080517879,"4,224",50% bullish,of 2 ratings,$1.50
+LWAY,$13.821,1440080517905,"1,450",100% bearish,of 1 rating,$22
+LIME,$3.42,1440080518077,"4,672",67% bullish,of 3 ratings,N/A
+LLNW,$2.68,1440080518110,"12,488",86% bullish,of 7 ratings,$4.375
+LMNR,$19.35,1440080518211,568,100% bearish,of 1 rating,$30
+LLEX,NULL,1440080518243,0,50% bullish,of 2 ratings,N/A
+LINC,$1.0001,1440080518273,"2,000",100% bearish,of 2 ratings,$3
+LECO,$59.62,1440080518299,"15,228",67% bearish,of 3 ratings,$70.50
+LIND,$9.6,1440080518344,600,50% bullish,of 2 ratings,N/A
+LINDW,$1.56,1440080518597,"1,100",Not yet rated,NULL,N/A
+LNCO,$2.405,1440080518625,"640,069",67% bullish,of 9 ratings,$5
+LINE,$2.59,1440080518652,"850,120",86% bullish,of 22 ratings,$7
+LLTC,$39.895,1440080518685,"497,314",100% bearish,of 1 rating,$44.50
+LIQD,$0.1172,1440080518814,"131,070",100% bullish,of 2 ratings,N/A
+LIOX,$5.75,1440080518845,"17,129",75% bullish,of 4 ratings,$8
+LPCN,$15.04,1440080518867,"26,235",50% bullish,of 2 ratings,$20
+LBIO,$6.86,1440080518942,"22,640",67% bullish,of 3 ratings,$19
+LQDT,$7.63,1440080519038,"27,767",56% bullish,of 9 ratings,$9.50
+LFUS,$90.75,1440080519174,"3,616",100% bearish,of 1 rating,$108
+LOB,$19.945,1440080519234,"7,920",100% bullish,of 1 rating,$22.50
+LPSN,$8.97,1440080519368,"15,213",50% bullish,of 6 ratings,$11
+LMIA,$11.49,1440080519397,"3,100",100% bearish,of 1 rating,$14
+LKQ,$30.252,1440080519425,"77,176",50% bullish,of 2 ratings,$34
+LIVE,$1.84,1440080519448,"12,577",100% bullish,of 7 ratings,N/A
+LNBB,NULL,1440080519471,0,NULL,NULL,NULL
+LOGI,$13.21,1440080519637,"33,495",75% bullish,of 8 ratings,$13.50
+LOJN,$3.46,1440080519671,"4,847",50% bullish,of 2 ratings,N/A
+LOGM,$68.9869,1440080519740,"11,420",67% bullish,of 6 ratings,$81
+LORL,$60.26,1440080519834,691,100% bearish,of 1 rating,N/A
+LOOK,$0.69,1440080519887,"6,252",50% bullish,of 2 ratings,N/A
+LABC,NULL,1440080519941,0,100% bearish,of 1 rating,N/A
+EVAR,NULL,1440080519966,0,50% bullish,of 2 ratings,$6
+LPTN,$0.2397,1440080520313,"5,703",50% bullish,of 2 ratings,N/A
+LMNS,$13.92,1440080520451,"11,013",100% bearish,of 1 rating,$16
+LOXO,$18.89,1440080520482,"5,464",100% bearish,of 1 rating,$25
+LULU,$63.7499,1440080520512,"138,579",55% bullish,of 22 ratings,$73
+LRAD,$1.77,1440080520542,"2,920",100% bullish,of 3 ratings,N/A
+LYTS,$8.83,1440080520583,"4,246",100% bearish,of 2 ratings,N/A
+LITE,$21.54,1440080520643,"14,653",100% bearish,of 1 rating,$23
+LPLA,$42.49,1440080520732,"64,818",Not yet rated,NULL,$45.50
+LMNX,$18.525,1440080520807,"24,409",100% bearish,of 1 rating,$18
+LMOS,$12.445,1440080520901,"6,058",50% bullish,of 2 ratings,$19
+LUNA,$1.151,1440080520950,"17,350",100% bullish,of 3 ratings,$2
+MBTF,$6.3389,1440080521105,"5,893",Not yet rated,NULL,N/A
+MFNC,$10.5,1440080521182,200,Not yet rated,NULL,N/A
+MTSI,$30.4675,1440080521208,"25,533",75% bullish,of 4 ratings,$38.50
+MCBC,$5.28,1440080521244,300,Not yet rated,NULL,$5.50
+MCUR,$3.0057,1440080521270,"307,376",67% bullish,of 3 ratings,$17
+MAGS,$4.37,1440080521344,"9,060",50% bullish,of 2 ratings,N/A
+MGNX,$29.05,1440080521405,"19,111",50% bullish,of 2 ratings,$50
+MCBK,$19.72,1440080521451,100,Not yet rated,NULL,N/A
+MPET,$2.0071,1440080521588,100,67% bullish,of 3 ratings,$14.40
+MGLN,$58.18,1440080521615,"7,932",86% bullish,of 7 ratings,$66
+MGIC,$6.59,1440080521656,694,50% bullish,of 2 ratings,$7.50
+CALL,$9.29,1440080521683,"11,935",88% bullish,of 8 ratings,N/A
+MNGA,$1.06,1440080521814,"15,948",85% bullish,of 13 ratings,$2.475
+MAG,$49.86,1440080521944,211,50% bullish,of 2 ratings,N/A
+MGYR,NULL,1440080521973,0,67% bullish,of 3 ratings,N/A
+MSFG,$21.655,1440080522078,442,100% bullish,of 1 rating,$24
+MHLDO,NULL,1440080522103,0,100% bearish,of 1 rating,N/A
+MHLD,$16.24,1440080522156,"33,576",50% bullish,of 2 ratings,$17.50
+COOL,$1.36,1440080522270,"1,300",58% bullish,of 12 ratings,N/A
+MMYT,$12.7399,1440080522298,"49,940",67% bullish,of 3 ratings,$22.50
+MBUU,$17.88,1440080522372,"16,989",67% bullish,of 3 ratings,$27
+MAMS,NULL,1440080522617,0,67% bearish,of 3 ratings,$7
+LOAN,$3.54,1440080522644,"23,510",100% bullish,of 2 ratings,N/A
+MLVF,$15.7001,1440080522681,"1,000",Not yet rated,NULL,$17
+MANH,$65.095,1440080522775,"29,459",50% bullish,of 2 ratings,$68
+MTEX,$18.3,1440080522801,500,80% bullish,of 5 ratings,N/A
+MNTX,$6.85,1440080522827,"12,478",50% bullish,of 2 ratings,$10
+MNKD,$3.83,1440080522855,"965,176",85% bullish,of 41 ratings,$6.50
+MARA,$2.123,1440080523052,"14,408",50% bullish,of 2 ratings,$8
+MANT,$27.93,1440080523084,"7,127",50% bullish,of 2 ratings,$32
+MRNS,$14.45,1440080523149,"2,365",100% bearish,of 1 rating,$22
+MCHX,$3.6901,1440080523181,"8,755",100% bearish,of 1 rating,$5.50
+MKTX,$97.02,1440080523210,"20,777",100% bullish,of 1 rating,$90
+MARPS,$5.32,1440080523248,"1,400",100% bearish,of 1 rating,N/A
+MKTO,$28.38,1440080523340,"38,731",50% bullish,of 4 ratings,$40
+MRLN,$13.7699,1440080523578,"2,735",100% bearish,of 2 ratings,N/A
+MRKT,$29.17,1440080523643,"99,925",100% bearish,of 1 rating,$30
+MAR,$70.21,1440080523745,"162,724",67% bearish,of 3 ratings,$80
+MBII,$1.903,1440080523771,"2,800",50% bullish,of 6 ratings,$4.125
+MRTN,$18.6,1440080523797,"5,791",75% bullish,of 4 ratings,$25
+MASI,$42.71,1440080523954,"20,808",67% bullish,of 3 ratings,$42.25
+MTLS,$7.985,1440080523983,"10,898",75% bullish,of 4 ratings,$11
+MMLP,$26.09,1440080524009,"22,194",67% bullish,of 3 ratings,$39
+MRVL,$11.75,1440080524041,"2,165,715",56% bullish,of 9 ratings,$16
+MTRX,$20.12,1440080524147,"12,022",67% bearish,of 3 ratings,$23
+MAT,$22.54,1440080524180,"461,620",78% bullish,of 9 ratings,$27.50
+MATR,$6.99,1440080524205,"28,818",67% bullish,of 3 ratings,$9.50
+MATW,$53.18,1440080524246,"6,279",Not yet rated,NULL,$58
+MTSN,$2.54,1440080524420,"35,545",100% bullish,of 1 rating,$4.50
+MFRM,$64.91,1440080524447,"12,086",50% bullish,of 4 ratings,$73
+MXIM,$32.41,1440080524610,"285,668",67% bullish,of 3 ratings,$36
+MZOR,$13.03,1440080524688,"3,640",75% bullish,of 4 ratings,$16
+MXWL,$5.01,1440080524715,"6,348",50% bullish,of 4 ratings,$7
+MCGC,NULL,1440080524737,0,NULL,NULL,NULL
+MBFIP,$26.957,1440080524763,"4,501",Not yet rated,NULL,N/A
+MCFT,$14.99,1440080524894,"18,150",Not yet rated,NULL,$19
+MCOX,NULL,1440080525029,0,60% bullish,of 5 ratings,N/A
+MGRC,$24.96,1440080525210,"2,470",100% bullish,of 1 rating,$29
+MTBC,NULL,1440080525239,0,100% bearish,of 1 rating,$6.25
+MDAS,$21.7,1440080525261,"21,513",100% bearish,of 1 rating,$22
+TAXI,$8.2,1440080525283,"9,553",50% bullish,of 2 ratings,$9.75
+MDCA,$19.72,1440080525323,"35,718",100% bearish,of 1 rating,$26
+MBFI,$32.54,1440080525346,"33,833",Not yet rated,NULL,$36
+MNOV,$3.38,1440080525523,"11,670",80% bullish,of 5 ratings,$7
+MDSO,$51.13,1440080525655,"8,841",100% bearish,of 1 rating,$59
+MDVN,$95.79,1440080525684,"104,696",67% bullish,of 6 ratings,$142
+MDGS,NULL,1440080525786,0,Not yet rated,NULL,N/A
+MDWD,$6.92,1440080525830,"2,290",50% bullish,of 2 ratings,$13
+MDVX,$2.72,1440080525868,100,Not yet rated,NULL,N/A
+MDVXW,NULL,1440080525917,0,Not yet rated,NULL,N/A
+MEIP,$1.95,1440080525961,"733,946",88% bullish,of 8 ratings,$3
+MEET,$1.585,1440080526049,"15,577",100% bullish,of 6 ratings,$4
+MLNX,$41.73,1440080526092,"59,568",71% bullish,of 7 ratings,$57
+MELR,NULL,1440080526200,0,Not yet rated,NULL,N/A
+MPEL,$19.54,1440080526251,"467,285",75% bullish,of 8 ratings,$25.60
+MELA,$1.1999,1440080526277,"2,759",83% bullish,of 6 ratings,$4.50
+MEMP,$6.2601,1440080526299,"184,595",67% bearish,of 3 ratings,$15.50
+MRD,$18.74,1440080526336,"155,209",50% bullish,of 2 ratings,$25.50
+MENT,$25.425,1440080526469,"58,217",67% bullish,of 3 ratings,$30
+MTSL,$1.4396,1440080526697,"8,312",50% bullish,of 2 ratings,N/A
+MERC,$11.3,1440080526729,"16,158",75% bullish,of 4 ratings,$13.50
+MELI,$111.95,1440080526761,"34,852",63% bullish,of 8 ratings,$143
+MBWM,$20.4,1440080526830,"3,915",100% bearish,of 1 rating,$22.50
+MRCY,$15.69,1440080526856,"11,151",100% bullish,of 2 ratings,$18
+MRGE,$7.095,1440080526888,"275,733",60% bullish,of 5 ratings,$7.05
+EBSB,$12.54,1440080526914,"5,473",Not yet rated,NULL,$13.25
+MBVT,$29.07,1440080526987,721,100% bullish,of 1 rating,$31.50
+MMSI,$24.055,1440080527156,"16,363",50% bullish,of 2 ratings,$27
+VIVO,$18.29,1440080527203,"12,483",50% bullish,of 2 ratings,$19.50
+MACK,$10.0099,1440080527231,"94,599",89% bullish,of 9 ratings,$16
+MLAB,NULL,1440080527298,0,75% bullish,of 4 ratings,N/A
+CASH,$46.71,1440080527325,138,100% bearish,of 1 rating,$60
+MSLI,$1.8,1440080527357,"3,086",100% bullish,of 1 rating,$2.85
+MBLX,NULL,1440080527489,0,67% bullish,of 3 ratings,$3
+MEILW,NULL,1440080527683,0,100% bullish,of 1 rating,N/A
+MEILZ,NULL,1440080527721,0,100% bullish,of 1 rating,N/A
+MEOH,$41.21,1440080527743,"77,714",50% bullish,of 2 ratings,$57
+MEIL,$0.38,1440080527774,"1,000",50% bullish,of 2 ratings,N/A
+MGEE,$39.51,1440080527809,"5,608",50% bullish,of 2 ratings,N/A
+METR,$29.65,1440080527839,"10,215",100% bullish,of 1 rating,$29
+MFRI,$5.29,1440080527909,1,50% bullish,of 2 ratings,N/A
+MGCD,$5.052,1440080527936,600,100% bearish,of 1 rating,N/A
+MCHP,$42.06,1440080528159,"84,730",50% bullish,of 6 ratings,$48
+MGPI,$14.72,1440080528194,"3,725",50% bullish,of 2 ratings,N/A
+MU,$14.95,1440080528246,"9,480,042",83% bullish,of 78 ratings,$28
+MICT,NULL,1440080528295,0,100% bearish,of 1 rating,N/A
+MICTW,NULL,1440080528476,0,50% bullish,of 2 ratings,N/A
+MSFT,$45.83,1440080528505,"4,031,480",84% bullish,of 504 ratings,$52.50
+MSTR,$215.45,1440080528529,"1,777",100% bearish,of 1 rating,$217.50
+MSCC,$31.74,1440080528559,"31,240",75% bullish,of 4 ratings,$40
+MCEP,$2.5801,1440080528692,"56,787",100% bearish,of 1 rating,$6
+MPB,$16.27,1440080528737,200,100% bullish,of 2 ratings,N/A
+MVIS,$3.23,1440080528765,"9,290",95% bullish,of 19 ratings,$3.50
+MBRG,$18.24,1440080528793,"1,436",Not yet rated,NULL,N/A
+MBCN,NULL,1440080528946,0,Not yet rated,NULL,N/A
+MSEX,$22.86,1440080529005,"2,622",100% bullish,of 1 rating,$26
+MOFG,$30.78,1440080529075,978,Not yet rated,NULL,$34
+MDXG,$9.04,1440080529218,"87,835",100% bullish,of 1 rating,$15
+MNDO,$2.83,1440080529245,"2,294",80% bullish,of 5 ratings,N/A
+MB,$13.02,1440080529375,"16,535",50% bullish,of 2 ratings,$19
+NERV,$5.58,1440080529400,440,100% bearish,of 1 rating,$10
+MRTX,$22.54,1440080529430,"13,604",100% bearish,of 1 rating,$44
+MIND,$4.19,1440080529565,"1,289",67% bearish,of 3 ratings,$6.35
+MITK,$3.55,1440080529596,"8,245",100% bullish,of 9 ratings,$5
+MSON,$9.71,1440080529698,86,50% bullish,of 2 ratings,N/A
+MITL,$7.9,1440080529725,"19,308",75% bullish,of 8 ratings,$13
+MKSI,$34.53,1440080529773,"5,811",67% bullish,of 3 ratings,$44
+MMAC,$13.01,1440080529950,"8,012",Not yet rated,NULL,N/A
+MINI,$32.71,1440080530005,"26,225",100% bullish,of 2 ratings,$47
+MOBL,$4.295,1440080530036,"126,681",71% bullish,of 7 ratings,$8
+MOCO,NULL,1440080530143,0,50% bullish,of 2 ratings,N/A
+MDSY,$1.9,1440080530173,361,100% bearish,of 1 rating,N/A
+MLNK,$3.04,1440080530276,"17,419",80% bullish,of 5 ratings,N/A
+MOLG,$1.07,1440080530328,600,50% bullish,of 2 ratings,N/A
+MOKO,$3.7,1440080530381,"2,999",50% bullish,of 2 ratings,$8
+MOMO,$15.47,1440080530509,"210,960",50% bullish,of 2 ratings,$15.40
+MNTA,$21.8,1440080530537,"63,539",100% bearish,of 2 ratings,$26
+MCRI,$17.785,1440080530585,"2,129",100% bearish,of 1 rating,$21.50
+MDLZ,$44.23,1440080530611,"1,947,139",56% bullish,of 9 ratings,$49
+MNRK,NULL,1440080530839,0,Not yet rated,NULL,$14.50
+MGI,$9.06,1440080530878,"4,053",75% bullish,of 4 ratings,$9.50
+MPWR,$48.67,1440080531007,"8,997",50% bullish,of 2 ratings,$60
+TYPE,$23.055,1440080531033,"10,933",100% bearish,of 1 rating,$33.50
+MNRO,$64.665,1440080531059,"14,416",100% bearish,of 1 rating,$68
+MNST,$145.7599,1440080531192,"112,972",56% bullish,of 16 ratings,$160
+MRCC,$14.9399,1440080531329,"16,511",Not yet rated,NULL,$16
+MORN,$83.53,1440080531361,"1,594",100% bearish,of 1 rating,N/A
+MHGC,$4.8,1440080531383,"17,169",75% bullish,of 4 ratings,$8
+MOSY,$1.47,1440080531424,353,75% bullish,of 4 ratings,$4
+MDM,$3.31,1440080531456,950,50% bullish,of 2 ratings,$5.21
+MPAA,$31.225,1440080531517,"13,669",67% bullish,of 3 ratings,$38
+MRVC,$19.28,1440080531550,"8,338",100% bearish,of 1 rating,$20
+MSBF,$11.52,1440080531658,857,Not yet rated,NULL,N/A
+MTSC,$63.355,1440080531790,"3,266",Not yet rated,NULL,N/A
+LABL,$66.3,1440080531815,"5,553",100% bearish,of 1 rating,$80
+MFSF,NULL,1440080532112,0,Not yet rated,NULL,$24
+MFLX,$18.2,1440080532145,"20,170",50% bullish,of 2 ratings,$27
+MYL,$54.19,1440080532167,"597,567",71% bullish,of 7 ratings,$70.50
+MYOS,$3,1440080532203,761,100% bearish,of 2 ratings,N/A
+MYRG,$28.78,1440080532257,"11,245",100% bearish,of 1 rating,$34
+MYGN,$33.71,1440080532296,"21,145",53% bullish,of 17 ratings,$33
+NSPH,$2.47,1440080532334,"18,531",64% bullish,of 14 ratings,$4.05
+NANO,$14.01,1440080532366,"4,080",80% bullish,of 5 ratings,$21
+NSTG,$14.47,1440080532530,"1,533",67% bullish,of 3 ratings,$19
+NTRA,$14.72,1440080532714,"3,040",100% bearish,of 1 rating,$20
+NK,$26.51,1440080532740,"209,568",50% bullish,of 2 ratings,N/A
+NSSC,$5.82,1440080532767,100,50% bullish,of 2 ratings,$5.50
+NATH,$33.4,1440080532817,"1,750",50% bullish,of 2 ratings,N/A
+NAUH,NULL,1440080532905,0,100% bearish,of 1 rating,N/A
+NKSH,$31.17,1440080532974,100,100% bearish,of 1 rating,N/A
+FIZZ,$25.05,1440080533000,"1,061",100% bullish,of 1 rating,N/A
+NGHC,$19.64,1440080533140,"36,058",100% bearish,of 1 rating,$25.50
+NCMI,$13.97,1440080533172,"23,550",100% bearish,of 1 rating,$18
+NGHCO,$24.63,1440080533202,"11,177",Not yet rated,NULL,N/A
+NCOM,$23.8543,1440080533237,"1,007",Not yet rated,NULL,$28
+NGHCP,$24.7,1440080533301,"1,150",Not yet rated,NULL,N/A
+NHLD,$3.2599,1440080533405,200,Not yet rated,NULL,N/A
+NATI,$28.93,1440080533432,"43,980",100% bearish,of 1 rating,$36
+NATL,$28.02,1440080533478,"3,537",Not yet rated,NULL,N/A
+NPBC,$12.5,1440080533736,"393,885",100% bearish,of 1 rating,$12
+NRCIA,$13.02,1440080533838,149,100% bearish,of 1 rating,N/A
+NRCIB,NULL,1440080533886,0,100% bearish,of 1 rating,N/A
+NAII,NULL,1440080533917,0,50% bullish,of 2 ratings,N/A
+NHTC,$27.56,1440080533970,"24,091",50% bullish,of 4 ratings,N/A
+NWLI,$232,1440080534022,511,100% bullish,of 2 ratings,N/A
+NSEC,NULL,1440080534051,0,100% bearish,of 1 rating,N/A
+NATR,$12.99,1440080534076,700,100% bullish,of 2 ratings,$15
+BABY,$43.27,1440080534215,"20,587",Not yet rated,NULL,$50
+NVSL,NULL,1440080534304,0,100% bearish,of 1 rating,N/A
+NAVI,$14.475,1440080534379,"307,205",100% bearish,of 1 rating,$21
+NBTB,$26.21,1440080534408,"4,011",Not yet rated,NULL,$26
+NCIT,$12.88,1440080534512,"1,050",100% bullish,of 1 rating,$11.50
+NKTR,$10.6062,1440080534569,"48,868",80% bullish,of 5 ratings,$16
+NEOG,$53.915,1440080534653,"18,759",Not yet rated,NULL,$57
+NEON,$2.308,1440080534793,"14,154",75% bullish,of 8 ratings,$5
+NVCN,$4,1440080534824,"5,900",50% bullish,of 2 ratings,$14
+NEOS,$22.38,1440080534851,"30,821",100% bullish,of 1 rating,$33.50
+NEOT,$13.17,1440080534875,"1,850",75% bullish,of 4 ratings,$20
+NEO,$5.91,1440080534907,"22,894",50% bullish,of 2 ratings,$7.50
+NRX,$4,1440080535040,"5,817",67% bearish,of 3 ratings,N/A
+NEPT,$1.39,1440080535066,"7,401",67% bullish,of 3 ratings,N/A
+NETE,$0.1702,1440080535196,"69,721",75% bullish,of 4 ratings,$3.285
+UEPS,$19.69,1440080535253,"35,135",75% bullish,of 4 ratings,$26
+NTAP,$30.71,1440080535280,"2,980,914",63% bullish,of 8 ratings,$35
+NFLX,$117.9505,1440080535432,"1,967,239",64% bullish,of 208 ratings,$125
+NTES,$119.525,1440080535481,"93,827",50% bullish,of 4 ratings,$137.50
+NTGR,$31.175,1440080535614,"66,276",100% bearish,of 1 rating,$36.50
+NTCT,$39.56,1440080535647,"39,883",100% bearish,of 1 rating,$48
+CUR,$1.35,1440080535669,"37,938",67% bullish,of 6 ratings,$5
+NLST,$0.4192,1440080535703,"15,850",56% bullish,of 9 ratings,$1.625
+NTWK,$5.0001,1440080535746,"9,266",83% bullish,of 6 ratings,$7.75
+NBIX,$45.7461,1440080535798,"52,784",100% bearish,of 1 rating,$60
+NURO,$0.88,1440080535874,"55,550",100% bullish,of 1 rating,$6.30
+NDRM,$23.6401,1440080535933,"35,093",50% bullish,of 4 ratings,$27.50
+NUROW,$0.26,1440080536085,45,Not yet rated,NULL,N/A
+NLNK,$50.8,1440080536362,"35,746",60% bearish,of 5 ratings,$62
+NYMTO,$20.84,1440080536383,"1,100",Not yet rated,NULL,N/A
+NYMTP,$22.0699,1440080536417,200,Not yet rated,NULL,N/A
+NBBC,$8.055,1440080536447,"2,825",Not yet rated,NULL,$9.75
+NYMT,$6.7021,1440080536474,"131,036",56% bullish,of 9 ratings,$8.125
+NEWP,$15.71,1440080536512,"11,996",100% bearish,of 1 rating,$21
+NWS,$14.61,1440080536545,"41,077",50% bullish,of 2 ratings,$16
+NWSA,$14.7,1440080536609,"185,573",100% bearish,of 2 ratings,$17.59
+NEWS,$10.71,1440080536837,"3,053",100% bearish,of 1 rating,$14.25
+NEWT,$16.92,1440080536874,"69,908",100% bearish,of 1 rating,N/A
+NFEC,NULL,1440080536907,0,100% bullish,of 1 rating,N/A
+NXST,$51.65,1440080536936,"61,304",67% bearish,of 3 ratings,$66
+NVET,NULL,1440080536965,0,100% bearish,of 1 rating,$16
+EGOV,$19.22,1440080537065,"7,645",50% bullish,of 2 ratings,$20
+NICE,$65.14,1440080537239,"15,966",75% bullish,of 4 ratings,$69
+NIHD,$8.595,1440080537280,"4,190",69% bullish,of 13 ratings,N/A
+NVLS,$17.96,1440080537328,"1,299",100% bullish,of 1 rating,$29
+NICK,$12.97,1440080537373,600,50% bullish,of 2 ratings,N/A
+NMIH,$8.45,1440080537426,"5,376",100% bearish,of 1 rating,$11
+NNBR,$24.66,1440080537451,"19,899",67% bullish,of 3 ratings,$32
+NDSN,$72.81,1440080537482,"19,999",100% bearish,of 2 ratings,$90
+NDLS,$12.736,1440080537616,"12,403",50% bullish,of 6 ratings,$13.75
+NSYS,NULL,1440080537778,0,Not yet rated,NULL,N/A
+NBN,$10.76,1440080537805,2,Not yet rated,NULL,N/A
+NTK,$73.16,1440080537837,496,Not yet rated,NULL,$90
+NECB,$7.9,1440080537881,200,Not yet rated,NULL,N/A
+NTIC,$15,1440080537939,"6,400",Not yet rated,NULL,N/A
+NTRS,$75.91,1440080538075,"46,658",67% bullish,of 3 ratings,$76
+NTRSP,$25.81,1440080538210,417,100% bearish,of 1 rating,N/A
+NWBI,$12.74,1440080538236,"41,152",100% bearish,of 1 rating,$13
+NWBO,$9.06,1440080538272,"37,474",89% bullish,of 27 ratings,$12
+NRIM,$27.25,1440080538295,"1,301",Not yet rated,NULL,$28
+NFBK,$15.19,1440080538325,"7,271",100% bearish,of 1 rating,$15
+NWBOW,NULL,1440080538368,0,67% bullish,of 3 ratings,N/A
+NWPX,$16.3,1440080538458,"2,268",100% bearish,of 1 rating,$26.50
+NWFL,NULL,1440080538602,0,Not yet rated,NULL,N/A
+NVFY,$1.85,1440080538656,"3,764",100% bearish,of 1 rating,N/A
+NCLH,$58.2,1440080538683,"127,521",67% bearish,of 3 ratings,$64
+NVMI,$11.82,1440080538819,549,80% bullish,of 5 ratings,$14
+NVDQ,$11.56,1440080538851,"4,864",100% bearish,of 1 rating,$16
+NVAX,$13.02,1440080538950,"357,908",86% bullish,of 21 ratings,$14
+NTLS,$9.19,1440080538980,"64,538",50% bullish,of 4 ratings,$9.625
+NVGN,$2.9263,1440080539033,"14,315",75% bullish,of 8 ratings,$5
+MIFI,$2.447,1440080539082,"32,376",83% bullish,of 6 ratings,$5.75
+NUAN,$17.89,1440080539191,"256,168",78% bullish,of 18 ratings,$22
+NMRX,$8.65,1440080539219,"10,400",50% bullish,of 2 ratings,$11.50
+NUTR,$23.69,1440080539248,"1,038",Not yet rated,NULL,$29
+NTRI,$29.23,1440080539280,"21,391",67% bearish,of 3 ratings,$33.50
+NUVA,$53,1440080539378,"11,773",67% bearish,of 3 ratings,$57
+QQQX,$18.7801,1440080539517,"13,981",87% bullish,of 15 ratings,N/A
+NVEE,$21.78,1440080539543,"12,971",100% bearish,of 1 rating,$27.50
+NVDA,$22.36,1440080539626,"1,364,350",72% bullish,of 58 ratings,$24
+NVEC,$54.215,1440080539693,"1,375",100% bearish,of 2 ratings,$70
+NXPI,$84.07,1440080539729,"951,941",89% bullish,of 19 ratings,$122.50
+NXTD,$1.38,1440080539826,"5,715",50% bullish,of 2 ratings,$5.75
+NYMX,$2.37,1440080539887,"74,708",80% bullish,of 5 ratings,N/A
+NXTDW,$0.35,1440080539958,"3,857",Not yet rated,NULL,N/A
+NXTM,$17.825,1440080540019,"19,262",100% bearish,of 1 rating,$22.50
+OVLY,NULL,1440080540044,0,Not yet rated,NULL,N/A
+OIIM,$2.3499,1440080540256,"7,223",100% bearish,of 1 rating,$5
+OPTT,$0.5196,1440080540285,"1,100",100% bullish,of 1 rating,N/A
+OCAT,$3.725,1440080540307,"180,300",83% bullish,of 12 ratings,N/A
+OBCI,$2.69,1440080540338,336,50% bullish,of 2 ratings,N/A
+ORIG,$3.19,1440080540368,"137,469",50% bullish,of 2 ratings,$7
+OSHC,$15.17,1440080540473,200,Not yet rated,NULL,N/A
+OCFC,$18.5,1440080540541,332,Not yet rated,NULL,$19.75
+OCLR,$2.73,1440080540673,"187,740",100% bullish,of 3 ratings,$3.75
+OCRX,NULL,1440080540710,0,80% bullish,of 5 ratings,$12
+OFED,NULL,1440080540766,0,Not yet rated,NULL,N/A
+OCUL,$15.975,1440080540801,"71,489",50% bullish,of 2 ratings,$36
+OCLS,$1.1299,1440080540831,"35,964",63% bullish,of 8 ratings,$4
+OCLSW,NULL,1440080540860,0,Not yet rated,NULL,N/A
+OMEX,$0.3398,1440080540932,"1,695",50% bullish,of 2 ratings,$4.50
+ODP,$7.51,1440080541138,"325,838",83% bullish,of 6 ratings,$11
+OFS,$11.505,1440080541164,"2,480",100% bearish,of 1 rating,$14.25
+OHRP,$2.6438,1440080541234,"41,929",57% bearish,of 7 ratings,$30
+ODFL,$70.99,1440080541312,"58,189",100% bullish,of 1 rating,$79.50
+OVBC,NULL,1440080541362,0,Not yet rated,NULL,N/A
+OHAI,$4.8075,1440080541390,"2,714",100% bullish,of 1 rating,N/A
+OLBK,$15.76,1440080541421,610,100% bullish,of 2 ratings,$18
+OSBC,$6.13,1440080541522,"9,375",Not yet rated,NULL,$6.125
+ONB,$14.205,1440080541652,"58,964",100% bearish,of 1 rating,$15
+OSBCP,$9.8801,1440080541698,794,Not yet rated,NULL,N/A
+OFLX,$31.7,1440080541799,676,100% bearish,of 1 rating,N/A
+ZEUS,$12,1440080541833,"3,502",100% bearish,of 1 rating,$19
+OPOF,$15.64,1440080541855,726,Not yet rated,NULL,N/A
+OLLI,$19.77,1440080541884,"6,001",Not yet rated,NULL,$23
+OMER,$21.56,1440080541930,"231,273",60% bullish,of 5 ratings,$38
+OMCL,$35.48,1440080542071,"28,653",67% bullish,of 3 ratings,$42
+OVTI,$24.47,1440080542284,"33,612",71% bullish,of 7 ratings,$29.75
+OGXI,$2.5601,1440080542321,"104,567",86% bullish,of 7 ratings,$6
+OTIV,$1.0898,1440080542352,660,71% bullish,of 7 ratings,$2.75
+ON,$9.46,1440080542415,"210,295",89% bullish,of 9 ratings,$13.50
+OMED,$21.4,1440080542440,"7,134",50% bullish,of 6 ratings,$37
+ONCY,$0.5331,1440080542469,"85,365",96% bullish,of 26 ratings,$1.125
+ONTX,$1.6999,1440080542497,"105,658",78% bullish,of 9 ratings,$6
+ONTY,$3.01,1440080542523,"155,003",63% bullish,of 8 ratings,$5
+ONCS,$5.88,1440080542708,"13,762",100% bullish,of 1 rating,$25
+OHGI,$1.4999,1440080542782,"279,043",50% bullish,of 4 ratings,$5.03
+ONVI,NULL,1440080542809,0,100% bearish,of 1 rating,N/A
+OPXA,$0.3701,1440080542863,"29,854",83% bullish,of 6 ratings,$5
+OTEX,$45.2,1440080542891,"14,668",60% bullish,of 5 ratings,$55
+ONFC,$20.32,1440080542968,700,Not yet rated,NULL,N/A
+OPXAW,NULL,1440080543099,0,Not yet rated,NULL,N/A
+OBAS,NULL,1440080543263,0,100% bearish,of 1 rating,N/A
+OPGNW,NULL,1440080543298,0,Not yet rated,NULL,N/A
+OPHC,NULL,1440080543329,0,Not yet rated,NULL,N/A
+OPGN,NULL,1440080543350,0,Not yet rated,NULL,N/A
+OPHT,$49.44,1440080543397,"46,538",100% bearish,of 1 rating,$93.50
+OCC,NULL,1440080543423,0,50% bullish,of 2 ratings,N/A
+OPB,$37.49,1440080543499,"2,644",100% bearish,of 1 rating,$45
+OSUR,$5.6501,1440080543693,"107,956",67% bullish,of 3 ratings,$8
+ORMP,$6.0611,1440080543729,"16,272",60% bearish,of 5 ratings,$30
+ORBC,$5.875,1440080543755,"15,041",67% bullish,of 3 ratings,$8.50
+ORLY,$252.825,1440080543787,"41,903",90% bullish,of 10 ratings,$260
+OREX,$3.3,1440080543823,"199,553",67% bullish,of 9 ratings,$13
+ORBK,$16.815,1440080543853,"54,712",67% bearish,of 3 ratings,$24
+OESX,$2.07,1440080544126,"26,304",50% bullish,of 2 ratings,$3.50
+SEED,$1.2,1440080544152,"15,468",86% bullish,of 7 ratings,N/A
+ORRF,$17.33,1440080544218,300,50% bullish,of 2 ratings,$19.75
+ORIT,$15.53,1440080544282,"4,634",100% bearish,of 1 rating,$16.50
+OSIS,$71.36,1440080544313,"13,650",75% bullish,of 4 ratings,$90
+OFIX,$38.06,1440080544335,"6,635",50% bullish,of 2 ratings,$48
+OSIR,$17.455,1440080544356,"9,739",100% bullish,of 4 ratings,$26.50
+OSN,$0.7602,1440080544542,200,100% bullish,of 2 ratings,N/A
+OTIC,$22.5,1440080544675,"19,152",50% bullish,of 2 ratings,$30
+OTEL,$5.84,1440080544708,134,67% bullish,of 3 ratings,N/A
+OVAS,$22.5524,1440080544740,"27,730",50% bullish,of 2 ratings,$49
+OTTR,$27.2,1440080544766,"4,462",100% bearish,of 1 rating,$31
+OUTR,$61.01,1440080544842,"42,728",79% bullish,of 14 ratings,$87
+OSTK,$21.68,1440080544975,"6,174",78% bullish,of 9 ratings,$30
+OXBR,NULL,1440080545045,0,100% bearish,of 1 rating,N/A
+OXFD,$13.19,1440080545105,634,100% bearish,of 1 rating,$21
+OXLC,$12.707,1440080545135,"21,331",100% bullish,of 1 rating,$16
+OXBRW,NULL,1440080545156,0,100% bearish,of 1 rating,N/A
+OXLCN,$25.3,1440080545190,600,Not yet rated,NULL,N/A
+OXLCO,$24.01,1440080545361,"1,200",Not yet rated,NULL,N/A
+PFIN,$9.9575,1440080545392,"9,921",50% bullish,of 2 ratings,N/A
+OXGN,$1.313,1440080545418,"22,420",91% bullish,of 11 ratings,$6.25
+PTSI,$44.45,1440080545496,486,100% bearish,of 1 rating,N/A
+PCAR,$61.6,1440080545681,"196,357",60% bullish,of 5 ratings,$71
+PACB,$4.595,1440080545786,"51,044",78% bullish,of 9 ratings,$7
+PCBK,$13.25,1440080545854,"1,988",100% bearish,of 2 ratings,$15
+PDVW,$31.99,1440080545886,"1,937",Not yet rated,NULL,$78
+PEIX,$7.39,1440080545917,"41,354",89% bullish,of 46 ratings,$17
+PMBC,$7.4,1440080545986,400,100% bearish,of 1 rating,$7.75
+PACW,$44.83,1440080546014,"72,432",Not yet rated,NULL,$53.50
+PPBI,$19.74,1440080546043,"7,150",Not yet rated,NULL,$20.50
+PSUN,$0.5397,1440080546204,"22,462",83% bullish,of 6 ratings,$1.60
+PLMT,$19.15,1440080546257,100,Not yet rated,NULL,$20.25
+PCRX,$62.17,1440080546340,"45,400",67% bearish,of 3 ratings,$87
+PTIE,$1.91,1440080546407,"22,266",50% bullish,of 6 ratings,N/A
+PANL,$3.36,1440080546499,850,100% bearish,of 1 rating,N/A
+PNRA,$189.785,1440080546540,"77,104",67% bullish,of 12 ratings,$215
+PZZA,$70.84,1440080546636,"12,906",50% bullish,of 2 ratings,$71
+PAAS,$7.395,1440080546667,"454,473",60% bullish,of 5 ratings,$9
+FRSH,$13.37,1440080546774,"35,914",100% bullish,of 4 ratings,$21
+PRGN,$0.7401,1440080546802,865,50% bullish,of 4 ratings,$2.50
+PRGNL,NULL,1440080546933,0,100% bearish,of 1 rating,N/A
+PCYG,$12.56,1440080546968,"1,806",Not yet rated,NULL,$19
+PRXL,$71.08,1440080546994,"102,650",100% bearish,of 1 rating,$70
+PRTK,$23.95,1440080547022,600,60% bullish,of 5 ratings,$39
+PSTB,$7.02,1440080547067,"2,667",Not yet rated,NULL,$8.50
+PRKR,$0.2589,1440080547201,"18,420",83% bullish,of 6 ratings,$5.25
+PKBK,NULL,1440080547227,0,Not yet rated,NULL,N/A
+PKOH,$39.3399,1440080547361,"3,551",100% bearish,of 2 ratings,$70
+PBHC,$10.69,1440080547463,600,100% bearish,of 1 rating,N/A
+PTNR,$4.4599,1440080547492,"15,992",100% bullish,of 2 ratings,N/A
+PATK,$37.92,1440080547549,"9,481",60% bearish,of 5 ratings,$46.666
+PARN,$4.56,1440080547589,"1,100",100% bearish,of 1 rating,$15
+PNBK,NULL,1440080547684,0,Not yet rated,NULL,N/A
+PATI,NULL,1440080547712,0,Not yet rated,NULL,N/A
+PEGI,$22.88,1440080547739,"51,000",67% bullish,of 3 ratings,$31.25
+PDCO,$50.69,1440080547878,"90,509",100% bearish,of 2 ratings,$50
+PTEN,$15.87,1440080547979,"341,592",67% bullish,of 3 ratings,$22
+PCTY,$31.3855,1440080548013,"13,120",100% bearish,of 1 rating,$43
+PYDS,$4.0899,1440080548042,"17,174",Not yet rated,NULL,N/A
+PAYX,$47.42,1440080548116,"163,883",50% bullish,of 2 ratings,$48
+PYPL,$36.89,1440080548148,"930,259",83% bullish,of 12 ratings,$45
+PCCC,$20.86,1440080548250,"3,670",100% bearish,of 1 rating,$28
+PCMI,$10.29,1440080548405,"10,730",100% bearish,of 1 rating,$15
+PDFS,$12.79,1440080548436,"5,349",100% bearish,of 2 ratings,$24
+PCTI,$5.9414,1440080548466,"7,866",100% bearish,of 1 rating,$8.875
+PDCE,$53.51,1440080548494,"131,618",100% bearish,of 2 ratings,$70
+PDII,$2.0248,1440080548532,502,67% bullish,of 3 ratings,$3
+PDLI,$5.915,1440080548624,"151,145",67% bullish,of 9 ratings,N/A
+SKIS,$7.1,1440080548652,"1,956",100% bearish,of 1 rating,$9
+PGC,$20.72,1440080548905,"3,360",Not yet rated,NULL,N/A
+PENN,$17.86,1440080548988,"127,834",75% bullish,of 4 ratings,$23
+PCO,$1.38,1440080549040,"12,485",100% bullish,of 1 rating,N/A
+PEGA,$25.94,1440080549067,"5,633",60% bullish,of 5 ratings,$26.50
+PFLT,$12.775,1440080549195,"25,551",100% bullish,of 1 rating,$15
+PNNT,$7.57,1440080549222,"44,074",60% bullish,of 5 ratings,$9.25
+PWOD,$42.21,1440080549244,24,Not yet rated,NULL,N/A
+PTXP,$18.17,1440080549273,"2,250",100% bullish,of 1 rating,$22
+PEBK,NULL,1440080549424,0,Not yet rated,NULL,N/A
+PEBO,$21.64,1440080549458,"7,704",Not yet rated,NULL,$26.25
+PFIS,$36.58,1440080549498,"1,382",Not yet rated,NULL,N/A
+PFBX,NULL,1440080549556,0,Not yet rated,NULL,N/A
+PUB,$17.1515,1440080549642,"2,700",Not yet rated,NULL,$19
+PBCT,$16.1,1440080549696,"305,919",Not yet rated,NULL,$15
+PRCP,$10.5,1440080549773,"1,405",67% bullish,of 3 ratings,$16.50
+PPHM,$1.125,1440080549861,"108,093",93% bullish,of 30 ratings,$5
+PRFT,$16.53,1440080550037,"13,531",100% bearish,of 1 rating,$21.50
+PERF,$5.5001,1440080550072,500,Not yet rated,NULL,N/A
+PFMT,$2.77,1440080550102,700,100% bearish,of 1 rating,$5
+PTX,$4.67,1440080550134,"93,216",50% bullish,of 4 ratings,$12.50
+PPHMP,NULL,1440080550163,0,Not yet rated,NULL,N/A
+PERI,$2.49,1440080550236,"3,512",60% bullish,of 5 ratings,$4
+PSEM,$12.39,1440080550296,"8,768",100% bearish,of 1 rating,$16.50
+PESI,NULL,1440080550428,0,100% bullish,of 1 rating,$5
+PERY,$23.35,1440080550529,"40,604",50% bullish,of 4 ratings,$28
+PRSN,$0.55,1440080550566,"15,850",100% bullish,of 2 ratings,N/A
+PRSNW,NULL,1440080550587,0,Not yet rated,NULL,N/A
+PETS,$16.77,1440080550662,"7,442",50% bullish,of 2 ratings,$12
+PFSW,$12.39,1440080550689,"3,552",Not yet rated,NULL,$16
+PGLC,$5.0501,1440080550716,"6,711",100% bearish,of 1 rating,$8.975
+PHIIK,$24.63,1440080550944,710,100% bearish,of 1 rating,N/A
+PHII,$25.96,1440080551002,200,100% bearish,of 1 rating,N/A
+PAHC,$36.61,1440080551033,"1,862",100% bearish,of 1 rating,$35.50
+PGTI,$13.49,1440080551055,"44,191",100% bullish,of 2 ratings,$16
+PHMD,$0.9602,1440080551132,"7,457",80% bullish,of 5 ratings,N/A
+PICO,$12.81,1440080551197,"5,430",100% bearish,of 1 rating,$31
+PLAB,$8.58,1440080551265,"87,512",75% bullish,of 4 ratings,$12
+PIRS,$3.15,1440080551339,"37,264",Not yet rated,NULL,$7.50
+PME,$1.26,1440080551472,"16,836",50% bullish,of 2 ratings,N/A
+PPC,$21.905,1440080551501,"70,809",83% bullish,of 6 ratings,N/A
+PPSI,NULL,1440080551529,0,Not yet rated,NULL,$10
+PNFP,$49.43,1440080551659,"14,686",100% bullish,of 1 rating,$54.50
+PXLW,$4.67,1440080551714,"43,731",75% bullish,of 4 ratings,$8
+PLPM,$2.983,1440080551792,"24,045",100% bullish,of 2 ratings,$3.50
+PLXS,$37.33,1440080551822,"5,246",100% bearish,of 1 rating,$45
+PLNR,$6.02,1440080551871,"33,890",50% bullish,of 4 ratings,$6.58
+PLUG,$2.1177,1440080551930,"468,772",83% bullish,of 90 ratings,$3.50
+PSTI,$2.0863,1440080552002,"22,360",86% bullish,of 7 ratings,$6
+PLBC,NULL,1440080552029,0,100% bullish,of 1 rating,N/A
+PMCS,$6.24,1440080552096,"119,496",100% bearish,of 1 rating,$11
+PBSK,NULL,1440080552166,0,Not yet rated,NULL,N/A
+PMFG,$6.555,1440080552275,"2,952",100% bearish,of 1 rating,N/A
+PNTR,$6.032,1440080552301,304,100% bearish,of 2 ratings,$8
+PCOM,$9.78,1440080552381,660,100% bearish,of 1 rating,$18
+PLCM,$10.63,1440080552487,"61,381",75% bullish,of 4 ratings,$13
+PBCP,NULL,1440080552532,0,Not yet rated,NULL,N/A
+POOL,$70.9,1440080552560,"11,397",Not yet rated,NULL,$71.50
+POPE,$62.15,1440080552582,122,Not yet rated,NULL,N/A
+BPOP,$29.82,1440080552709,"59,410",90% bullish,of 10 ratings,$36.50
+PLKI,$56.648,1440080552739,"180,877",100% bullish,of 1 rating,$64
+BPOPM,NULL,1440080552844,0,100% bullish,of 1 rating,N/A
+BPOPN,$20.56,1440080552875,"2,925",100% bullish,of 1 rating,N/A
+PTLA,$46.79,1440080552976,"24,220",80% bullish,of 5 ratings,$61
+PBIB,$1.64,1440080553041,"10,022",Not yet rated,NULL,N/A
+PBPB,$11.53,1440080553135,"37,676",60% bullish,of 5 ratings,$15
+PSTR,$1.61,1440080553205,"62,469",60% bullish,of 5 ratings,N/A
+PCH,$35.39,1440080553266,"7,726",Not yet rated,NULL,$41.50
+POWL,$28.45,1440080553335,"4,064",50% bullish,of 2 ratings,$30
+PSIX,$30.99,1440080553428,"7,644",Not yet rated,NULL,$68
+POWI,$37.46,1440080553463,"13,966",100% bearish,of 1 rating,$56
+PRFZ,$98.28,1440080553556,"3,217",Not yet rated,NULL,N/A
+PDBC,$17.46,1440080553585,52,100% bearish,of 1 rating,N/A
+PSAU,$13.63,1440080553625,"2,567",100% bearish,of 1 rating,N/A
+PAGG,NULL,1440080553652,0,Not yet rated,NULL,N/A
+IPKW,$26.3141,1440080553782,"1,586",100% bearish,of 1 rating,N/A
+LDRI,$25.19,1440080553912,100,Not yet rated,NULL,N/A
+PNQI,$73.89,1440080553960,"3,250",100% bullish,of 1 rating,N/A
+LALT,$22.765,1440080553988,"1,552",100% bearish,of 1 rating,N/A
+QQQ,$108.16,1440080554017,"5,935,015",72% bullish,of 68 ratings,N/A
+PSCD,$52.42,1440080554120,306,Not yet rated,NULL,N/A
+PSCC,$55.602,1440080554190,103,100% bearish,of 1 rating,N/A
+PSCE,$18.8999,1440080554261,"27,322",100% bearish,of 1 rating,N/A
+PSCT,$50.1501,1440080554361,"3,566",Not yet rated,NULL,N/A
+PSCF,$41.93,1440080554390,540,Not yet rated,NULL,N/A
+PSCH,$72.885,1440080554411,"5,605",Not yet rated,NULL,N/A
+PSCI,$45.64,1440080554443,600,100% bearish,of 1 rating,N/A
+PSCM,NULL,1440080554578,0,100% bearish,of 1 rating,N/A
+POZN,$8.63,1440080554626,"61,746",75% bullish,of 4 ratings,$15.50
+PSCU,$38.44,1440080554682,400,Not yet rated,NULL,N/A
+PRAA,$56.09,1440080554759,"22,995",50% bullish,of 2 ratings,$69
+PRAH,$40.525,1440080554849,"36,970",Not yet rated,NULL,$47
+PRAN,$1.095,1440080554983,"15,125",73% bullish,of 11 ratings,N/A
+PRXI,NULL,1440080555109,0,100% bullish,of 1 rating,N/A
+PINC,$37.225,1440080555142,"5,666",100% bearish,of 2 ratings,$42
+PFBC,$30.49,1440080555168,"1,504",Not yet rated,NULL,$34
+PFBI,$14.8,1440080555190,200,Not yet rated,NULL,N/A
+PLPC,$33.28,1440080555226,13,100% bullish,of 1 rating,N/A
+LENS,$7,1440080555252,200,100% bearish,of 1 rating,$12
+PRGX,$3.96,1440080555320,"4,663",50% bullish,of 2 ratings,$6.50
+PSMT,$92.53,1440080555487,"6,634",50% bullish,of 2 ratings,$95.50
+PBMD,$1.1501,1440080555631,"91,370",63% bullish,of 8 ratings,N/A
+PRMW,$6.37,1440080555657,"8,726",50% bullish,of 4 ratings,$8
+PNRG,NULL,1440080555678,0,50% bullish,of 2 ratings,N/A
+PRIM,$17.535,1440080555826,"18,654",100% bearish,of 1 rating,$24
+PVTB,$39.49,1440080555852,"34,174",75% bullish,of 4 ratings,$44
+PVTBP,$26.54,1440080555880,200,100% bearish,of 2 ratings,N/A
+PDEX,NULL,1440080555912,0,Not yet rated,NULL,N/A
+IPDN,$0.75,1440080555940,"1,215",67% bullish,of 3 ratings,$12
+PRGS,$28.95,1440080556018,"16,602",50% bullish,of 2 ratings,$32
+PGNX,$8.006,1440080556074,"43,689",86% bullish,of 7 ratings,$11
+PFIE,$0.87,1440080556153,"5,272",100% bearish,of 1 rating,$2
+DNAI,$28.26,1440080556219,"2,500",67% bearish,of 3 ratings,$36
+PRPH,$1.55,1440080556300,10,100% bullish,of 1 rating,N/A
+PFPT,$59.64,1440080556328,"75,985",100% bearish,of 1 rating,$80
+PRQR,$16.18,1440080556461,"3,050",100% bearish,of 1 rating,$34
+BIB,$85,1440080556566,"118,837",75% bullish,of 4 ratings,N/A
+TQQQ,$108.24,1440080556702,"729,359",75% bearish,of 4 ratings,N/A
+BIS,$29.4199,1440080556751,"109,950",100% bearish,of 1 rating,N/A
+SQQQ,$23.6595,1440080556782,"1,518,702",80% bullish,of 5 ratings,N/A
+ZBIO,$22.5,1440080556803,"8,150",100% bullish,of 1 rating,N/A
+UBIO,$16.0862,1440080556825,"53,696",100% bearish,of 1 rating,N/A
+PSEC,$7.2601,1440080556966,"398,093",79% bullish,of 24 ratings,$10
+PRTO,$13.5,1440080556998,"1,901",50% bullish,of 2 ratings,$20
+PRTA,$56.18,1440080557103,"42,462",100% bearish,of 2 ratings,$66.50
+PWX,$16.46,1440080557207,20,100% bearish,of 1 rating,N/A
+PVBC,$12.7,1440080557252,"5,307",Not yet rated,NULL,N/A
+PROV,$16.4925,1440080557309,325,100% bullish,of 1 rating,$17.50
+PBIP,$14.63,1440080557334,"1,000",Not yet rated,NULL,N/A
+PTC,$35.3,1440080557497,"48,872",67% bearish,of 3 ratings,$42
+PSDV,$4.0051,1440080557573,"13,209",75% bullish,of 4 ratings,$9
+PSBH,NULL,1440080557602,0,Not yet rated,NULL,N/A
+PMD,$11.82,1440080557640,"1,810",Not yet rated,NULL,N/A
+PULB,$13.44,1440080557789,"6,995",100% bullish,of 2 ratings,$14
+PTCT,$37.69,1440080557818,"24,430",100% bearish,of 3 ratings,$94
+PULM,$6.22,1440080557848,"1,400",100% bearish,of 1 rating,$30
+PCYO,$4.9,1440080557954,284,Not yet rated,NULL,$8.25
+QCCO,$1.9052,1440080558082,300,50% bullish,of 2 ratings,N/A
+QADB,NULL,1440080558182,0,100% bearish,of 1 rating,$30
+QCRH,$21.4,1440080558216,716,Not yet rated,NULL,$25
+QIWI,$25.1,1440080558246,"17,752",60% bullish,of 5 ratings,$29.85
+QADA,$24.57,1440080558272,"1,051",100% bearish,of 1 rating,$28
+QGEN,$27.36,1440080558313,"42,731",75% bullish,of 4 ratings,$26.50
+QKLS,NULL,1440080558341,0,100% bearish,of 1 rating,N/A
+QLGC,$9.32,1440080558570,"85,726",67% bullish,of 3 ratings,$13.50
+QLIK,$39.7,1440080558599,"47,246",67% bullish,of 6 ratings,$44
+QLTI,$3.54,1440080558672,"5,300",100% bearish,of 1 rating,$5
+QCOM,$60.875,1440080558735,"1,146,445",81% bullish,of 26 ratings,$71
+QRVO,$54.4099,1440080558760,"223,085",50% bullish,of 4 ratings,$80
+QLTY,NULL,1440080558784,0,NULL,NULL,NULL
+QSII,$12.62,1440080558925,"21,616",71% bullish,of 7 ratings,$14
+QBAK,$0.95,1440080558977,"13,000",100% bearish,of 1 rating,N/A
+QLYS,$31.25,1440080559112,"92,937",75% bearish,of 4 ratings,$47
+QTWW,$1.29,1440080559156,"158,133",88% bullish,of 8 ratings,$5
+QDEL,$20.91,1440080559245,"14,332",67% bullish,of 3 ratings,$27
+QPAC,$9.92,1440080559301,700,Not yet rated,NULL,N/A
+QUIK,$1.35,1440080559328,"8,827",67% bullish,of 3 ratings,$2
+QRHC,$0.9,1440080559359,"3,200",100% bearish,of 1 rating,$1.725
+QPACU,NULL,1440080559381,0,Not yet rated,NULL,N/A
+QPACW,NULL,1440080559409,0,Not yet rated,NULL,N/A
+QUMU,$4.18,1440080559760,220,100% bearish,of 1 rating,$15
+QNST,$5.09,1440080559798,"36,654",67% bearish,of 3 ratings,N/A
+QUNR,$33.54,1440080559821,"300,216",67% bullish,of 3 ratings,$55
+QTNT,$16.77,1440080559892,122,100% bearish,of 1 rating,$27.50
+QTNTW,NULL,1440080559920,0,100% bearish,of 1 rating,N/A
+RRD,$15.555,1440080559962,"246,017",78% bullish,of 9 ratings,N/A
+RADA,$0.91,1440080560023,"46,781",50% bullish,of 2 ratings,N/A
+RDCM,$11.41,1440080560155,"3,436",100% bearish,of 1 rating,$12
+ROIAK,$2.54,1440080560296,"3,114",67% bullish,of 3 ratings,N/A
+ROIA,NULL,1440080560387,0,100% bearish,of 1 rating,N/A
+RDUS,$66.85,1440080560422,"82,691",75% bullish,of 4 ratings,$82
+RDNT,$6.92,1440080560458,"27,750",50% bullish,of 2 ratings,$11
+RSYS,$2.62,1440080560527,"1,800",60% bullish,of 5 ratings,$4.25
+RMBS,$12.49,1440080560555,"138,634",78% bullish,of 18 ratings,$14.50
+RDWR,$19.27,1440080560581,"23,072",60% bearish,of 5 ratings,$24.50
+RAND,NULL,1440080560811,0,Not yet rated,NULL,N/A
+RPD,$24.195,1440080560946,"24,280",50% bullish,of 2 ratings,$28
+GOLD,$65.945,1440080560975,"179,775",70% bullish,of 23 ratings,$84
+RPTP,$13.21,1440080561006,"181,521",60% bullish,of 5 ratings,$16
+RAVN,$17.191,1440080561033,"87,072",100% bearish,of 1 rating,$25
+RLOG,$2.5,1440080561106,"2,800",67% bullish,of 3 ratings,$8
+RAVE,$10.89,1440080561168,"12,478",50% bullish,of 2 ratings,$19
+RICK,$10.656,1440080561207,"11,722",100% bullish,of 5 ratings,N/A
+ROLL,$65.245,1440080561238,"4,844",100% bearish,of 2 ratings,$82
+RCMT,$4.72,1440080561340,"35,900",100% bearish,of 2 ratings,N/A
+RLOC,$2.76,1440080561486,308,100% bearish,of 1 rating,$3
+RDI,$13,1440080561513,"1,166",Not yet rated,NULL,N/A
+RDIB,NULL,1440080561543,0,Not yet rated,NULL,N/A
+RELY,$9.625,1440080561644,"21,867",100% bearish,of 1 rating,$16
+RGSE,$1.053,1440080561701,"222,276",81% bullish,of 16 ratings,N/A
+RNWK,$4.14,1440080561749,"2,406",100% bearish,of 1 rating,$15
+RP,$19.24,1440080561889,"58,325",67% bearish,of 3 ratings,$25
+DAX,$25.3645,1440080561921,"9,101",100% bullish,of 2 ratings,N/A
+QYLD,$23.21,1440080561954,"1,134",Not yet rated,NULL,N/A
+UK,NULL,1440080562050,0,Not yet rated,NULL,N/A
+RCPT,$231.55,1440080562082,"50,321",67% bullish,of 3 ratings,$290
+RCON,$1.48,1440080562108,60,80% bullish,of 10 ratings,N/A
+REPH,$12.7359,1440080562134,"8,122",50% bullish,of 2 ratings,$28
+RRGB,$82.11,1440080562267,"19,916",50% bullish,of 2 ratings,$96
+RDHL,$13.55,1440080562422,"16,084",50% bullish,of 4 ratings,$29
+REDF,$1.6,1440080562448,200,50% bullish,of 8 ratings,N/A
+REIS,$24.92,1440080562613,"2,578",Not yet rated,NULL,$31.625
+RGLS,$7.3625,1440080562644,"60,673",75% bullish,of 4 ratings,$28.50
+REGN,$559.65,1440080562747,"30,065",92% bullish,of 13 ratings,$600
+RLYP,$23.835,1440080562775,"73,663",67% bullish,of 3 ratings,$55
+RELV,$0.969,1440080562805,"2,401",100% bearish,of 1 rating,N/A
+MARK,$4.11,1440080562829,"4,423",50% bullish,of 2 ratings,N/A
+REGI,$9.04,1440080562861,"12,187",67% bullish,of 6 ratings,$13
+REMY,$29.33,1440080562883,"48,383",Not yet rated,NULL,$31
+RNST,$31.75,1440080563016,"7,856",100% bullish,of 1 rating,$35
+RCII,$26.91,1440080563084,"37,602",100% bearish,of 1 rating,$38.50
+RGEN,$33.52,1440080563216,"15,199",67% bullish,of 3 ratings,$40.50
+RENT,$49.47,1440080563245,"24,314",100% bearish,of 1 rating,$76
+RTK,$7.112,1440080563271,"64,003",Not yet rated,NULL,$2.035
+RPRX,$7.525,1440080563527,"34,784",63% bullish,of 8 ratings,$29.50
+RJET,$3.67,1440080563582,"70,169",80% bullish,of 5 ratings,$7.50
+RPRXZ,NULL,1440080563604,0,100% bearish,of 1 rating,N/A
+RBCAA,$25.15,1440080563634,"1,482",100% bearish,of 1 rating,$25.50
+RPRXW,NULL,1440080563655,0,Not yet rated,NULL,N/A
+REFR,$5.43,1440080563790,"4,045",60% bullish,of 5 ratings,$8
+RESN,$4.2501,1440080563818,"1,300",50% bullish,of 6 ratings,N/A
+FRBK,$3.58,1440080563846,"1,748",100% bullish,of 2 ratings,$3.50
+RECN,$16.62,1440080563950,"15,565",50% bullish,of 2 ratings,$18
+ROIC,$17.17,1440080564095,"28,014",100% bearish,of 1 rating,$19
+SALE,$8.57,1440080564151,"72,964",75% bullish,of 4 ratings,$12
+RTRX,$27.6699,1440080564187,"32,605",67% bullish,of 3 ratings,$55
+REXI,$7.67,1440080564212,"1,648",100% bullish,of 1 rating,$11
+RVLT,$1.1,1440080564285,"8,672",83% bullish,of 6 ratings,$3
+RVNC,$30.2375,1440080564414,"3,600",67% bullish,of 3 ratings,$40
+RWLK,$9.54,1440080564463,"13,215",50% bullish,of 4 ratings,$17
+RFIL,$4.1501,1440080564513,211,67% bullish,of 3 ratings,$8.50
+REXX,$3.21,1440080564552,"108,583",80% bullish,of 5 ratings,$5.50
+RIBT,NULL,1440080564593,0,100% bullish,of 1 rating,$7
+RGCO,NULL,1440080564648,0,100% bearish,of 1 rating,N/A
+RIBTW,NULL,1440080564694,0,Not yet rated,NULL,N/A
+RELL,$5.73,1440080564796,"17,786",50% bullish,of 4 ratings,N/A
+RIGL,$2.8699,1440080564901,"15,210",71% bullish,of 7 ratings,$10
+NAME,$6.76,1440080565056,642,50% bullish,of 2 ratings,$11.50
+RNET,$25.965,1440080565124,"31,177",67% bearish,of 3 ratings,$44
+RITT,$1.38,1440080565153,"43,795",100% bearish,of 1 rating,N/A
+RIVR,NULL,1440080565226,0,Not yet rated,NULL,N/A
+RTTR,$2.94,1440080565304,"8,295",100% bullish,of 1 rating,N/A
+RITTW,NULL,1440080565333,0,Not yet rated,NULL,N/A
+RLJE,$0.479,1440080565358,"2,000",100% bearish,of 1 rating,N/A
+RVSB,NULL,1440080565384,0,100% bullish,of 1 rating,N/A
+ROBO,$23.5205,1440080565525,"30,868",50% bullish,of 2 ratings,N/A
+RMGN,$0.8665,1440080565597,"3,858",50% bullish,of 2 ratings,N/A
+FUEL,$6.3,1440080565661,"17,178",86% bullish,of 7 ratings,$8.50
+RCPI,$1.02,1440080565691,"35,301",87% bullish,of 15 ratings,N/A
+RMTI,$11.54,1440080565729,"81,982",92% bullish,of 13 ratings,$17
+RCKY,$18.16,1440080565794,"2,130",67% bearish,of 3 ratings,$25
+RMCF,$12.55,1440080565931,32,100% bullish,of 3 ratings,N/A
+RSTI,$25.69,1440080566038,"3,700",50% bullish,of 2 ratings,$33.50
+ROIQ,$10.01,1440080566071,200,Not yet rated,NULL,N/A
+ROIQW,NULL,1440080566112,0,Not yet rated,NULL,N/A
+ROSG,$2.59,1440080566203,"8,660",73% bullish,of 11 ratings,$9
+ROKA,$2.4544,1440080566232,"2,471",50% bullish,of 2 ratings,$3.50
+ROIQU,NULL,1440080566253,0,Not yet rated,NULL,N/A
+ROST,$55.093,1440080566287,"206,912",71% bullish,of 7 ratings,$53.50
+ROVI,$10.64,1440080566313,"50,378",75% bullish,of 4 ratings,$23
+RBPAA,$2.14,1440080566574,"3,900",50% bullish,of 2 ratings,N/A
+ROYL,NULL,1440080566599,0,50% bullish,of 2 ratings,N/A
+RGLD,$57.06,1440080566626,"91,304",67% bullish,of 6 ratings,$82.50
+RPXC,$14.435,1440080566756,"92,532",100% bearish,of 1 rating,$16
+RTIX,$6.64,1440080566805,"52,089",100% bearish,of 2 ratings,$7.65
+RRM,$6.5,1440080566832,485,100% bearish,of 1 rating,N/A
+RUSHA,$25.13,1440080566969,"6,306",100% bullish,of 1 rating,$29
+RBCN,$1.45,1440080566997,"16,006",50% bullish,of 2 ratings,$4.50
+RXII,$0.4096,1440080567029,"312,896",80% bullish,of 5 ratings,$3
+RUTH,$16.46,1440080567051,"11,825",50% bullish,of 4 ratings,$19.75
+RUSHB,NULL,1440080567072,0,Not yet rated,NULL,N/A
+RYAAY,$74.13,1440080567209,"5,977",100% bullish,of 1 rating,$73
+STBA,$30.395,1440080567241,"7,093",100% bullish,of 1 rating,$32
+SANW,$4.16,1440080567284,"20,100",57% bullish,of 7 ratings,$8
+SBRAP,NULL,1440080567414,0,100% bearish,of 1 rating,N/A
+SBRA,$26.6,1440080567442,"12,426",100% bearish,of 2 ratings,$30
+SAEX,NULL,1440080567678,0,67% bearish,of 3 ratings,$4.30
+SAGE,$54.835,1440080567721,"41,689",50% bullish,of 4 ratings,$107
+SGNT,$19.8513,1440080567810,"9,863",67% bearish,of 3 ratings,$28.50
+SAFT,$54.85,1440080567838,"4,013",Not yet rated,NULL,$58
+SABR,$28.6,1440080567860,"79,371",100% bearish,of 1 rating,$33
+SAIA,$39.74,1440080567881,"5,160",78% bullish,of 9 ratings,$47.50
+SAJA,NULL,1440080568029,0,100% bearish,of 1 rating,$8
+SALM,$6.31,1440080568061,"1,912",100% bullish,of 3 ratings,$10
+SNDK,$51.6726,1440080568083,"1,047,405",57% bullish,of 14 ratings,$70
+SGMO,$7.84,1440080568212,"32,206",80% bullish,of 5 ratings,$22
+SASR,$26.72,1440080568246,"9,738",Not yet rated,NULL,$28
+SAL,NULL,1440080568272,0,Not yet rated,NULL,N/A
+SAFM,$72.51,1440080568353,"23,444",60% bearish,of 5 ratings,$82
+SANM,$20.51,1440080568457,"54,865",50% bullish,of 4 ratings,$27
+SPNS,$12.1799,1440080568617,"10,095",100% bearish,of 1 rating,$13
+SRPT,$34.95,1440080568648,"96,802",71% bullish,of 14 ratings,$33
+GCVRZ,$0.21,1440080568693,"19,129",Not yet rated,NULL,N/A
+SBFGP,NULL,1440080568722,0,Not yet rated,NULL,N/A
+SCSC,$36.56,1440080568747,"10,413",100% bearish,of 1 rating,$44
+SBAC,$124.51,1440080568775,"55,409",67% bullish,of 3 ratings,$139
+SBFG,$10.875,1440080568804,284,Not yet rated,NULL,N/A
+SMIT,NULL,1440080569037,0,100% bearish,of 1 rating,N/A
+SCHN,$16.56,1440080569110,"21,736",100% bearish,of 1 rating,$18
+SCLN,$8.3801,1440080569167,"39,799",88% bullish,of 8 ratings,$11.25
+SCHL,$42.28,1440080569193,"10,880",100% bearish,of 1 rating,N/A
+SGMS,$10.835,1440080569219,"104,969",67% bullish,of 3 ratings,$17
+SCYX,NULL,1440080569356,0,100% bearish,of 1 rating,$16
+SQI,$11.76,1440080569383,"16,956",50% bullish,of 2 ratings,$16
+SRSC,$5.91,1440080569582,"5,778",100% bearish,of 1 rating,N/A
+SEAC,$5.77,1440080569611,"3,391",67% bearish,of 3 ratings,$10
+STX,$48.303,1440080569633,"693,623",74% bullish,of 19 ratings,$59
+SBCF,$15.47,1440080569671,"6,981",100% bullish,of 1 rating,$15
+SHIP,$0.79,1440080569693,210,100% bullish,of 2 ratings,N/A
+SHLDW,$14.97,1440080569766,"1,810",100% bearish,of 1 rating,N/A
+SHLD,$22.33,1440080569849,"242,667",60% bearish,of 10 ratings,N/A
+SHOS,$6.98,1440080569933,"3,789",100% bearish,of 1 rating,N/A
+SPNE,$15.5,1440080569993,"18,356",100% bearish,of 1 rating,$24
+EYES,$10.25,1440080570092,"220,915",75% bullish,of 4 ratings,$21
+SGEN,$44.311,1440080570139,"104,838",60% bearish,of 5 ratings,$45
+SEIC,$53.36,1440080570276,"36,255",100% bullish,of 1 rating,$56.50
+SLCT,$7.85,1440080570307,"2,100",50% bullish,of 2 ratings,$9
+SNFCA,$7.5509,1440080570337,"2,800",60% bearish,of 5 ratings,N/A
+SLTC,$3.68,1440080570376,205,50% bullish,of 2 ratings,$8
+SCSS,$25.42,1440080570439,"21,434",60% bearish,of 5 ratings,$33
+SMLR,NULL,1440080570470,0,75% bullish,of 4 ratings,$7.50
+LEDS,$0.4599,1440080570568,"1,242",100% bullish,of 3 ratings,N/A
+SMTC,$16.72,1440080570713,"291,823",50% bullish,of 4 ratings,$19
+SENEA,$29.48,1440080570761,392,100% bearish,of 2 ratings,N/A
+SIGI,$31.46,1440080570786,"5,094",100% bullish,of 1 rating,$32.50
+SENEB,NULL,1440080570921,0,Not yet rated,NULL,N/A
+SQNM,$2.13,1440080570979,"157,741",75% bullish,of 12 ratings,$4
+SNMX,$6.72,1440080571009,"41,771",57% bearish,of 7 ratings,$9
+SQBG,$15.29,1440080571111,"10,428",100% bearish,of 1 rating,$20
+SFBS,$38.254,1440080571196,"10,345",Not yet rated,NULL,$39
+MCRB,$42.25,1440080571242,"135,441",50% bullish,of 2 ratings,$51
+SREV,$5.11,1440080571274,"38,727",63% bullish,of 8 ratings,$6
+SVBI,NULL,1440080571376,0,100% bearish,of 1 rating,N/A
+SEV,NULL,1440080571407,0,100% bearish,of 1 rating,N/A
+SGOC,NULL,1440080571434,0,80% bullish,of 5 ratings,N/A
+SFXE,$0.95,1440080571460,"219,291",67% bullish,of 6 ratings,$4
+SMED,$6.9,1440080571604,"1,090",100% bullish,of 3 ratings,$7.50
+GAME,$6.75,1440080571629,"38,865",86% bullish,of 7 ratings,N/A
+SHPG,$238.27,1440080571830,"37,443",60% bullish,of 5 ratings,$276
+SHLO,$11.8,1440080571858,"1,424",67% bullish,of 3 ratings,N/A
+SHEN,$40.92,1440080571899,"1,373",50% bullish,of 2 ratings,$36
+SHOR,$7.53,1440080571989,"13,757",78% bullish,of 9 ratings,$10
+SCVL,$27.2382,1440080572019,"2,302",100% bearish,of 1 rating,$29.50
+SHBI,$9.5,1440080572040,100,Not yet rated,NULL,$10.50
+SFLY,$39.68,1440080572117,"60,731",67% bullish,of 3 ratings,$54
+SIFI,$11.67,1440080572215,"1,100",100% bullish,of 1 rating,N/A
+SIEB,NULL,1440080572275,0,100% bearish,of 1 rating,N/A
+BSRR,$17.165,1440080572308,700,Not yet rated,NULL,$18.50
+SIEN,$23.24,1440080572362,"2,434",100% bearish,of 1 rating,$28
+SWIR,$22.29,1440080572406,"43,926",85% bullish,of 13 ratings,$31
+SIFY,$1.27,1440080572458,"3,101",100% bullish,of 5 ratings,N/A
+SIGM,$9.5,1440080572483,"34,080",67% bullish,of 3 ratings,$12.50
+SGMA,$5.7899,1440080572697,342,100% bullish,of 1 rating,N/A
+SIAL,$139.59,1440080572729,"93,072",100% bearish,of 1 rating,$140
+SGNL,$1.4631,1440080572831,"11,702",Not yet rated,NULL,$2.75
+SBNYW,NULL,1440080572896,0,Not yet rated,NULL,N/A
+SBNY,$137.53,1440080572933,"19,724",Not yet rated,NULL,$167
+SLGN,$54.29,1440080572968,"5,689",Not yet rated,NULL,$55
+SILC,$27.66,1440080572994,293,100% bearish,of 1 rating,$45
+SLAB,$42.56,1440080573182,"37,753",50% bullish,of 2 ratings,$52
+SGI,$4.89,1440080573255,"20,567",67% bearish,of 3 ratings,$10
+SIMO,$22.865,1440080573283,"58,058",80% bullish,of 10 ratings,$36
+SPIL,$5.23,1440080573322,"235,552",50% bullish,of 4 ratings,$8.59
+SSRI,$7.1,1440080573354,"420,176",80% bullish,of 10 ratings,$6.50
+SFNC,$44.44,1440080573414,"5,804",Not yet rated,NULL,$50
+SAMG,$12.77,1440080573453,"4,793",Not yet rated,NULL,$16.50
+SLP,$6.4065,1440080573502,"1,271",100% bullish,of 1 rating,$9.15
+SINA,$37.6,1440080573637,"185,121",75% bullish,of 16 ratings,$50
+SBGI,$27.8201,1440080573769,"190,122",75% bullish,of 4 ratings,$36
+SMAC,NULL,1440080573795,0,100% bearish,of 1 rating,N/A
+SMACR,NULL,1440080573824,0,Not yet rated,NULL,N/A
+SMACU,NULL,1440080573854,0,100% bearish,of 1 rating,N/A
+SINO,NULL,1440080573933,0,100% bullish,of 2 ratings,N/A
+SVA,$5.82,1440080574011,"3,680",50% bullish,of 2 ratings,$7.50
+SIRI,$3.835,1440080574036,"2,956,213",79% bullish,of 152 ratings,$4.55
+SIRO,$102.56,1440080574113,"22,620",100% bullish,of 1 rating,$105
+SZMK,$6.18,1440080574219,"7,520",100% bearish,of 2 ratings,$8.50
+SKUL,$6.97,1440080574260,"15,666",80% bullish,of 10 ratings,$13
+SITO,$3.93,1440080574291,"1,300",Not yet rated,NULL,$7.40
+MOBI,$4.01,1440080574397,"30,282",80% bullish,of 5 ratings,N/A
+SPU,$0.98,1440080574528,670,83% bullish,of 6 ratings,N/A
+SKYS,$7.95,1440080574558,"1,700",Not yet rated,NULL,$13.50
+SKBI,NULL,1440080574590,0,100% bullish,of 1 rating,N/A
+SKYW,$17.21,1440080574662,"43,630",67% bearish,of 3 ratings,$18.50
+SWKS,$84.7478,1440080574806,"537,116",89% bullish,of 19 ratings,$120
+JSM,$20.03,1440080574832,"1,726",Not yet rated,NULL,N/A
+ISM,$23.12,1440080574903,301,60% bearish,of 5 ratings,N/A
+OSM,$23.77,1440080574967,201,Not yet rated,NULL,N/A
+SLMAP,$47.62,1440080574997,125,Not yet rated,NULL,N/A
+SLM,$8.81,1440080575100,"183,030",60% bullish,of 5 ratings,$11.75
+SMT,$0.7101,1440080575130,410,67% bullish,of 3 ratings,$1.50
+SLMBP,NULL,1440080575153,0,67% bearish,of 3 ratings,N/A
+SPRO,$2.49,1440080575203,"3,209",50% bullish,of 2 ratings,N/A
+SWHC,$16.76,1440080575381,"47,103",87% bullish,of 15 ratings,$19
+SMSI,$0.79,1440080575407,"23,830",100% bullish,of 3 ratings,$2
+SMTX,$1.5162,1440080575437,"1,100",100% bearish,of 1 rating,N/A
+SMTP,$5.17,1440080575581,"6,750",Not yet rated,NULL,$11.50
+SODA,$15.41,1440080575626,"19,123",74% bullish,of 19 ratings,$22
+LNCE,$34.04,1440080575654,"13,173",100% bullish,of 1 rating,$30
+SOHU,$46.68,1440080575717,"61,425",73% bullish,of 11 ratings,$70.50
+SLRC,$18.23,1440080575781,"14,161",50% bullish,of 4 ratings,$22
+SUNS,$15.17,1440080575960,"1,448",50% bullish,of 2 ratings,$17.75
+SCTY,$48.3656,1440080575989,"172,456",81% bullish,of 67 ratings,$76
+SLTD,$3.42,1440080576011,"91,137",100% bullish,of 3 ratings,$5
+SEDG,$24.7,1440080576042,"67,017",63% bullish,of 8 ratings,$41
+SONS,$7.28,1440080576225,"29,342",75% bullish,of 4 ratings,$10
+SZYM,$2.1999,1440080576251,"54,507",90% bullish,of 10 ratings,$5
+SONC,$27.95,1440080576281,"46,635",67% bearish,of 3 ratings,$37.50
+SOFO,$6.61,1440080576385,26,83% bullish,of 6 ratings,N/A
+SORL,$1.9384,1440080576412,"2,800",67% bullish,of 3 ratings,$6
+SPHS,$0.92,1440080576446,"23,201",80% bullish,of 5 ratings,$4
+SRNE,$13.823,1440080576591,"151,864",100% bullish,of 1 rating,$20
+SOHOM,$25.85,1440080576787,"1,999",Not yet rated,NULL,N/A
+SSB,$75.864,1440080576842,"2,942",100% bearish,of 1 rating,$82
+SOHO,$6.78,1440080576864,"2,750",Not yet rated,NULL,$9.75
+SOCB,$12.92,1440080576887,413,Not yet rated,NULL,N/A
+SOHOL,NULL,1440080576917,0,Not yet rated,NULL,N/A
+SFBC,NULL,1440080576946,0,Not yet rated,NULL,N/A
+SFST,$21.1,1440080577048,"6,204",Not yet rated,NULL,$20
+SMBC,$20.97,1440080577097,400,Not yet rated,NULL,N/A
+SONA,$11.3701,1440080577293,810,100% bearish,of 1 rating,$13.25
+SP,$23.69,1440080577324,617,100% bearish,of 1 rating,$29
+SBSI,$26.31,1440080577374,"12,539",100% bullish,of 1 rating,$29.50
+OKSB,$16.9,1440080577431,"3,325",100% bullish,of 1 rating,$20
+SBSA,$5.93,1440080577531,"1,100",80% bullish,of 5 ratings,N/A
+SPKE,$16.31,1440080577562,"2,380",100% bearish,of 1 rating,$19.50
+SPAN,$17.71,1440080577588,700,Not yet rated,NULL,N/A
+SGRP,NULL,1440080577662,0,Not yet rated,NULL,N/A
+ONCE,$44.01,1440080577722,"9,623",50% bullish,of 2 ratings,$71
+SPAR,$4.655,1440080577819,500,100% bearish,of 1 rating,$5
+SPDC,$0.1422,1440080578085,"52,944",50% bullish,of 4 ratings,$1
+SPPI,$7,1440080578126,"47,226",89% bullish,of 9 ratings,$8
+SPTN,$32.35,1440080578189,"18,606",100% bullish,of 1 rating,$31
+SAVE,$58.79,1440080578217,"89,033",83% bullish,of 6 ratings,$84
+ANY,$3.0597,1440080578243,"36,234",80% bullish,of 5 ratings,$7.50
+SPEX,$0.2645,1440080578381,"7,076",80% bullish,of 5 ratings,N/A
+SPLK,$67.13,1440080578432,"111,373",71% bullish,of 7 ratings,$82
+SFM,$20.7764,1440080578568,"144,305",50% bullish,of 4 ratings,$31
+SPWH,$11.99,1440080578597,"12,274",100% bearish,of 2 ratings,$14
+SPOK,$16.58,1440080578634,"4,270",50% bullish,of 2 ratings,N/A
+SQBK,$26.58,1440080578667,"3,333",Not yet rated,NULL,$32
+FUND,$6.4,1440080578697,"2,500",100% bullish,of 2 ratings,N/A
+SPSC,$69.3,1440080578770,"1,883",100% bearish,of 1 rating,$85
+SSNC,$70.48,1440080578832,"32,420",100% bullish,of 3 ratings,$74.50
+STAA,$7.165,1440080578963,"9,751",75% bullish,of 4 ratings,$12
+STMP,$86.58,1440080578989,"21,632",50% bullish,of 2 ratings,$83.50
+STLY,$3.01,1440080579162,"1,987",100% bearish,of 1 rating,N/A
+SPLS,$13.94,1440080579251,"964,033",69% bullish,of 16 ratings,$20
+SBLKL,$20.5,1440080579290,"3,514",Not yet rated,NULL,N/A
+SBUX,$56.51,1440080579321,"880,042",90% bullish,of 105 ratings,$63.50
+SBLK,$2.35,1440080579346,"22,993",67% bullish,of 3 ratings,$5
+STRZA,$37.66,1440080579372,"67,567",50% bullish,of 2 ratings,$44
+STRZB,NULL,1440080579400,0,100% bearish,of 1 rating,N/A
+STFC,$23.7,1440080579693,922,100% bearish,of 1 rating,$25
+SIBC,$21.15,1440080579719,100,Not yet rated,NULL,N/A
+SNC,$10.255,1440080579749,"1,697",50% bullish,of 2 ratings,$16
+STLD,$19.87,1440080579779,"235,999",50% bullish,of 4 ratings,$25
+STDY,$4.51,1440080579800,"1,033",100% bearish,of 1 rating,$14
+STBZ,$19.925,1440080579822,"34,458",Not yet rated,NULL,$24
+GASS,$4.92,1440080579953,"2,170",50% bullish,of 2 ratings,$9
+SMRT,$11,1440080580160,"49,292",50% bullish,of 2 ratings,$14
+STEM,$0.4168,1440080580196,"52,318",92% bullish,of 12 ratings,$1.775
+SXCL,NULL,1440080580239,0,Not yet rated,NULL,N/A
+STNR,$57.62,1440080580295,"4,250",50% bullish,of 2 ratings,$67.50
+STML,$8.9501,1440080580373,"6,699",67% bullish,of 3 ratings,$38
+STXS,$0.75,1440080580557,"6,100",57% bullish,of 7 ratings,N/A
+SRCL,$147.07,1440080580614,"51,652",Not yet rated,NULL,$149
+SSFN,$5.95,1440080580663,"1,050",Not yet rated,NULL,N/A
+STRL,$5.04,1440080580693,"1,800",50% bullish,of 2 ratings,$6.925
+SHOO,$40.75,1440080580715,"47,445",100% bearish,of 1 rating,$48
+STCK,$19,1440080580843,"3,744",Not yet rated,NULL,$21
+BANX,$17.08,1440080580875,898,50% bullish,of 2 ratings,$19.50
+SYBT,$35.89,1440080580926,"1,257",Not yet rated,NULL,$37
+SSYS,$27.55,1440080581058,"81,151",65% bullish,of 23 ratings,$40
+SGBK,$30.735,1440080581097,"3,167",100% bullish,of 1 rating,$35
+STRS,NULL,1440080581332,0,Not yet rated,NULL,N/A
+STB,$3.95,1440080581467,"92,760",100% bearish,of 1 rating,$6.16
+STRT,$69.48,1440080581503,800,67% bullish,of 3 ratings,N/A
+STRA,$51.45,1440080581537,"8,668",50% bullish,of 4 ratings,$55
+STRM,$2.86,1440080581598,100,50% bullish,of 2 ratings,$4.50
+SUBK,$26.58,1440080581632,618,Not yet rated,NULL,$27
+SCMP,$26.13,1440080581662,"119,301",100% bullish,of 3 ratings,$20
+SSBI,$13.35,1440080581759,680,Not yet rated,NULL,N/A
+SUMR,NULL,1440080581865,0,100% bearish,of 2 ratings,$3
+SMMF,$12.12,1440080582011,100,Not yet rated,NULL,N/A
+SNHY,$32.1105,1440080582090,"1,252",100% bearish,of 1 rating,$36
+SMMT,$12.5,1440080582116,"1,190",100% bullish,of 3 ratings,$30
+SEMI,$12.73,1440080582144,"30,693",100% bearish,of 2 ratings,$23
+SNBC,$19.63,1440080582169,"3,060",100% bearish,of 1 rating,$22.25
+GOMO,$4.7,1440080582342,"4,460",100% bearish,of 1 rating,N/A
+SNSS,$1.12,1440080582471,"92,007",86% bullish,of 14 ratings,$2
+STKL,$8.8,1440080582499,"14,254",60% bearish,of 5 ratings,$13.50
+RUN,$10.61,1440080582632,"50,672",100% bearish,of 1 rating,N/A
+SPWR,$23.8,1440080582659,"107,612",69% bullish,of 16 ratings,$42
+SSH,$2.81,1440080582690,"4,412",75% bullish,of 8 ratings,$10
+SPCB,$11.18,1440080582712,"11,400",75% bullish,of 4 ratings,$16
+SBCP,NULL,1440080582741,0,Not yet rated,NULL,N/A
+SCON,$0.88,1440080582921,"11,680",67% bullish,of 3 ratings,$5.50
+SMCI,$27.29,1440080582950,"40,154",60% bullish,of 5 ratings,$46.50
+SGC,$16.08,1440080583026,"2,243",100% bearish,of 1 rating,N/A
+SPRT,$1.2,1440080583155,"3,050",83% bullish,of 6 ratings,$2
+SUPN,$17.6597,1440080583243,"47,162",89% bullish,of 9 ratings,$24
+SCAI,$37.27,1440080583291,"4,965",100% bearish,of 1 rating,$44.50
+SBBX,$12.41,1440080583382,"2,200",Not yet rated,NULL,N/A
+TOR,$1.17,1440080583423,"3,766",80% bullish,of 5 ratings,N/A
+SIVB,$133,1440080583451,"37,867",100% bullish,of 2 ratings,$165
+SRDX,$23.29,1440080583474,957,100% bearish,of 1 rating,$29
+SIVBO,NULL,1440080583504,0,Not yet rated,NULL,N/A
+SYKE,$25.21,1440080583645,"8,064",100% bearish,of 1 rating,$26
+SWSH,$1.1901,1440080583705,"6,445",100% bullish,of 4 ratings,$2
+SSRG,$8.58,1440080583808,"1,109",Not yet rated,NULL,N/A
+SYMC,$21.3601,1440080583836,"492,883",82% bullish,of 11 ratings,$24
+SYNL,$11.69,1440080583968,147,50% bullish,of 2 ratings,$15.50
+SYNC,$1.56,1440080584019,"5,404",91% bullish,of 11 ratings,N/A
+SYNA,$70.79,1440080584057,"45,478",78% bullish,of 9 ratings,$90
+SGYP,$7.27,1440080584190,"94,466",83% bullish,of 12 ratings,N/A
+SNCR,$45.98,1440080584217,"73,463",100% bearish,of 2 ratings,$58.50
+SURG,$4.59,1440080584246,"3,674",100% bearish,of 1 rating,$6
+SGYPU,NULL,1440080584275,0,100% bearish,of 1 rating,N/A
+SGYPW,NULL,1440080584375,0,Not yet rated,NULL,N/A
+SNTA,$1.983,1440080584414,"118,042",83% bullish,of 6 ratings,$9.50
+ELOS,$9.83,1440080584442,"8,533",67% bearish,of 3 ratings,$17
+SNPS,$49.61,1440080584574,"152,082",100% bearish,of 1 rating,$55
+SYMX,$1.08,1440080584601,"139,054",100% bullish,of 5 ratings,N/A
+SYNT,$43.312,1440080584628,"27,833",60% bearish,of 5 ratings,$54
+SYUT,$5.7211,1440080584839,"15,000",75% bullish,of 4 ratings,N/A
+SYPR,$1.6,1440080585040,"22,858",67% bullish,of 3 ratings,N/A
+TROW,$74.37,1440080585096,"135,031",50% bullish,of 4 ratings,$88
+SYRX,$1.4,1440080585124,"8,475",50% bullish,of 2 ratings,$2.75
+TAIT,NULL,1440080585145,0,Not yet rated,NULL,N/A
+TTOO,$12.6001,1440080585205,"24,158",50% bullish,of 2 ratings,$23
+TLF,$7.77,1440080585280,113,100% bearish,of 1 rating,N/A
+TNDM,$11.49,1440080585309,"6,330",50% bullish,of 2 ratings,$19
+TTWO,$29.78,1440080585330,"75,876",81% bullish,of 21 ratings,$35
+TLMR,$16.1,1440080585536,"40,563",100% bullish,of 1 rating,$19
+TEDU,$8.79,1440080585570,"403,396",50% bullish,of 2 ratings,$15.75
+TNGO,$7.82,1440080585608,"9,799",50% bullish,of 2 ratings,$10
+TASR,$22.61,1440080585737,"191,394",75% bullish,of 12 ratings,$32
+TANH,$23.33,1440080585812,"8,475",100% bullish,of 1 rating,N/A
+TATT,$6.89,1440080585881,200,Not yet rated,NULL,N/A
+TRGT,$1.0358,1440080585913,"30,926",50% bullish,of 2 ratings,$2.50
+TAYD,NULL,1440080586011,0,50% bullish,of 2 ratings,N/A
+TCPC,$15.5,1440080586085,"44,901",100% bearish,of 2 ratings,$16.75
+TECD,$66.4,1440080586164,"374,664",100% bearish,of 2 ratings,$65
+TEAR,$2.7001,1440080586218,"2,701",75% bullish,of 4 ratings,$4.50
+TCCO,$3.2599,1440080586261,200,100% bearish,of 1 rating,N/A
+TTGT,$9.36,1440080586362,"5,330",100% bearish,of 2 ratings,$13.50
+TGEN,NULL,1440080586518,0,100% bullish,of 2 ratings,N/A
+TECU,NULL,1440080586550,0,50% bullish,of 2 ratings,N/A
+TGLS,$13.5,1440080586608,"9,772",100% bearish,of 1 rating,$20
+TTEC,$27.97,1440080586650,"4,018",Not yet rated,NULL,$30
+TNAV,$7.04,1440080586710,"10,132",100% bullish,of 4 ratings,$13
+TSYS,$3.4537,1440080586739,"4,484",100% bullish,of 2 ratings,$5.25
+TENX,$3.61,1440080586838,"3,794",100% bullish,of 5 ratings,$8.75
+TERP,$24.47,1440080586933,"199,481",67% bearish,of 3 ratings,$44
+GLBL,$9.85,1440080586976,"100,711",100% bearish,of 1 rating,N/A
+TRTLU,NULL,1440080587065,0,Not yet rated,NULL,N/A
+TRTLW,NULL,1440080587142,0,Not yet rated,NULL,N/A
+TBNK,$26.315,1440080587170,"1,228",Not yet rated,NULL,$25
+TRTL,NULL,1440080587198,0,Not yet rated,NULL,N/A
+TSRO,$48.975,1440080587345,"13,970",67% bullish,of 3 ratings,$69.50
+TSLA,$250.72,1440080587480,"491,760",77% bullish,of 386 ratings,$277.50
+TSRA,$33.59,1440080587514,"21,016",60% bearish,of 5 ratings,$51.50
+TESS,$22.15,1440080587541,"1,802",100% bearish,of 1 rating,N/A
+TESO,$8.05,1440080587562,"18,354",67% bullish,of 3 ratings,$13.50
+TTEK,$26.835,1440080587615,"16,051",100% bearish,of 1 rating,$30
+TLOG,$2.25,1440080587771,"1,300",100% bullish,of 1 rating,$7
+TCBI,$52.66,1440080587825,"47,013",100% bearish,of 1 rating,$66
+TTPH,$42.82,1440080587850,"47,289",67% bullish,of 3 ratings,$51
+TCBIP,$25.42,1440080587989,174,Not yet rated,NULL,N/A
+TCBIL,$24.8,1440080588016,516,Not yet rated,NULL,N/A
+TXN,$48.01,1440080588048,"1,257,363",83% bullish,of 12 ratings,$55
+TCBIW,NULL,1440080588151,0,Not yet rated,NULL,N/A
+TXRH,$37.85,1440080588329,"15,911",75% bullish,of 4 ratings,$39.50
+TGTX,$14.99,1440080588403,"40,046",86% bullish,of 7 ratings,$27
+ANDE,$34.85,1440080588468,"5,611",50% bullish,of 2 ratings,$48.50
+TFSL,$17.29,1440080588495,"18,864",Not yet rated,NULL,$17
+ABCO,$51.55,1440080588530,"23,776",100% bearish,of 1 rating,$64
+BONT,$3.725,1440080588570,"143,058",67% bullish,of 3 ratings,$6.50
+TBBK,$7.86,1440080588605,"15,127",100% bearish,of 1 rating,$12
+CG,$22.1335,1440080588702,"135,595",50% bullish,of 4 ratings,$32.50
+CAKE,$55.68,1440080588842,"33,071",88% bullish,of 8 ratings,$57.50
+DSGX,$16.8,1440080588932,"3,280",50% bullish,of 4 ratings,$17.75
+CHEF,$16.28,1440080588972,"4,882",50% bullish,of 2 ratings,$22
+DXYN,$10.98,1440080589027,"2,878",67% bearish,of 3 ratings,$11
+TCFC,$20.63,1440080589059,100,Not yet rated,NULL,$24
+XONE,$6.4,1440080589102,"47,622",75% bullish,of 8 ratings,$8.50
+ENSG,$47.94,1440080589127,"2,794",75% bullish,of 4 ratings,$56.50
+FINL,$27.87,1440080589278,"40,841",75% bullish,of 4 ratings,$30
+FBMS,$17.9977,1440080589319,805,Not yet rated,NULL,$21
+TFM,$26.38,1440080589380,"342,597",60% bullish,of 5 ratings,$35
+FLIC,$26.87,1440080589416,"1,200",100% bearish,of 1 rating,$28
+HABT,$26.39,1440080589549,"34,761",75% bullish,of 4 ratings,$40
+HCKT,$14.77,1440080589575,"17,057",Not yet rated,NULL,$16
+HAIN,$63.64,1440080589603,"215,942",50% bullish,of 2 ratings,$70
+GT,$31.494,1440080589660,"215,553",78% bullish,of 9 ratings,$34
+CUBA,$8.4601,1440080589841,"16,563",100% bearish,of 1 rating,N/A
+INTG,NULL,1440080589872,0,Not yet rated,NULL,N/A
+JYNT,NULL,1440080589970,0,Not yet rated,NULL,$12.98
+KEYW,$8.13,1440080590004,"69,666",67% bullish,of 3 ratings,$12
+KHC,$74.28,1440080590069,"274,975",100% bullish,of 1 rating,$85
+MSG,$73.91,1440080590141,"365,384",50% bullish,of 4 ratings,$94
+MIK,$24.79,1440080590171,"10,374",67% bearish,of 3 ratings,$33
+MDCO,$31.59,1440080590193,"66,623",67% bullish,of 6 ratings,$32.50
+MIDD,$115.9,1440080590388,"7,132",75% bullish,of 4 ratings,$135
+NDAQ,$53.39,1440080590417,"102,154",91% bullish,of 32 ratings,$57
+STKS,NULL,1440080590457,0,Not yet rated,NULL,$8
+NAVG,$77.5,1440080590520,857,Not yet rated,NULL,$79
+PCLN,$1271.27,1440080590614,"60,655",53% bullish,of 15 ratings,"$1,480"
+PRSC,$45.91,1440080590662,"5,250",67% bearish,of 3 ratings,$62.50
+SPNC,$17.1414,1440080590721,"53,594",67% bearish,of 3 ratings,$25
+YORW,$20.74,1440080590854,632,Not yet rated,NULL,$24
+ULTI,$187.37,1440080590882,"24,873",100% bearish,of 1 rating,$190
+NCTY,$1.32,1440080590914,"8,900",100% bearish,of 1 rating,N/A
+TBPH,$13.2,1440080590941,"20,839",50% bullish,of 2 ratings,$17.50
+THRX,$14.02,1440080591017,"37,020",60% bullish,of 5 ratings,$15.50
+TST,$1.79,1440080591076,201,80% bearish,of 5 ratings,$4
+THOR,$62.77,1440080591149,"203,102",100% bearish,of 1 rating,$63.50
+TCRD,$12.1346,1440080591225,"19,280",50% bullish,of 2 ratings,$13.625
+THLD,$4.06,1440080591300,"25,728",83% bullish,of 6 ratings,$12
+THTI,$0.59,1440080591357,300,50% bullish,of 2 ratings,N/A
+TIGR,$0.2701,1440080591443,"12,250",100% bearish,of 1 rating,N/A
+TICC,$6.721,1440080591506,"24,089",67% bullish,of 3 ratings,$8
+TTS,$13.1702,1440080591573,"7,323",67% bullish,of 3 ratings,$16
+TSBK,$10.9,1440080591600,250,100% bullish,of 1 rating,N/A
+TIL,$3.7501,1440080591625,200,Not yet rated,NULL,N/A
+TIPT,$5.61,1440080591824,850,Not yet rated,NULL,N/A
+TIVO,$9.39,1440080591855,"112,300",83% bullish,of 12 ratings,$15
+TITN,$13.52,1440080591955,"4,407",75% bullish,of 4 ratings,$14
+TBRA,$13.06,1440080591995,"4,822",75% bullish,of 4 ratings,N/A
+TNXP,$6.74,1440080592054,"12,597",60% bullish,of 5 ratings,$14
+TKAI,$12.73,1440080592083,"7,861",67% bullish,of 3 ratings,$29
+TISA,$4.12,1440080592185,"5,854",50% bullish,of 2 ratings,$5
+TOPS,$1.1,1440080592254,440,50% bullish,of 2 ratings,N/A
+TORM,$5.54,1440080592337,400,100% bearish,of 1 rating,N/A
+TSEM,$13.3599,1440080592414,"35,792",88% bullish,of 17 ratings,$22
+TRNX,$23.33,1440080592469,"4,381",100% bearish,of 1 rating,$30
+TRCH,$1.005,1440080592496,"1,275",50% bullish,of 2 ratings,N/A
+TWER,$1.68,1440080592662,"3,302",100% bullish,of 2 ratings,$3
+TW,$125,1440080592716,"23,838",100% bearish,of 1 rating,$145
+CLUB,$2.45,1440080592741,"23,050",100% bearish,of 1 rating,$4.25
+TOWN,$18.241,1440080592818,"10,656",Not yet rated,NULL,N/A
+TCON,$11.21,1440080592955,"1,150",100% bearish,of 1 rating,$20
+TSCO,$92.084,1440080593035,"53,402",75% bullish,of 4 ratings,$105
+TSRE,$6.9,1440080593097,399,100% bearish,of 1 rating,$8.05
+TWMC,$3.65,1440080593123,"2,800",50% bullish,of 2 ratings,N/A
+TACT,$7.88,1440080593202,2,50% bullish,of 2 ratings,$7
+TGA,$2.82,1440080593272,"10,262",80% bullish,of 5 ratings,$4.78
+TBIO,$1.28,1440080593297,"35,525",Not yet rated,NULL,$8
+TRNS,NULL,1440080593442,0,100% bearish,of 1 rating,N/A
+TTHI,$2.15,1440080593498,"29,072",50% bullish,of 2 ratings,$10
+TZOO,$8.63,1440080593571,"2,650",67% bullish,of 3 ratings,N/A
+TRVN,$6.14,1440080593632,"23,494",50% bullish,of 2 ratings,$14
+TCBK,$25.26,1440080593660,"7,200",100% bearish,of 1 rating,$28.25
+TRIL,$17.775,1440080593686,"5,622",50% bullish,of 2 ratings,$30.50
+TRMB,$19.72,1440080593889,"133,524",60% bullish,of 5 ratings,$25
+TRS,$16.76,1440080593917,"22,891",67% bullish,of 3 ratings,$20
+TRIB,$16.28,1440080593943,"1,156",80% bullish,of 5 ratings,$23.50
+TRIP,$70.8475,1440080593998,"134,793",89% bullish,of 9 ratings,$85
+TBK,$14.08,1440080594073,"2,092",Not yet rated,NULL,$16
+TRIV,$5.37,1440080594101,"3,746",100% bearish,of 1 rating,$9
+TSC,$11.96,1440080594164,550,100% bearish,of 1 rating,$13
+TROV,$5.5997,1440080594295,"56,634",50% bullish,of 2 ratings,$9.50
+TROVU,NULL,1440080594327,0,Not yet rated,NULL,N/A
+THST,NULL,1440080594504,0,100% bullish,of 1 rating,$2.90
+TROVW,NULL,1440080594530,0,100% bearish,of 1 rating,N/A
+TRST,$6.08,1440080594661,"26,795",50% bullish,of 2 ratings,$7
+TRUE,$5.005,1440080594693,"105,411",63% bullish,of 8 ratings,$8
+TSRI,NULL,1440080594725,0,Not yet rated,NULL,N/A
+TRMK,$23.34,1440080594790,"42,781",Not yet rated,NULL,$25
+TTMI,$7.5,1440080594819,"43,204",100% bearish,of 2 ratings,$11.75
+TCX,$25.15,1440080594959,"10,934",100% bullish,of 2 ratings,$34
+TUBE,$11,1440080595060,"33,738",67% bearish,of 3 ratings,$19.50
+TUES,$9.48,1440080595126,"42,282",67% bearish,of 3 ratings,N/A
+TOUR,$14.11,1440080595157,"122,605",75% bearish,of 4 ratings,$17.50
+TUTI,NULL,1440080595253,0,Not yet rated,NULL,N/A
+HEAR,$2.14,1440080595337,"20,846",50% bullish,of 2 ratings,$3
+TUTT,NULL,1440080595392,0,Not yet rated,NULL,N/A
+FOX,$29.075,1440080595529,"814,463",63% bullish,of 16 ratings,$39.50
+FOXA,$29.21,1440080595603,"2,319,194",64% bullish,of 11 ratings,$37
+TWIN,$14.275,1440080595665,"9,456",50% bullish,of 2 ratings,$17
+TRCB,NULL,1440080595695,0,Not yet rated,NULL,N/A
+USCR,$53.44,1440080595716,"13,740",Not yet rated,NULL,$60
+PRTS,$2.29,1440080595767,700,67% bullish,of 3 ratings,$3.925
+USEG,$0.6,1440080595860,"3,524",67% bullish,of 3 ratings,$.65
+GROW,NULL,1440080596019,0,67% bullish,of 3 ratings,N/A
+UBIC,$13.11,1440080596045,556,50% bullish,of 2 ratings,$20
+UBNT,$33.35,1440080596080,"50,197",80% bullish,of 5 ratings,$30
+UFPT,$22.13,1440080596190,600,50% bullish,of 2 ratings,$25.50
+UCTT,$6.8111,1440080596218,"17,786",50% bullish,of 2 ratings,$9.50
+ULTA,$170.96,1440080596243,"38,653",86% bullish,of 7 ratings,$180
+ULBI,$4.42,1440080596471,40,100% bearish,of 1 rating,N/A
+RARE,$114.005,1440080596520,"21,931",50% bullish,of 2 ratings,$119
+ULTR,$0.69,1440080596575,214,100% bearish,of 1 rating,$3.50
+UTEK,$15.56,1440080596602,"26,040",100% bearish,of 1 rating,$22.50
+UMPQ,$16.78,1440080596626,"129,943",50% bullish,of 2 ratings,$20
+UMBF,$51.8,1440080596659,"13,276",100% bearish,of 1 rating,$57.50
+UNAM,NULL,1440080596759,0,100% bearish,of 1 rating,N/A
+UNIS,$1.33,1440080596787,"45,800",79% bullish,of 43 ratings,$7.125
+UNB,NULL,1440080596970,0,Not yet rated,NULL,N/A
+UBSH,$23.58,1440080596999,"3,392",100% bearish,of 1 rating,$24
+UNXL,$0.9433,1440080597105,"43,500",100% bullish,of 7 ratings,$20
+QURE,$26,1440080597140,"15,066",80% bullish,of 10 ratings,$40
+UBCP,$8.201,1440080597185,300,100% bullish,of 2 ratings,N/A
+UBOH,$15.8187,1440080597322,"1,000",100% bearish,of 1 rating,N/A
+UCBA,NULL,1440080597347,0,Not yet rated,NULL,N/A
+UCBI,$20.04,1440080597403,"23,582",Not yet rated,NULL,$23.50
+UBSI,$38.39,1440080597429,"37,523",Not yet rated,NULL,$38
+UDF,$17.918,1440080597570,"6,498",100% bullish,of 1 rating,N/A
+UBNK,$12.97,1440080597598,"6,483",Not yet rated,NULL,$14
+UCFC,$5,1440080597626,"3,666",Not yet rated,NULL,$5.875
+UFCS,$35.93,1440080597652,"2,559",100% bearish,of 1 rating,N/A
+UIHC,$13.99,1440080597785,"37,333",100% bullish,of 1 rating,$19
+UNFI,$48.8,1440080597859,"361,541",67% bearish,of 3 ratings,$60
+UNTD,$11.64,1440080598002,"3,837",100% bullish,of 1 rating,$19.875
+UTHR,$166.53,1440080598158,"27,283",50% bullish,of 8 ratings,$166
+USLM,$53,1440080598184,20,100% bearish,of 1 rating,N/A
+USBI,$8.5,1440080598222,"9,100",Not yet rated,NULL,N/A
+UBFO,$5.1,1440080598252,300,100% bullish,of 1 rating,N/A
+OLED,$36.858,1440080598320,"58,211",75% bullish,of 8 ratings,$62
+UG,$19.3,1440080598348,700,100% bearish,of 1 rating,N/A
+UNTY,$9.95,1440080598377,540,100% bullish,of 1 rating,N/A
+UEIC,$47.01,1440080598408,"7,254",Not yet rated,NULL,$61.75
+UVSP,$19.2501,1440080598648,"2,298",Not yet rated,NULL,$24
+USAP,$12.25,1440080598718,327,50% bullish,of 2 ratings,N/A
+UPIP,$0.8,1440080598764,"11,181",75% bullish,of 4 ratings,$3.75
+UFPI,$63.67,1440080598792,"3,916",100% bullish,of 1 rating,$65.50
+UACL,$20.14,1440080598813,"1,078",100% bearish,of 1 rating,$28
+UPLD,$7.72,1440080598949,"2,725",100% bearish,of 1 rating,$12
+URRE,$0.84,1440080598996,"3,265",89% bullish,of 9 ratings,$2.25
+URBN,$30.57,1440080599145,"308,072",70% bearish,of 10 ratings,$38
+DTUS,$30.948,1440080599243,200,Not yet rated,NULL,N/A
+DTYS,$19.01,1440080599308,"1,030",Not yet rated,NULL,N/A
+ECOL,$50.36,1440080599336,"7,660",67% bullish,of 3 ratings,$53.50
+DTYL,NULL,1440080599362,0,Not yet rated,NULL,N/A
+FLAT,NULL,1440080599389,0,Not yet rated,NULL,N/A
+DFVS,NULL,1440080599414,0,Not yet rated,NULL,N/A
+DLBS,$20.244,1440080599634,600,Not yet rated,NULL,N/A
+DLBL,NULL,1440080599677,0,Not yet rated,NULL,N/A
+USAT,$2.94,1440080599770,"14,350",83% bullish,of 6 ratings,$4
+USATP,NULL,1440080599808,0,80% bullish,of 5 ratings,N/A
+USAK,$20.18,1440080599836,"4,383",100% bullish,of 6 ratings,$18
+STPP,NULL,1440080599858,0,Not yet rated,NULL,N/A
+USMD,NULL,1440080599891,0,100% bearish,of 1 rating,N/A
+UTIW,$7.75,1440080600073,"53,525",100% bearish,of 2 ratings,$11
+UTMD,$54.4,1440080600150,730,Not yet rated,NULL,N/A
+VALU,NULL,1440080600282,0,100% bullish,of 2 ratings,N/A
+UTSI,$1.95,1440080600309,"1,945",67% bullish,of 3 ratings,$6.50
+VALX,$25.4,1440080600331,500,Not yet rated,NULL,N/A
+VNDA,$11.61,1440080600360,"27,806",75% bullish,of 4 ratings,$20
+VWOB,$75.4,1440080600522,"5,485",Not yet rated,NULL,N/A
+VNQI,$53.5799,1440080600551,"76,618",Not yet rated,NULL,N/A
+VGIT,$65.05,1440080600662,"11,270",Not yet rated,NULL,N/A
+VCLT,$87.285,1440080600708,"4,533",Not yet rated,NULL,N/A
+VGLT,$77.64,1440080600736,"7,729",Not yet rated,NULL,N/A
+VCIT,$84.878,1440080600768,"23,065",Not yet rated,NULL,N/A
+VNR,$7.0999,1440080600797,"236,953",83% bullish,of 6 ratings,$16
+VMBS,$53.15,1440080600867,"3,783",Not yet rated,NULL,N/A
+VNRAP,$19.87,1440080600955,"3,188",100% bearish,of 1 rating,N/A
+VNRBP,$15.6501,1440080601025,"23,410",100% bearish,of 1 rating,N/A
+VONE,$95.2001,1440080601242,"14,392",Not yet rated,NULL,N/A
+VNRCP,$16.15,1440080601272,"10,801",100% bearish,of 1 rating,N/A
+VTWG,$107.629,1440080601377,680,100% bearish,of 1 rating,N/A
+VONG,$102.2716,1440080601416,"2,252",Not yet rated,NULL,N/A
+VTWO,$94.977,1440080601444,"9,349",100% bearish,of 1 rating,N/A
+VTHR,$95.66,1440080601471,234,Not yet rated,NULL,N/A
+VONV,$88.12,1440080601498,"3,089",Not yet rated,NULL,N/A
+VTWV,$83.46,1440080601630,499,100% bearish,of 1 rating,N/A
+VGSH,$61.0701,1440080601734,"6,241",Not yet rated,NULL,N/A
+VCSH,$79.485,1440080601773,"59,746",Not yet rated,NULL,N/A
+VXUS,$47.52,1440080601830,"314,155",50% bullish,of 2 ratings,N/A
+VTIP,$48.2103,1440080601864,"25,041",Not yet rated,NULL,N/A
+BNDX,$53.107,1440080602005,"41,142",Not yet rated,NULL,N/A
+VPCO,$0.74,1440080602067,"10,194",50% bullish,of 2 ratings,N/A
+VPCOU,$10.48,1440080602093,93,Not yet rated,NULL,N/A
+VBLT,$5.64,1440080602277,"141,552",60% bearish,of 5 ratings,$13
+VASC,$37.581,1440080602329,"4,020",50% bullish,of 2 ratings,$40
+VRNS,$23.24,1440080602364,"19,560",80% bullish,of 5 ratings,$30
+VDSI,$17.82,1440080602424,"107,310",75% bullish,of 4 ratings,$33
+VBIV,NULL,1440080602458,0,100% bearish,of 1 rating,$7
+WOOF,$58.08,1440080602488,"24,792",100% bearish,of 2 ratings,$62
+VECO,$22.58,1440080602515,"60,566",67% bullish,of 3 ratings,$36.50
+APPY,$0.4125,1440080602649,"8,705",100% bullish,of 8 ratings,$.50
+VRA,$10.29,1440080602753,"21,720",67% bearish,of 3 ratings,$14
+VCYT,$8.96,1440080602828,"17,403",100% bearish,of 1 rating,$11.50
+VCEL,$3.28,1440080602896,200,61% bearish,of 36 ratings,$6.90
+VSTM,$7.04,1440080602964,"47,030",80% bullish,of 5 ratings,$19
+VRNT,$57.34,1440080602993,"21,524",50% bullish,of 4 ratings,$70
+VRSN,$69.03,1440080603042,"104,180",67% bearish,of 6 ratings,$63.75
+VRSK,$75.4415,1440080603093,"65,438",75% bullish,of 4 ratings,$87.50
+VBTX,$15.49,1440080603236,100,Not yet rated,NULL,$16
+VRML,$1.96,1440080603267,100,100% bullish,of 1 rating,$4
+VSAR,$13.33,1440080603369,"33,126",100% bearish,of 1 rating,$17
+VTNR,$2.31,1440080603405,"8,680",75% bullish,of 4 ratings,$4.50
+VRTX,$138.94,1440080603436,"144,659",75% bullish,of 8 ratings,$145
+VRTA,$3.995,1440080603510,"9,000",100% bearish,of 1 rating,N/A
+VRTB,NULL,1440080603562,0,50% bullish,of 2 ratings,N/A
+VIA,$41.6299,1440080603666,"12,616",67% bullish,of 3 ratings,N/A
+VIAV,$5.43,1440080603809,"159,014",50% bullish,of 8 ratings,$7
+VSAT,$62.42,1440080603836,"16,457",100% bearish,of 1 rating,$65
+VIAB,$40.91,1440080603858,"688,586",100% bearish,of 3 ratings,$63
+VBND,NULL,1440080603990,0,100% bearish,of 1 rating,N/A
+VICR,$10.21,1440080604015,"2,287",100% bearish,of 1 rating,N/A
+VUSE,NULL,1440080604167,0,Not yet rated,NULL,N/A
+VIDI,$20.93,1440080604195,900,Not yet rated,NULL,N/A
+VICL,$0.6229,1440080604225,"31,989",90% bullish,of 10 ratings,$2.075
+VGGL,$1.3599,1440080604262,"75,501",67% bearish,of 3 ratings,$12
+VDTH,$11.5,1440080604287,"2,942",100% bearish,of 1 rating,$17
+VBFC,NULL,1440080604421,0,Not yet rated,NULL,N/A
+VKTX,$7.59,1440080604473,300,Not yet rated,NULL,N/A
+VLGEA,$29.32,1440080604499,"1,270",100% bearish,of 1 rating,N/A
+VIMC,$11.25,1440080604635,"27,505",60% bullish,of 5 ratings,$14
+VIP,$5.1,1440080604711,"243,879",67% bullish,of 3 ratings,$5.80
+VNOM,$15.64,1440080604738,"1,046",100% bearish,of 1 rating,$20.50
+VIRC,$2.49,1440080604889,120,100% bearish,of 2 ratings,$3
+VA,$34.28,1440080604959,"62,356",78% bullish,of 9 ratings,$42
+VIRT,$21.31,1440080604986,"21,959",100% bullish,of 1 rating,$24
+VRTS,$118.555,1440080605062,"1,963",67% bullish,of 3 ratings,$132.50
+VRTU,$48.92,1440080605118,"15,716",100% bearish,of 1 rating,$50
+VSCP,$2.18,1440080605145,608,Not yet rated,NULL,$8.75
+VISN,$9.845,1440080605175,"11,909",80% bearish,of 5 ratings,N/A
+VTAE,$7.76,1440080605311,"4,938",100% bearish,of 1 rating,$18
+VVUS,$1.1,1440080605344,"156,036",59% bullish,of 17 ratings,$3.50
+VTL,$16.13,1440080605403,"2,812",50% bullish,of 2 ratings,$40
+VIIZ,NULL,1440080605439,0,100% bearish,of 1 rating,N/A
+VIIX,$23.16,1440080605537,"36,471",100% bearish,of 1 rating,N/A
+VOD,$36.63,1440080605565,"430,307",67% bullish,of 21 ratings,$38.45
+VLTC,$7.75,1440080605696,"42,860",80% bullish,of 10 ratings,N/A
+VOXX,$7.66,1440080605723,"3,618",67% bullish,of 3 ratings,$9.50
+VTVT,$9.99,1440080605857,"3,671",Not yet rated,NULL,N/A
+VRNG,$0.586,1440080605917,"71,238",90% bullish,of 20 ratings,N/A
+VSEC,$45.32,1440080605944,600,50% bullish,of 2 ratings,N/A
+VUZI,$4.317,1440080605992,"13,440",Not yet rated,NULL,$7
+VWR,$26.57,1440080606126,"6,918",100% bullish,of 1 rating,$30
+WBA,$90.36,1440080606156,"382,633",100% bullish,of 4 ratings,$95
+WGBS,$1.2,1440080606182,"2,751",Not yet rated,NULL,$9.75
+WRES,$0.3855,1440080606362,"88,508",83% bullish,of 6 ratings,$1.125
+WAFD,$22.76,1440080606425,"27,378",100% bearish,of 1 rating,$23
+WAFDW,NULL,1440080606452,0,100% bearish,of 1 rating,N/A
+WASH,$38.79,1440080606594,"2,332",Not yet rated,NULL,$39
+WFBI,$18.3,1440080606625,100,100% bullish,of 1 rating,N/A
+WAVX,$0.155,1440080606647,"6,100",76% bullish,of 17 ratings,N/A
+WAYN,$13.03,1440080606732,101,Not yet rated,NULL,N/A
+WSBF,$12.96,1440080606774,"7,655",Not yet rated,NULL,N/A
+WSTG,$17.29,1440080606880,"1,183",100% bullish,of 1 rating,N/A
+WWWW,$21.95,1440080606961,"43,937",50% bullish,of 6 ratings,$28
+WDFC,$87.95,1440080607012,"1,965",50% bullish,of 2 ratings,$90
+FLAG,NULL,1440080607038,0,Not yet rated,NULL,N/A
+WBMD,$43.21,1440080607064,"9,455",67% bearish,of 3 ratings,$52
+WEN,$9.43,1440080607258,"549,760",82% bullish,of 11 ratings,$11.875
+WB,$12.9,1440080607317,"130,208",71% bullish,of 7 ratings,$19.50
+WEBK,NULL,1440080607469,0,100% bullish,of 1 rating,N/A
+WERN,$28,1440080607497,"61,167",100% bullish,of 1 rating,$32
+WSBC,$31.55,1440080607541,"4,043",Not yet rated,NULL,$37
+WTBA,$19.5,1440080607711,"3,692",Not yet rated,NULL,N/A
+WSTL,$1.15,1440080607742,204,80% bullish,of 5 ratings,$2.25
+WMAR,$9.22,1440080607764,608,100% bearish,of 1 rating,$12
+WSTC,$25.2664,1440080607794,"17,825",100% bearish,of 1 rating,$34
+WABC,$47.46,1440080607816,"8,587",100% bearish,of 1 rating,$42
+WBB,$17.58,1440080607965,200,Not yet rated,NULL,N/A
+WDC,$79.465,1440080607997,"251,680",79% bullish,of 14 ratings,$104
+WFD,$7.4,1440080608022,"1,572",100% bearish,of 1 rating,$7.75
+WPRT,$3.71,1440080608159,"30,336",78% bullish,of 18 ratings,$4.80
+WLB,$13.47,1440080608201,"67,067",100% bearish,of 2 ratings,$24
+WEYS,$27.74,1440080608308,66,100% bearish,of 1 rating,N/A
+WHLR,$1.91,1440080608333,"7,231",60% bullish,of 5 ratings,$2.75
+WHLRP,$23.51,1440080608467,"1,450",100% bearish,of 1 rating,N/A
+WHLRW,$0.049,1440080608527,9,100% bearish,of 1 rating,N/A
+WHFBL,$25.2,1440080608552,"2,100",100% bullish,of 3 ratings,N/A
+WHF,$12.7594,1440080608578,"14,752",100% bullish,of 3 ratings,$15
+WFM,$32.96,1440080608710,"545,890",74% bullish,of 23 ratings,$38
+WILN,$2.01,1440080608747,"6,435",60% bullish,of 5 ratings,N/A
+WHLM,NULL,1440080608777,0,Not yet rated,NULL,N/A
+WLDN,$9.41,1440080608841,"8,236",100% bearish,of 1 rating,$20
+WVVI,$7.248,1440080608910,"5,157",100% bullish,of 1 rating,N/A
+WIN,$6.2,1440080608944,"257,153",85% bullish,of 27 ratings,$7
+WIBC,$10.84,1440080609042,"30,649",50% bullish,of 2 ratings,$13
+WLFC,$15.582,1440080609070,"2,607",Not yet rated,NULL,N/A
+WINA,$100.4,1440080609354,"1,275",Not yet rated,NULL,N/A
+WING,$28.16,1440080609412,"23,986",100% bearish,of 1 rating,$36
+AGZD,$48.29,1440080609437,53,100% bearish,of 1 rating,N/A
+AGND,$44.04,1440080609489,381,100% bearish,of 1 rating,N/A
+WTFC,$52.57,1440080609518,"38,446",100% bullish,of 1 rating,$57
+WTFCM,NULL,1440080609541,0,Not yet rated,NULL,N/A
+WTFCW,NULL,1440080609562,0,Not yet rated,NULL,N/A
+HYND,NULL,1440080609597,0,100% bearish,of 1 rating,N/A
+CXSE,$45.37,1440080609847,345,Not yet rated,NULL,N/A
+EMCB,$68.6485,1440080609872,455,Not yet rated,NULL,N/A
+DGRE,$20.4355,1440080609902,719,Not yet rated,NULL,N/A
+HYZD,NULL,1440080609929,0,100% bearish,of 1 rating,N/A
+EMCG,NULL,1440080610002,0,Not yet rated,NULL,N/A
+DXGE,$27.1763,1440080610061,"67,769",100% bearish,of 1 rating,N/A
+WETF,$23.01,1440080610247,"350,724",50% bullish,of 2 ratings,$27.50
+GULF,$18.44,1440080610272,"6,318",Not yet rated,NULL,N/A
+DXKW,$18.15,1440080610302,702,100% bearish,of 1 rating,N/A
+DXJS,$35.928,1440080610335,"9,866",Not yet rated,NULL,N/A
+JGBB,NULL,1440080610356,0,Not yet rated,NULL,N/A
+CRDT,$73.51,1440080610447,200,Not yet rated,NULL,N/A
+DGRS,$27.88,1440080610487,"2,530",Not yet rated,NULL,N/A
+DGRW,$30.5378,1440080610513,"6,612",Not yet rated,NULL,N/A
+DXPS,NULL,1440080610709,0,100% bearish,of 1 rating,N/A
+UBND,$49.76,1440080610756,96,Not yet rated,NULL,N/A
+WBKC,NULL,1440080610904,0,100% bullish,of 1 rating,N/A
+WLRH,$10.19,1440080610934,"24,800",Not yet rated,NULL,N/A
+WIX,$22.17,1440080610966,"33,529",83% bullish,of 6 ratings,$30
+WLRHU,NULL,1440080610991,0,100% bullish,of 1 rating,N/A
+WLRHW,$0.82,1440080611033,600,Not yet rated,NULL,N/A
+WWD,$47.3,1440080611060,"13,971",50% bullish,of 2 ratings,$59
+WRLD,$33.7,1440080611190,"5,720",50% bullish,of 4 ratings,$38
+WPPGY,$108.99,1440080611370,"8,565",100% bearish,of 1 rating,$131.51
+WPCS,$1.0502,1440080611424,"4,847",67% bearish,of 3 ratings,N/A
+WMGIZ,$3.65,1440080611453,"1,500",Not yet rated,NULL,N/A
+WSFS,$28.36,1440080611552,"7,588",100% bearish,of 1 rating,$29.50
+WMGI,$24.16,1440080611647,"230,056",Not yet rated,NULL,$32
+WSFSL,NULL,1440080611673,0,Not yet rated,NULL,N/A
+WOWO,$7.34,1440080611702,"4,199",100% bearish,of 1 rating,N/A
+WSCI,$5.5,1440080611832,300,100% bullish,of 1 rating,N/A
+WYNN,$87.99,1440080611871,"241,211",69% bullish,of 13 ratings,$124
+WVFC,$10.9,1440080611988,201,Not yet rated,NULL,N/A
+XNCR,$17.58,1440080612157,"16,792",67% bullish,of 3 ratings,$27
+XCRA,$6.06,1440080612183,"12,548",67% bearish,of 3 ratings,$13.50
+XBKS,NULL,1440080612324,0,100% bearish,of 1 rating,$6.50
+XENE,$10.11,1440080612457,"3,080",75% bullish,of 4 ratings,$14
+XELB,NULL,1440080612524,0,Not yet rated,NULL,$10.50
+XBIT,$17.64,1440080612605,"12,829",80% bullish,of 5 ratings,N/A
+XGTI,$0.62,1440080612657,"93,538",60% bearish,of 15 ratings,$10
+XNPT,$6.061,1440080612737,"16,868",60% bullish,of 5 ratings,$13
+XLNX,$41.79,1440080612766,"157,695",71% bullish,of 7 ratings,$42
+XGTIW,$0.1,1440080612795,1,100% bullish,of 1 rating,N/A
+XOMA,$0.8246,1440080612900,"199,803",92% bullish,of 13 ratings,$2
+XPLR,$5.75,1440080612964,"10,500",67% bullish,of 3 ratings,$10
+XTLB,$1.79,1440080613038,655,100% bullish,of 1 rating,$6
+XNET,$8.6,1440080613070,"47,027",100% bearish,of 6 ratings,$14
+XOOM,$24.915,1440080613101,"48,585",60% bullish,of 5 ratings,$25
+YHOO,$34.485,1440080613173,"1,534,886",85% bullish,of 190 ratings,$51
+YNDX,$11.69,1440080613235,"254,347",77% bullish,of 48 ratings,$20
+YDLE,$16.48,1440080613372,"21,447",50% bullish,of 2 ratings,$19
+YOD,$2.12,1440080613426,"14,510",100% bullish,of 3 ratings,$5
+YCB,NULL,1440080613526,0,Not yet rated,NULL,$33.50
+YRCW,$18.43,1440080613551,"53,131",86% bullish,of 21 ratings,$27
+YY,$58.87,1440080613577,"131,747",77% bullish,of 13 ratings,$79
+YECO,$5.95,1440080613709,249,100% bullish,of 2 ratings,N/A
+ZFGN,$37.035,1440080613743,"20,806",50% bullish,of 2 ratings,$53
+ZAGG,$7.32,1440080613807,"21,020",79% bullish,of 19 ratings,$10.25
+ZAIS,$9.81,1440080613834,"1,200",Not yet rated,NULL,N/A
+ZHNE,$1.65,1440080613993,"5,112",50% bullish,of 4 ratings,$3.875
+ZBRA,$86.97,1440080614026,"84,403",50% bullish,of 4 ratings,$115
+ZAZA,$0.56,1440080614054,"3,810",100% bearish,of 2 ratings,N/A
+ZLTQ,$35.3288,1440080614077,"71,616",86% bullish,of 7 ratings,$40
+ZAVVV,NULL,1440080614134,0,NULL,NULL,NULL
+Z,$25.805,1440080614214,"177,206",Not yet rated,NULL,N/A
+ZCVVV,NULL,1440080614236,0,NULL,NULL,NULL
+ZNWAA,NULL,1440080614435,0,Not yet rated,NULL,N/A
+ZN,$1.5199,1440080614467,"8,400",100% bullish,of 6 ratings,N/A
+ZION,$29,1440080614542,"499,749",67% bullish,of 3 ratings,$33.50
+ZIONW,$4.5,1440080614569,"3,400",100% bearish,of 1 rating,N/A
+ZIONZ,NULL,1440080614597,0,100% bearish,of 1 rating,N/A
+ZIOP,$8.99,1440080614704,"477,586",50% bullish,of 6 ratings,$10
+ZSAN,NULL,1440080614833,0,Not yet rated,NULL,$21
+ZIXI,$4.67,1440080614860,"32,083",88% bullish,of 8 ratings,$6
+ZGNX,$17.8301,1440080614933,"49,053",84% bullish,of 19 ratings,$27.50
+ZSPH,$50.35,1440080614996,"18,512",100% bearish,of 1 rating,$75
+ZU,$18.16,1440080615022,"157,693",75% bullish,of 8 ratings,$16.875
+ZUMZ,$23.15,1440080615077,"9,869",100% bearish,of 3 ratings,$28
+ZYNE,$30.85,1440080615103,"12,950",50% bullish,of 2 ratings,N/A
+ZNGA,$2.525,1440080615246,"1,952,971",66% bullish,of 157 ratings,$3
