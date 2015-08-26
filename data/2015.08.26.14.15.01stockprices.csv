@@ -1,0 +1,33 @@
+Symbol,Price,Date,Volume,Rating,RatingVoteCount,OneYearEstimate
+FCCY,$11.64,1440598502496,200,100% bullish,of 1 rating,$13
+ADXS,$13.42,1440598502893,"252,080",64% bullish,of 14 ratings,$27
+ANAT,$97.635,1440598503747,"1,554",100% bullish,of 1 rating,N/A
+BNTC,$8.04,1440598505474,"4,268",100% bullish,of 1 rating,N/A
+ADRU,$21.52,1440598505779,346,100% bearish,of 1 rating,N/A
+BMTC,$28.155,1440598506202,"12,135",Not yet rated,NULL,$34
+CLBH,$12.53,1440598506791,"2,100",Not yet rated,NULL,$16.50
+ELSE,$3.85,1440598510077,206,60% bullish,of 5 ratings,N/A
+EMCI,$22.49,1440598510236,"1,216",Not yet rated,NULL,N/A
+FFIV,$119.3725,1440598510753,"69,164",63% bullish,of 8 ratings,$132
+ESRX,$82.9739,1440598510816,"294,408",67% bearish,of 6 ratings,$101
+SRET,NULL,1440598513007,0,Not yet rated,NULL,N/A
+HBK,$13.75,1440598513497,204,50% bullish,of 2 ratings,N/A
+HOFT,$23.46,1440598514327,"2,506",100% bearish,of 1 rating,N/A
+INTLL,$25.78,1440598515262,"1,150",Not yet rated,NULL,N/A
+JBSS,$51.21,1440598516045,"3,764",67% bearish,of 3 ratings,N/A
+LCNB,$15.93,1440598516680,10,100% bearish,of 1 rating,$18
+MEIL,NULL,1440598518054,0,50% bullish,of 2 ratings,N/A
+NEO,$5.74,1440598518867,"25,549",50% bullish,of 2 ratings,$7.50
+PTSI,$40.2,1440598520324,"3,260",100% bearish,of 1 rating,N/A
+PIRS,$2.65,1440598520924,"8,167",Not yet rated,NULL,$7.50
+PLPM,$2.925,1440598521086,"12,793",100% bullish,of 2 ratings,$3.50
+PSBH,NULL,1440598521652,0,Not yet rated,NULL,N/A
+PBIP,$14.21,1440598521705,400,Not yet rated,NULL,N/A
+REGN,$516.03,1440598522251,"53,270",92% bullish,of 13 ratings,$600
+RPRXZ,NULL,1440598522311,0,100% bearish,of 1 rating,N/A
+SENEB,NULL,1440598523486,0,Not yet rated,NULL,N/A
+SODA,$13.875,1440598523939,"14,834",74% bullish,of 19 ratings,$22
+WHLRP,$23.16,1440598528043,200,100% bearish,of 1 rating,N/A
+WIN,$6.74,1440598528228,"248,822",85% bullish,of 27 ratings,$7
+XGTIW,NULL,1440598528699,0,100% bullish,of 1 rating,N/A
+ZGNX,$17.035,1440598528736,"23,742",84% bullish,of 19 ratings,$27.50

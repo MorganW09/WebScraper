@@ -1,0 +1,12 @@
+Symbol,Price,Date,Volume,Rating,RatingVoteCount,OneYearEstimate
+ANAT,$97.49,1440522904011,"29,681",100% bullish,of 1 rating,N/A
+BIOC,$1.99,1440522905597,"199,754",83% bullish,of 6 ratings,$3.85
+FCBC,$17.26,1440522910871,"2,354",Not yet rated,NULL,$18
+FFIC,$19.7,1440522911731,"30,298",Not yet rated,NULL,$21
+GOODP,$25.1161,1440522912410,200,Not yet rated,NULL,N/A
+HRMNU,NULL,1440522913100,0,Not yet rated,NULL,N/A
+JASO,$7.3701,1440522914977,"620,950",82% bullish,of 17 ratings,$10
+PMFG,$6.32,1440522919566,"6,238",100% bearish,of 1 rating,N/A
+RUTH,$16.0004,1440522921122,"38,348",50% bullish,of 4 ratings,$19.75
+SNBC,$19.74,1440522922812,500,100% bearish,of 1 rating,$22.25
+ZN,$1.4299,1440522926275,"67,546",100% bullish,of 6 ratings,N/A
